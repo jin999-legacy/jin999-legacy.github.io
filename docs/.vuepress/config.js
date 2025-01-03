@@ -11,6 +11,11 @@ export default defineUserConfig({
       lang: 'zh-TW',
       description: 'Jin999',
     },
+    '/cn/': {
+      title: 'Jin999',
+      lang: 'zh-CN',
+      description: 'Jin999',
+    },
     '/en/': {
       title: 'Jin999',
       lang: 'en-US',

@@ -6,25 +6,25 @@ createTime: 2025/01/02 23:28:30
 permalink: /article/j68kotkm/
 ---
 
-## 標題 2
+## 标题 2
 
-### 標題 3
+### 标题 3
 
-#### 標題 4
+#### 标题 4
 
-##### 標題 5
+##### 标题 5
 
-###### 標題 6
+###### 标题 6
 
 加粗：**加粗文字**
 
-斜體： _斜體文字_
+斜体： _斜体文字_
 
 ~~删除文字~~
 
-内容 ==標記==
+内容 ==标记==
 
-數字表達式： $-(2^{n-1})$ ~ $2^{n-1} -1$
+数学表达式： $-(2^{n-1})$ ~ $2^{n-1} -1$
 
 $\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
 = \left(\frac {y^{\omega}} {\omega}\right) \left\{(\log y)^r + \sum_{i=1}^r \frac {(-1)^ Ir \cdots (r-i+1) (\log y)^{ri}} {\omega^i} \right\}$
@@ -38,12 +38,12 @@ H~2~O
 :::
 
 ::: right
-内容右對齊
+内容右对齐
 :::
 
-- 無序列表1
-- 無序列表2
-- 無序列表3
+- 无序列表1
+- 无序列表2
+- 无序列表3
 
 1. 有序列表1
 2. 有序列表2
@@ -64,9 +64,9 @@ H~2~O
 >
 > 引用内容
 
-[連結](/)
+[链接](/)
 
-[外部連結](https://github.com/pengzhanbo)
+[外部链接](https://github.com/pengzhanbo)
 
 **Badge：**
 
@@ -75,7 +75,7 @@ H~2~O
 - <Badge type="warning" text="warning badge" />
 - <Badge type="danger" text="danger badge" />
 
-**圖示：**
+**图标：**
 
 - home - <Icon name="material-symbols:home" color="currentColor" size="1em" />
 - vscode - <Icon name="skill-icons:vscode-dark" size="2em" />
@@ -83,7 +83,7 @@ H~2~O
 
 **demo wrapper：**
 
-::: demo-wrapper title="範例" no-padding height="200px"
+::: demo-wrapper title="示例" no-padding height="200px"
 <style scoped>
 .open-door {
   display: flex;
@@ -102,7 +102,7 @@ H~2~O
 
 :::
 
-**程式：**
+**代码：**
 
 ```js whitespace
 const a = 1
@@ -123,7 +123,7 @@ const obj = {
 }
 ```
 
-**程式分组：**
+**代码分组：**
 
 ::: code-tabs
 @tab tab1
@@ -144,7 +144,7 @@ const c: number = a + b
 
 :::
 
-**程式區域提示：**
+**代码块高亮：**
 
 ```ts
 function foo() {
@@ -160,7 +160,7 @@ function foo() {
 }
 ```
 
-**程式區域聚焦：**
+**代码块聚焦：**
 
 ```ts
 function foo() {
@@ -168,8 +168,8 @@ function foo() {
 }
 ```
 
-::: note 註解
-註解内容 [link](https://github.com/pengzhanbo) `inline code`
+::: note 注释
+注释内容 [link](https://github.com/pengzhanbo) `inline code`
 
 ```js
 const a = 1
@@ -179,8 +179,8 @@ const c = a + b
 
 :::
 
-::: info 訊息
-訊息内容 [link](https://github.com/pengzhanbo) `inline code`
+::: info 信息
+信息内容 [link](https://github.com/pengzhanbo) `inline code`
 
 ```js
 const a = 1
@@ -212,8 +212,8 @@ const c = a + b
 
 :::
 
-::: caution 錯誤
-錯誤内容 [link](https://github.com/pengzhanbo) `inline code`
+::: caution 错误
+错误内容 [link](https://github.com/pengzhanbo) `inline code`
 
 ```js
 const a = 1
@@ -254,9 +254,9 @@ const c = a + b
 > [!important]
 > important
 
-**程式範例：**
+**代码演示：**
 
-::: normal-demo Demo 範例
+::: normal-demo Demo 演示
 
 ```html
 <h1>Hello Word!</h1>
@@ -277,38 +277,38 @@ span {
 
 :::
 
-**選項Tab：**
+**选项卡：**
 
 ::: tabs
-@tab 標題1
-内容區域
+@tab 标题1
+内容区块
 
-@tab 標題2
-内容區域
+@tab 标题2
+内容区块
 :::
 
 :::: warning
 ::: tabs
-@tab 標題1
-内容區域
+@tab 标题1
+内容区块
 
-@tab 標題2
-内容區域
+@tab 标题2
+内容区块
 :::
 ::::
 
-**注釋：**
+**脚注：**
 
-注釋 1 連結[^first]。
+脚注 1 链接[^first]。
 
-注釋 2 連結[^second]。
+脚注 2 链接[^second]。
 
-行内的注釋^[行内注釋文本] 定义。
+行内的脚注^[行内脚注文本] 定义。
 
-重複的頁腳定義[^second]。
+重复的页脚定义[^second]。
 
-[^first]: 頁腳注釋 **可以包含特殊标记**
+[^first]: 脚注 **可以包含特殊标记**
 
     也可以由多个段落组成
 
-[^second]: 脚注釋文字。
+[^second]: 脚注文字。

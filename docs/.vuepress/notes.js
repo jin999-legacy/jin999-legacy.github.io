@@ -1,17 +1,17 @@
 import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
 
-/* =================== locale: zh-CN ======================= */
+/* =================== locale: zh-TW ======================= */
 
-const zhDemoNote = defineNoteConfig({
+const zhTWDemoNote = defineNoteConfig({
   dir: 'demo',
   link: '/demo',
   sidebar: ['', 'foo', 'bar'],
 })
 
-export const zhNotes = defineNotesConfig({
+export const zhTWNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [zhDemoNote],
+  notes: [zhTWDemoNote],
 })
 
 /* =================== locale: en-US ======================= */
@@ -28,3 +28,16 @@ export const enNotes = defineNotesConfig({
   notes: [enDemoNote],
 })
 
+/* =================== locale: zh-CN ======================= */
+
+const zhCNDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const zhCNNotes = defineNotesConfig({
+  dir: 'notes',
+  link: '/cn/',
+  notes: [zhCNDemoNote],
+})

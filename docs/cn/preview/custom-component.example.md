@@ -1,8 +1,8 @@
 ---
-title: 自定義元件
+title: 自定义组件
 tags:
-  - 預覽
-  - 元件
+  - 预览
+  - 组件
 createTime: 2025/01/02 23:28:30
 permalink: /article/p1sj37ag/
 ---
