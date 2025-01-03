@@ -3,7 +3,7 @@ title: Markdown
 tags:
   - markdown
 createTime: 2025/01/02 23:28:30
-permalink: /article/j68kotkm/
+permalink: /article/j78kotkm/
 ---
 
 ## 标题 2
