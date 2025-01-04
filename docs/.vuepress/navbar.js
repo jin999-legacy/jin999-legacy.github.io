@@ -33,3 +33,14 @@ export const enNavbar = defineNavbarConfig([
   },
 ])
 
+export const jaNavbar = defineNavbarConfig([
+  { text: 'ホーム', link: '/ja/' },
+  { text: 'ブログ', link: '/ja/blog/' },
+  { text: 'タグ', link: '/ja/blog/tags/' },
+  { text: 'アーカイブ', link: '/ja/blog/archives/' },
+  {
+    text: 'ノート',
+    items: [{ text: 'デモ', link: '/ja/notes/demo/README.md' }]
+  },
+])
+

@@ -21,6 +21,11 @@ export default defineUserConfig({
       lang: 'en-US',
       description: 'Jin999',
     },
+    '/ja/': {
+      title: 'Jin999',
+      lang: 'ja-JP',
+      description: 'Jin999',
+    },
   },
 
   bundler: viteBundler(),

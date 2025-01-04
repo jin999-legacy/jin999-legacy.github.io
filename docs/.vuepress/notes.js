@@ -41,3 +41,17 @@ export const zhCNNotes = defineNotesConfig({
   link: '/cn/',
   notes: [zhCNDemoNote],
 })
+
+/* =================== locale: ja-JP ======================= */
+
+const jaDemoNote = defineNoteConfig({
+  dir: 'demo',
+  link: '/demo',
+  sidebar: ['', 'foo', 'bar'],
+})
+
+export const jaNotes = defineNotesConfig({
+  dir: 'notes',
+  link: '/cn/',
+  notes: [jaDemoNote],
+})

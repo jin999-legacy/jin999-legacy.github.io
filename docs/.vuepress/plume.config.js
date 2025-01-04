@@ -1,6 +1,6 @@
 import { defineThemeConfig } from 'vuepress-theme-plume'
-import { enNavbar, zhTWNavbar, zhCNNavbar } from './navbar'
-import { enNotes, zhTWNotes, zhCNNotes } from './notes'
+import { enNavbar, zhTWNavbar, zhCNNavbar, jaNavbar } from './navbar'
+import { enNotes, zhTWNotes, zhCNNotes, jaNotes } from './notes'
 
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
@@ -63,12 +63,12 @@ export default defineThemeConfig({
        * 公告板
        * @see https://theme-plume.vuejs.press/guide/features/bulletin/
        */
-       // bulletin: {
-       //   layout: 'top-right',
-       //   contentType: 'markdown',
-       //   title: '',
-       //   content: '',
-       // },
+      // bulletin: {
+      //   layout: 'top-right',
+      //   contentType: 'markdown',
+      //   title: '',
+      //   content: '',
+      // },
     },
     '/en/': {
       profile: {
@@ -87,6 +87,15 @@ export default defineThemeConfig({
       },
       navbar: zhCNNavbar,
       notes: zhCNNotes,
+    },
+    '/ja/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: 'jin999',
+        description: 'jin999',
+      },
+      navbar: jaNavbar,
+      notes: jaNotes,
     },
   },
 })
