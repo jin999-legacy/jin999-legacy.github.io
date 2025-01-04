@@ -7,9 +7,7 @@ import { enNotes, zhTWNotes, zhCNNotes, jaNotes } from './notes'
  */
 export default defineThemeConfig({
   logo: 'https://theme-plume.vuejs.press/plume.png',
-
   appearance: true,  // 配置 深色模式
-
   // social: [
   //   { icon: 'github', link: '/' },
   // ],
@@ -27,11 +25,7 @@ export default defineThemeConfig({
   // nextPage: true,   // 是否启用下一页链接
   // createTime: true, // 是否显示文章创建时间
 
-  /* 站点页脚 */
-  // footer: {
-  //   message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-  //   copyright: '',
-  // },
+
 
   /* 过渡动画 @see https://theme-plume.vuejs.press/config/basic/#transition */
   // transition: {
@@ -42,23 +36,38 @@ export default defineThemeConfig({
 
   locales: {
     '/': {
+      profile: {
+        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        name: '靜竹林',
+        description: '網站創辦人',
+        location: '台灣',
+        // organization: '靜曄人文教育協會',
+      },
+      navbar: zhTWNavbar,
+      notes: zhTWNotes,
       blogText: '文章',
       archiveText: '封存',
+      footer: {
+        message: '© 2025 本網站由靜曄人文教育協會維護，內文僅供非商業性用途及禁止重製',
+        copyright: 'Licensed under CC BY-NC-ND 4.0.',
+      },
+
+    },
+    '/en/': {
       /**
-       * @see https://theme-plume.vuejs.press/config/basic/#profile
-       */
+      * @see https://theme-plume.vuejs.press/config/basic/#profile
+      */
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
         name: 'jin999',
         description: 'jin999',
-        // circle: true,
-        // location: '',
-        // organization: '',
       },
-
-      navbar: zhTWNavbar,
-      notes: zhTWNotes,
-
+      navbar: enNavbar,
+      notes: enNotes,
+      footer: {
+        message: '© 2025 Jin999 - The Spiritual Serenity. All rights reserved. ',
+        copyright: 'Licensed under CC BY-NC-ND 4.0.',
+      },
       /**
        * 公告板
        * @see https://theme-plume.vuejs.press/guide/features/bulletin/
@@ -70,15 +79,6 @@ export default defineThemeConfig({
       //   content: '',
       // },
     },
-    '/en/': {
-      profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'jin999',
-        description: 'jin999',
-      },
-      navbar: enNavbar,
-      notes: enNotes,
-    },
     '/cn/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
@@ -87,6 +87,10 @@ export default defineThemeConfig({
       },
       navbar: zhCNNavbar,
       notes: zhCNNotes,
+      footer: {
+        message: '© 2025 本网站由静曄人文教育协会维护，内容仅供非商业用途，禁止转载或复制。',
+        copyright: 'Licensed under CC BY-NC-ND 4.0.',
+      },
     },
     '/ja/': {
       profile: {
@@ -96,6 +100,10 @@ export default defineThemeConfig({
       },
       navbar: jaNavbar,
       notes: jaNotes,
+      footer: {
+        message: '© 2025 本ウェブサイトは静曄人文教育協会によって運営されています。内容は非商業目的での利用に限り、無断転載および複製を禁止します。',
+        copyright: 'Licensed under CC BY-NC-ND 4.0.',
+      },
     },
   },
 })
