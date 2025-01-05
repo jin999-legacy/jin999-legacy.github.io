@@ -1,6 +1,9 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
+import { getDirname, path } from 'vuepress/utils'
+
+const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   base: '/',
@@ -70,14 +73,15 @@ export default defineUserConfig({
      * @see https://theme-plume.vuejs.press/config/basic/#blog
      */
     // blog: false, // 禁用部落格
-    // blog: {
-    //   postList: true, // 是否啟用文章列表頁
-    //   tags: true, // 是否啟用標籤頁
-    //   archives: true, // 是否啟用歸檔頁
-    //   categories: true, // 是否启用分類頁
-    //   postCover: 'right', // 文章封面位置
-    //   pagination: 15, // 每頁顯示文章數量
-    // },
+    blog: {
+      sort: 'asc',
+      // postList: true, // 是否啟用文章列表頁
+      // tags: true, // 是否啟用標籤頁
+      // archives: true, // 是否啟用歸檔頁
+      // categories: true, // 是否启用分類頁
+      // postCover: 'right', // 文章封面位置
+      // pagination: 15, // 每頁顯示文章數量
+    },
 
     /**
      * 为 markdown 文件自動添加 frontmatter 設定
@@ -174,7 +178,7 @@ export default defineUserConfig({
        * 水印
        * @see https://theme-plume.vuejs.press/guide/features/watermark/
        */
-      watermark: true,
+      // watermark: true,
 
       /**
        * 評論 comments
@@ -199,4 +203,9 @@ export default defineUserConfig({
      */
     encrypt: {},
   }),
+  // alias: {
+  //   '@theme/Blog/VPPostList.vue': path.resolve(__dirname, './theme/components/MyPostList.vue'),
+  // },
 })
+
+
