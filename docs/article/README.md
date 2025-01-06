@@ -1,7 +1,7 @@
 ---
 title: 靜竹林文集
 createTime: 2025/01/02 23:28:30
-permalink: /jin_literary/
+permalink: /article/
 ---
 
 - [靜竹林文集(一)](./volume_1.md)

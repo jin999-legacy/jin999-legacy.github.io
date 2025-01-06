@@ -4,18 +4,17 @@ export const zhTWNavbar = defineNavbarConfig([
   { text: '首頁', link: '/' },
   {
     text: '靜竹林文集',
-    // link: '/article/README.md',
     items: [
       { text: '靜竹林文集(一)', link: '/article/volume_1.md' },
       { text: '靜竹林文集(二)', link: '/article/volume_2.md' }
     ]
   },
+  { text: '標籤', link: '/blog/tags/' },
   // { text: '靈學探微', link: '/blog/' },
   // {
   //   text: '網友精采文章',
   //   items: [{ text: '範例', link: '/notes/demo/README.md' }]
   // },
-  { text: '標籤', link: '/blog/tags/' },
   // { text: '封存', link: '/blog/archives/' },
   // {
   //   text: '筆記',
@@ -25,13 +24,14 @@ export const zhTWNavbar = defineNavbarConfig([
 
 export const zhCNNavbar = defineNavbarConfig([
   { text: '首页', link: '/cn/' },
-  { text: '博客', link: '/cn/blog/' },
-  { text: '标签', link: '/cn/blog/tags/' },
-  { text: '归档', link: '/cn/blog/archives/' },
   {
-    text: '笔记',
-    items: [{ text: '示例', link: '/cn/notes/demo/README.md' }]
+    text: '静竹林文集',
+    items: [
+      { text: '静竹林文集(一)', link: '/cn/article/volume_1.md' },
+      { text: '静竹林文集(二)', link: '/cn/article/volume_2.md' }
+    ]
   },
+  { text: '標籤', link: '/blog/tags/' },
 ])
 
 export const enNavbar = defineNavbarConfig([

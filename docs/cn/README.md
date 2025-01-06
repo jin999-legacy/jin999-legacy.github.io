@@ -13,10 +13,10 @@ config:
       actions:
         -
           theme: brand
-          text: 文章
-          link: /blog/
+          text: 静竹林文集
+          link: /cn/article/
         -
           theme: alt
-          text: 论坛 →
+          text: 封存论坛 →
           link: https://bbs.jin999.tw/
 ---
