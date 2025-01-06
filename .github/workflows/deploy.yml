@@ -41,7 +41,7 @@ jobs:
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages (jin999-legacy)
         uses: crazy-max/ghaction-github-pages@v4
         with:
           # 部署到 gh-pages 分支
@@ -51,3 +51,17 @@ jobs:
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Deploy to GitHub Pages (jin9tw)
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git init
+          git remote add origin https://github.com/jin9tw/jin9tw.github.io.git
+          git checkout -b main
+          git add .
+          git commit -m "Deploy from GitHub Actions"
+          git push --force origin main
+        working-directory: docs/.vuepress/dist
+        env:
+          PERSONAL_TOKEN: ${{ secrets.ACCESS_TOKEN_JIN9TW }}
