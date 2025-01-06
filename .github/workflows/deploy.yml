@@ -52,16 +52,16 @@ jobs:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Deploy to GitHub Pages (jin9tw)
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git init
-          git remote add origin https://${{ secrets.ACCESS_TOKEN_JIN9TW }}@github.com/jin9tw/jin9tw.github.io.git # 使用 PAT 认证
-          git checkout -b main
-          git add .
-          git commit -m "Deploy from GitHub Actions"
-          git push --force origin main
-        working-directory: docs/.vuepress/dist
-        env:
-          PERSONAL_TOKEN: ${{ secrets.ACCESS_TOKEN_JIN9TW }}
+      # - name: Deploy to GitHub Pages (jin9tw)
+      #   run: |
+      #     git config user.name "GitHub Actions"
+      #     git config user.email "actions@github.com"
+      #     git init
+      #     git remote add origin https://${{ secrets.ACCESS_TOKEN_JIN9TW }}@github.com/jin9tw/jin9tw.github.io.git # 使用 PAT 认证
+      #     git checkout -b main
+      #     git add .
+      #     git commit -m "Deploy from GitHub Actions"
+      #     git push --force origin main
+      #   working-directory: docs/.vuepress/dist
+      #   env:
+      #     PERSONAL_TOKEN: ${{ secrets.ACCESS_TOKEN_JIN9TW }}
