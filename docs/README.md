@@ -13,8 +13,8 @@ config:
       actions:
         -
           theme: brand
-          text: 竹林靜語
-          link: /blog/
+          text: 靜竹林文集
+          link: /article/
         -
           theme: alt
           text: 封存論壇 →
