@@ -57,7 +57,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git init
-          git remote add origin https://github.com/jin9tw/jin9tw.github.io.git
+          git remote add origin https://${{ secrets.ACCESS_TOKEN_JIN9TW }}@github.com/jin9tw/jin9tw.github.io.git # 使用 PAT 认证
           git checkout -b main
           git add .
           git commit -m "Deploy from GitHub Actions"
