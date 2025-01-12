@@ -2,7 +2,7 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export const zhTWNavbar = defineNavbarConfig([
   { text: '首頁', link: '/' },
-  { text: '認識我們', link: '/intro/intro.md' },
+  { text: '認識我們', link: '/認識我們/README.md' },
   {
     text: '靜竹林文集',
     items: [
