@@ -9,9 +9,9 @@
     "node": "^18.20.0 || >=20.0.0"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
-    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:dev": "node scripts/vuepress-cli-with-storage-fix.cjs dev docs",
+    "docs:dev-clean": "node scripts/vuepress-cli-with-storage-fix.cjs dev docs --clean-cache --clean-temp",
+    "docs:build": "node scripts/vuepress-cli-with-storage-fix.cjs build docs --clean-cache --clean-temp",
     "docs:preview": "http-server docs/.vuepress/dist",
     "vp-update": "npx vp-update"
   },

@@ -1,4 +1,4 @@
-import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
+﻿import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
 
 /* =================== locale: zh-TW ======================= */
 
@@ -51,7 +51,7 @@ const jaDemoNote = defineNoteConfig({
 })
 
 export const jaNotes = defineNotesConfig({
-  dir: 'notes',
-  link: '/cn/',
+  dir: 'ja/notes',
+  link: '/ja/',
   notes: [jaDemoNote],
 })

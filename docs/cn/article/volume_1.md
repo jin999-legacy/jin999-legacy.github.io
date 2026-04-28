@@ -1,7 +1,7 @@
 ---
 title: 静竹林文集(一)
 createTime: 2025/01/06 12:35:49
-permalink: /article/uihcs09a/
+permalink: /cn/article/uihcs09a/
 ---
 
 #  静竹林文集(一) 
@@ -1904,4 +1904,3 @@ permalink: /article/uihcs09a/
  凡事莫依定规而见 不要用自己的成见去判定事务。
 
 ---
-

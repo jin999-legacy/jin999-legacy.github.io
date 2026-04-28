@@ -1,7 +1,7 @@
 ---
 title: 静竹林文集(二)
 createTime: 2025/01/06 12:36:10
-permalink: /article/2zmap8db/
+permalink: /cn/article/2zmap8db/
 ---
 # 静竹林文集(二)
 

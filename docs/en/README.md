@@ -1,4 +1,4 @@
----
+﻿---
 pageLayout: home
 externalLinkIcon: false
 config:
@@ -7,16 +7,15 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: A simple, feature-rich, document & blog
+      name: Jin999 - The Spiritual Serenity
+      text: Recompiled into a static article format, so those with shared affinity may trace these paths and carry forward the spark of exchange.
       actions:
         -
           theme: brand
-          text: Blog
-          link: /en/blog/
+          text: Jin999 Collections
+          link: /en/article/
         -
           theme: alt
-          text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          text: Old Forum
+          link: https://bbs.jin999.tw/
 ---
