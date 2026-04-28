@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-pBptSFvE.js";const r={};function n(o,c){return a(),t("div")}const s=e(r,[["render",n]]),i=JSON.parse('{"path":"/ja/blog/","title":"ブログ","lang":"ja-JP","frontmatter":{"lang":"ja-JP","title":"ブログ","draft":true},"headers":[],"readingTime":{"minutes":0,"words":0},"git":{},"filePathRelative":null,"type":"blog"}');export{s as comp,i as data};
