@@ -82,6 +82,7 @@ export default defineUserConfig({
       // postCover: 'right', // 文章封面位置
       // pagination: 15, // 每頁顯示文章數量
     },
+    search: false,
 
     /**
      * 为 markdown 文件自動添加 frontmatter 設定
@@ -104,9 +105,6 @@ export default defineUserConfig({
       //   whitespace: true, // 啟用 空格/Tab 高亮
       //   lineNumbers: true, // 啟用行號
       // },
-
-      /* 本地搜索, 默認啟用 */
-      search: false,
 
       /**
        * Algolia DocSearch
@@ -207,5 +205,4 @@ export default defineUserConfig({
   //   '@theme/Blog/VPPostList.vue': path.resolve(__dirname, './theme/components/MyPostList.vue'),
   // },
 })
-
 
