@@ -1,7 +1,7 @@
 ---
 title: 静竹林文集(一)
 createTime: 2025/01/06 12:35:49
-permalink: /article/tl8w51jz/
+permalink: /ja/article/volume_1/
 ---
 
 # 静竹林文集(一)
