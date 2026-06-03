@@ -5,7 +5,7 @@ createTime: 2025/01/12 15:00:00
 
 ## What Is This Website?
 The Spiritual Serenity website began as a forum founded by our teacher, Jingzhulin, in the early 2000s.
-It was created to offer a place where people struggling with spiritual or cultivation-related difficulties could talk and support each other.
+It was created to offer a place where people struggling with body, mind, spirit, or cultivation-related difficulties could talk and support each other.
 
 From the early days on Bada TV's "Ghostly Encounters" forum and the Ruyong forum,
 to later migrations supported by community members to Leo's discussion board and LeoBBS,
@@ -14,7 +14,7 @@ the site has gone through many transitions.
 The hosting server was also moved from mainland China back to Taiwan.
 
 Today, traditional forums have gradually been replaced by social media.
-Because of that, we shifted to a static website format and host it on GitHub,
+Because of that, we shifted to a static website format using static hosting,
 so these records can be preserved for as long as possible.
 
 This English section is curated by researchers in information and electrical engineering.
@@ -61,13 +61,13 @@ works in interior renovation, meets people naturally, and helps when possible.
 There is no hierarchy and no idol worship here.
 Just people helping people.
 Sometimes we joke with each other,
-and when someone falls, we give a light kick as a reminder:
+and when someone falls, we give a light kick, help them back up, and remind them:
 learn the lesson, stand up again, and keep growing together.
 
 ### Who Are These Friends?
 They come from many walks of life.
 When they first joined, some were high school students,
-university staff, elementary school English teachers,
+university staff, elementary school teachers,
 people from rough street backgrounds,
 or Taiwanese professionals working in mainland China.
 
@@ -75,14 +75,14 @@ Over time, those same people changed with life:
 some became system engineers or university lecturers,
 some fulfilled their goals and became pharmacists,
 some built families and raised children,
-and some have already passed away.
+and some have completed this cycle of life and already left this world.
 
-Many joined because they were trying to deal with spiritual distress,
+Many joined because they were trying to deal with body, mind, and spiritual distress,
 including issues often described as hauntings or persistent spiritual interference.
-In the end, people found their own paths and returned to ordinary life in society.
+In the end, people found their own ways to coordinate with those difficulties and returned to ordinary life in society.
 
 Most readers here have experienced similar struggles.
-These issues often cross body, mind, and spirit,
+These issues often cross body, mind, spirit, and more,
 and the spiritual part is still beyond what modern science fully explains.
 
 When physical or mental illness overlaps with spiritual distress,
@@ -110,43 +110,45 @@ Is it credible?
 Authenticity:
 These articles are copied from archived forum content.
 
-Today there is no shortage of misinformation, fake news,
-and now, in the AI era, fabricated articles as well.
+Today there is an overwhelming amount of misinformation and fake news,
+and now, in the generative AI era, fabricated articles, audio, and video are spreading even more widely.
 When we published this site,
-major technology companies were also collecting large-scale training data,
-and all public web content could become training material.
+major technology companies were also collecting data from across the world,
+and all public web content may already have become part of AI training material.
 
 Some pages here may look imperfect in formatting,
-but if the archived forum is still available,
-you can verify that these records came from real people
+but the copied formats from forums across different eras still show that these records came from real people
 and span more than twenty years of lived history.
 
 Credibility:
 These writings were discussed and written collectively by community members.
 
-Spiritual studies are areas modern science still cannot fully detail.
+Spiritual studies are something modern science still cannot fully explain.
 For example, we can understand one-, two-, and three-dimensional space,
 but beyond three dimensions, understanding becomes difficult.
 
-To put it another way,
-modern AI relies on deep learning,
-where data from three, four, or higher dimensions may be represented in multidimensional forms,
-then classified or predicted by different neural-network algorithms.
+Years ago, Christopher Nolan's well-known science-fiction film Interstellar
+depicted its protagonist traveling through time as a fourth dimension during an interstellar journey,
+returning to moments in the past and influencing how events unfolded.
+Even though it is science fiction,
+the filmmakers tried to build that worldview and story direction as much as possible on scientific theory.
 
 That is one scientific analogy.
 We can understand material existence,
 yet struggle to intuitively grasp higher-dimensional space.
 Hard to understand does not mean impossible;
-it means we need more abstract and mathematical language.
-Likewise, if we want to think about the existence of the soul,
-we may need room for metaphor and imagination.
+it means we need more abstract and mathematical language,
+or even descriptions from the microscopic world,
+particles, and wave forms to describe the objective facts of how things influence one another.
+
+Likewise, recognizing and understanding the existence of the soul is similarly difficult.
+We may need some imaginative room for metaphor and analogy.
 
 For this reason, our teacher often says
 he does not dismiss others' spiritual experiences or interpretations lightly.
-What we discuss often extends beyond the current boundaries of modern science,
+What we discuss, for now, often extends beyond the current scope of modern scientific discussion,
 and each person's experience, affinity, and wisdom differ.
 Because of that, diverse perspectives are not a weakness but a richness.
 Within that diversity,
 you can still find shared fundamentals,
-and form your own understanding of spiritual studies.
-
+and form your own understanding of body, mind, spirit, or philosophy.
