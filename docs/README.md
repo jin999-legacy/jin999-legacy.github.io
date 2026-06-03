@@ -17,5 +17,5 @@ config:
         -
           theme: alt
           text: 舊論壇
-          link: https://bbs.jin999.tw/
+          link: https://jin999.tw/jin/index.php?
 ---
