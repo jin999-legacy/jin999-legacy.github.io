@@ -11,7 +11,7 @@ permalink: "/article/other/"
 版權為其所擁有 引用請註明作者及出處
 ```
 
-### 文集/笑談生活
+### 人工智慧和人
 
 發表於 2016-3-21 21:09:31
 
@@ -38,7 +38,7 @@ permalink: "/article/other/"
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2012-04-18 17:48:43*
   
@@ -85,7 +85,7 @@ permalink: "/article/other/"
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2012-04-19 06:04:37*
 
@@ -150,7 +150,7 @@ permalink: "/article/other/"
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2012-04-19 20:23:56*
 
@@ -173,7 +173,7 @@ permalink: "/article/other/"
 
 ---
 
-### 文集/笑談生活
+### 健康
 
 _發表於 2012-4-20 07:25:26_
 
@@ -199,7 +199,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=23976
 
 ---
 
-### 文集/笑談生活
+### 邏輯推算
 
 *發表於 2012-04-21 01:27:30*
   
@@ -279,7 +279,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=23963
 
 ---
 
-### 文集/笑談生活
+### 人性觀察
 
 *發表於 2012-06-03 21:46:36*
 不知道是天性還是還是後天的覺知。  
@@ -390,7 +390,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=24346
 
 ---
 
-### 文集/笑談生活
+### 育兒
 
 _本帖最後由 靜竹林 於 2012-6-4 11:55 PM 編輯_
 
@@ -426,7 +426,7 @@ _本帖最後由 靜竹林 於 2012-6-4 11:55 PM 編輯_
 
 ---
 
-### 文集/笑談生活
+### 淺意識
 
 *發表於 2012-07-17 23:08:35*
 
@@ -479,7 +479,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=24471
 
 ---
 
-### 文集/笑談生活
+### 台灣
 
 *發表於 2012-07-19 01:10:58*
 台灣原住民與東南亞語系接近，目前的研究是這樣解釋。  
@@ -493,7 +493,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=24471
 
 ---
 
-### 文集/笑談生活
+### 回顧
 
 _發表於 2012-7-27 19:21:50_
 
@@ -509,7 +509,7 @@ _發表於 2012-7-27 19:21:50_
 
 ---
 
-### 文集/笑談生活
+### 通靈
 
 *發表於 2012-08-01 22:56:39*
 這個好笑  
@@ -562,7 +562,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=24577
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 _發表於 2012-8-15 22:29:20_
 
@@ -575,7 +575,7 @@ _發表於 2012-8-15 22:29:20_
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2012-09-04 01:09:42*
 電動機車？？？環保？  
@@ -687,7 +687,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=24763
 
 ---
 
-### 文集/笑談生活
+### 經典
 
 _發表於 2012-9-11 23:27:57_
 
@@ -732,7 +732,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=86&pid=24803
 
 ---
 
-### 文集/笑談生活
+### 專家謬論
 
 _發表於 2012-9-14 00:46:40_
 
@@ -867,7 +867,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2484
 
 ---
 
-### 文集/笑談生活
+### 政治觀察
 
 _發表於 2013-7-3 00:01:51_
 
@@ -942,7 +942,7 @@ _發表於 2013-7-3 00:01:51_
 
 ---
 
-### 文集/笑談生活
+### 人性觀察
 
 _發表於 2013-7-5 00:33:07_
 
@@ -1004,7 +1004,7 @@ _發表於 2013-7-5 00:33:07_
 
 ---
 
-### 文集/笑談生活
+### 時事評論
 
 _發表於 2013-7-18 00:02:52_
 
@@ -1134,7 +1134,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2530
 
 ---
 
-### 文集/笑談生活
+### 育兒
 
 *發表於 2013-07-18 23:45:42*
 我胃腸一直都很好，就算吃到臭酸的食物，拉幾次肚子把細菌拉掉就好了。  
@@ -1279,7 +1279,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2577
 
 ---
 
-### 文集/笑談生活
+### 時事評論
 
 *發表於 2013-08-09 00:12:54*
  
@@ -1513,7 +1513,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2538
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2012-11-03 23:50:03*
   
@@ -1579,7 +1579,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2493
 
 ---
 
-### 文集/笑談生活
+### 通靈經驗
 
 _發表於 2013-9-10 00:28:13_
 
@@ -1635,7 +1635,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2541
 
 ---
 
-### 文集/笑談生活
+### 明心見性
 
 _發表於 2013-11-1 18:32:43_
 
@@ -1678,7 +1678,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2564
 
 ---
 
-### 文集/笑談生活
+### 科學
 
 *發表於 2013-11-19 11:44:39*
   
@@ -1712,7 +1712,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2564
 
 ---
 
-### 文集/笑談生活
+### 台灣宗教怪現象
 
 _發表於 2014-2-16 17:39:45_
 
@@ -1727,7 +1727,7 @@ _發表於 2014-2-16 17:39:45_
 
 ---
 
-### 文集/笑談生活
+### 台灣
 
 *發表於 2014-03-13 03:40:22*
 最近常常看新聞提到龍蝦吃到飽，就有人在新聞上提到有錢人才能去吃龍蝦吃到飽。  
@@ -1883,7 +1883,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2583
 
 ---
 
-### 文集/笑談生活
+### 學習
 
 *發表於 2014-05-04 00:32:11*
 今天在臉書上看到一個中醫師貼出一段他學生寫給他的信  
@@ -1969,7 +1969,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2583
 
 ---
 
-### 文集/笑談生活
+### 邏輯推算
 
 *發表於 2012-11-07 23:01:15*
 
@@ -1998,7 +1998,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2583
 
 ---
 
-### 文集/笑談生活
+### 大陸與台灣的經濟觀察
 
 *發表於 2012-11-07 23:42:04*
 講到邏輯推論就順道聊一下台灣的經濟。  
@@ -2038,7 +2038,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2583
 
 ---
 
-### 文集/笑談生活
+### 魂魄
 
 *發表於 2012-11-09 00:34:51*
 什麼情況會被說是失魂落魄？為何這種狀態就叫失魂落魄？
@@ -2054,7 +2054,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2494
 
 ---
 
-### 文集/笑談生活
+### 健康
 
 _發表於 2012-11-12 23:41:19_
 
@@ -2100,7 +2100,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2497
 
 ---
 
-### 文集/笑談生活
+### 育兒
 
 *發表於 2012-11-26 19:57:35*
 最近一個禮拜忙著老婆生小孩，早上要工作晚上要開店，關店之後再跑大賣場等等..，跑完再回家洗個澡餵狗，然後再趕去醫院，半夜還要叫我老婆起床好幾次。持續一星期整晚沒睡覺的日子終於可以結束了。
@@ -2137,7 +2137,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2500
 
 ---
 
-### 文集/笑談生活
+### 論自私與生小孩的思考
 
 *發表於 2013-01-09 18:08:51*
 我生小孩純屬意外不在生涯規劃中，也沒打算小孩子會養我，畢竟這個變數太大，我曾說一個人一輩子有三大賭注，一個出生二是結婚三是生小孩，這都是千萬豪賭。  
@@ -2184,7 +2184,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2501
 
 ---
 
-### 文集/笑談生活
+### 育兒
 
 *發表於 2013-03-06 23:43:03*
 
@@ -2220,7 +2220,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2501
 
 ---
 
-### 文集/笑談生活
+### 輻射
 
 _發表於 2013-3-6 23:51:00_
 
@@ -2240,7 +2240,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=435&pid=2511
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2012-01-29 22:01:51*
 
@@ -2417,7 +2417,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2378
 
 ---
 
-### 文集/笑談生活
+### 料理
 
 *發表於 2012-04-25 08:12:23*
 
@@ -2450,7 +2450,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2398
 
 ---
 
-### 文集/笑談生活
+### 因果
 
 *發表於 2012-04-27 07:56:15*
  
@@ -2523,7 +2523,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2399
 
 ---
 
-### 文集/笑談生活
+### 論血虛調理、放血經驗與身體復原
 
 *發表於 2012-04-28 09:43:18*
   
@@ -2568,7 +2568,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2399
 
 ---
 
-### 文集/笑談生活
+### 處世態度
 
 *發表於 2012-04-29 09:17:22*
  
@@ -2592,7 +2592,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2399
 
 ---
 
-### 文集/笑談生活
+### 工作
 
 *發表於 2012-04-30 07:13:06*
 
@@ -2648,7 +2648,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2399
 
 ---
 
-### 文集/笑談生活
+### 金紙店
 
 *發表於 2012-02-04 19:54:58*
 
@@ -2689,7 +2689,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2399
 
 ---
 
-### 文集/笑談生活
+### 反省
 
 *發表於 2012-04-30 09:11:07*
   
@@ -2724,7 +2724,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2399
 
 ---
 
-### 文集/笑談生活
+### 放下
 
 *發表於 2012-05-04 08:24:56*
   
@@ -2737,7 +2737,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2399
 
 ---
 
-### 文集/笑談生活
+### 通靈
 
 *發表於 2012-05-09 07:07:01*
   
@@ -2801,7 +2801,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2419
 
 ---
 
-### 文集/笑談生活
+### 工作
 
 *發表於 2012-02-07 09:14:23*
 
@@ -2840,7 +2840,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2419
 
 ---
 
-### 文集/笑談生活
+### 家事
 
 *發表於 2012-02-08 07:59:22*
   前幾天我去找朋友，他老婆提到說衣服都洗不乾淨，他們家的衣服都要洗兩次才會乾淨。  
@@ -2921,7 +2921,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2365
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2012-03-23 01:43:42*
 
@@ -2964,7 +2964,7 @@ QSMI?雖然英文爛到不行，但是我想應該不是KISSMI。
 
 ---
 
-### 文集/笑談生活
+### 求救
 
 *發表於 2012-04-11 07:36:38*
   
@@ -3080,7 +3080,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 萬象皆由心生
 
 *發表於 2013-09-26 23:47:10*
 
@@ -3090,7 +3090,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2013-09-07 15:09:58*
 
@@ -3108,7 +3108,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 空相
 
 *發表於 2005-07-21 01:42:41*
 
@@ -3125,7 +3125,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2005-07-22 20:24:47*
 
@@ -3144,7 +3144,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 宏觀的包容、智慧的慈悲
 
 *發表於 2005-07-30 08:01:38*
 
@@ -3170,7 +3170,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2005-07-18 12:07:58*
 
@@ -3186,7 +3186,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2005-07-18 20:04:40*
 
@@ -3212,7 +3212,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 神通
 
 *發表於 2006-11-28 00:45:45*
 
@@ -3223,7 +3223,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2005-07-18 23:55:44*
 
@@ -3252,7 +3252,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 健康
 
 *發表於 2012-09-17 14:57:49*
 
@@ -3261,7 +3261,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 放下
 
 *發表於 2010-08-08 21:19:25*
 \[這篇文章最後由靜竹林在 2010/08/09 09:11pm 第 1 次編輯\]  
@@ -3283,7 +3283,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 靈異
 
 *發表於 2007-08-09 22:03:35*
 
@@ -3302,7 +3302,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2006-06-06 01:14:21*
 
@@ -3359,7 +3359,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 人性觀察
 
 *發表於 2007-04-25 00:59:27*
 
@@ -3371,7 +3371,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=421&pid=2388
 
 ---
 
-### 文集/笑談生活
+### 通靈經驗
 
 *發表於 2008-03-05 01:12:29*
 
@@ -3419,7 +3419,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=28&pid=1960
 
 ---
 
-### 文集/笑談生活
+### 命運
 
 *發表於 2008-03-09 01:23:36*
 
@@ -3437,7 +3437,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=28&pid=1960
 
 ---
 
-### 文集/笑談生活
+### 回網友
 
 *發表於 2008-03-11 00:49:33*
 
@@ -3454,7 +3454,7 @@ nirmala 一般大家都是體諒我，讓我睡到飽才過來，我也忘記以
 
 ---
 
-### 文集/笑談生活
+### 通靈
 
 *發表於 2008-03-11 23:51:24*
 
@@ -3466,7 +3466,7 @@ nirmala 一般大家都是體諒我，讓我睡到飽才過來，我也忘記以
 
 ---
 
-### 文集/笑談生活
+### 學習
 
 *發表於 2005-06-26 01:52:48*
 
@@ -3478,7 +3478,7 @@ nirmala 一般大家都是體諒我，讓我睡到飽才過來，我也忘記以
 
 ---
 
-### 文集/笑談生活
+### 回顧
 
 *發表於 2007-11-11 20:56:51*
 
@@ -3500,7 +3500,7 @@ nirmala 一般大家都是體諒我，讓我睡到飽才過來，我也忘記以
 
 ---
 
-### 文集/笑談生活
+### 體會
 
 *發表於 2007-11-14 00:10:16*
 
@@ -3520,7 +3520,7 @@ nirmala 一般大家都是體諒我，讓我睡到飽才過來，我也忘記以
 
 ---
 
-### 文集/笑談生活
+### 同理心
 
 *發表於 2004-03-16 14:23:23*
 對啊  
@@ -3557,7 +3557,7 @@ nirmala 一般大家都是體諒我，讓我睡到飽才過來，我也忘記以
 
 ---
 
-### 文集/笑談生活
+### 回顧
 
 *發表於 2007-11-17 22:03:36*
 > **下面引用由cmj0920在 *2007/11/16 07:56pm* 發表的內容：**  
@@ -3576,7 +3576,7 @@ nirmala 一般大家都是體諒我，讓我睡到飽才過來，我也忘記以
 
 ---
 
-### 文集/笑談生活
+### 沉香
 
 *發表於 2012-01-06 11:10:07*
 \[這篇文章最後由靜竹林在 2012/01/06 05:17pm 第 1 次編輯\]  
@@ -3690,7 +3690,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=90&pid=23583
 
 ---
 
-### 文集/笑談生活
+### 轉念
 
 *發表於 2012-01-29 22:29:34*
 
@@ -3726,7 +3726,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=90&pid=23583
 
 ---
 
-### 文集/笑談生活
+### 論壇
 
 _發表於 2012-1-29 00:30:51_
 
@@ -3743,7 +3743,7 @@ _發表於 2012-1-29 00:30:51_
 
 ---
 
-### 文集/笑談生活
+### 網友
 
 *發表於 2007-02-16 03:18:50*
 
@@ -3760,7 +3760,7 @@ _發表於 2012-1-29 00:30:51_
 
 ---
 
-### 文集/笑談生活
+### 見名
 
 *發表於 2006-03-22 03:23:54*
 
@@ -3813,7 +3813,7 @@ _發表於 2012-1-29 00:30:51_
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2011-04-20 20:24:27*
 
@@ -3827,7 +3827,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 處世態度
 
 *發表於 2011-04-20 21:08:33*
 
@@ -3852,7 +3852,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 靈擾
 
 *發表於 2011-04-21 00:20:29*
 
@@ -3868,7 +3868,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 人性觀察
 
 *發表於 2011-04-21 23:03:35*
 
@@ -3883,7 +3883,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 輻射
 
 *發表於 2011-04-26 00:37:16*
 
@@ -3905,7 +3905,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 宇宙
 
 *發表於 2011-04-27 21:34:03*
 
@@ -3916,7 +3916,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 生化機器
 
 *發表於 2011-07-19 23:54:30*
 
@@ -3961,7 +3961,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 思考模式
 
 *發表於 2011-07-20 23:28:33*
 > **下面引用由天璣在 *2011/07/20 03:35am* 發表的內容：**  
@@ -3991,7 +3991,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 智慧
 
 *發表於 2011-07-20 23:49:23*
 
@@ -4015,7 +4015,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 業力
 
 *發表於 2011-07-24 01:13:15*
 
@@ -4030,7 +4030,7 @@ SM不是你的興趣嗎？你怎會怕被鞭賣假了啦   哈哈哈哈
 
 ---
 
-### 文集/笑談生活
+### 通靈
 
 *發表於 2009-09-06 21:30:07*
 
@@ -4070,7 +4070,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=67&pid=3788
 
 ---
 
-### 文集/笑談生活
+### 人性觀察
 
 *發表於 2009-09-06 18:47:54*
 
@@ -4095,7 +4095,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=67&pid=3772
 
 ---
 
-### 文集/笑談生活
+### 回網友
 
 *發表於 2006-02-24 00:48:52*
 \[這篇文章最後由靜竹林在 2011/06/19 10:55pm 第 1 次編輯\]  
@@ -4129,7 +4129,7 @@ kohaur99您好
 
 ---
 
-### 文集/笑談生活
+### 通靈經驗
 
 *發表於 2006-02-24 16:07:00*
 
@@ -4157,7 +4157,7 @@ kohaur99您好
 
 ---
 
-### 文集/笑談生活
+### 論壇經營理念、威望機制與往事回顧
 
 *發表於 2006-03-01 00:38:54*
 
@@ -4180,7 +4180,7 @@ kohaur99 你的這些經歷我大部分都經歷過，只是我沒有在版面�
 
 ---
 
-### 文集/笑談生活
+### 處世態度
 
 *發表於 2006-03-01 01:34:52*
 
@@ -4194,7 +4194,7 @@ kohaur99 你的這些經歷我大部分都經歷過，只是我沒有在版面�
 
 ---
 
-### 文集/笑談生活
+### 生活觀察
 
 *發表於 2006-03-04 01:39:01*
 
@@ -4205,7 +4205,7 @@ kohaur99 你的這些經歷我大部分都經歷過，只是我沒有在版面�
 
 ---
 
-### 文集/笑談生活
+### 符咒
 
 *發表於 2011-07-18 11:31:49*
   
@@ -4249,7 +4249,7 @@ ANN到現在也去世6年了，到現在他的即時通帳號我也沒有刪除�
 
 ---
 
-### 文集/笑談生活
+### 論壇
 
 *發表於 2011-07-31 02:28:46*
   
@@ -4276,7 +4276,7 @@ ANN到現在也去世6年了，到現在他的即時通帳號我也沒有刪除�
 
 ---
 
-### 文集/笑談生活
+### 命運
 
 _發表於 2011-8-9 00:04:07_
 
@@ -4304,7 +4304,7 @@ _發表於 2011-8-9 00:04:07_
 
 ---
 
-### 文集/笑談生活
+### 論血虛調理、放血經驗與身體復原
 
 *發表於 2011-08-17 21:45:32*
 我自己做裝潢，我都懶的自己做家具了，根本划不來。  
@@ -4335,7 +4335,7 @@ _發表於 2011-8-9 00:04:07_
 
 ---
 
-### 文集/笑談生活
+### 健康
 
 *發表於 2011-05-19 11:54:23*
 
@@ -4382,7 +4382,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=82&pid=4367
 
 ---
 
-### 文集/笑談生活
+### 健康
 
 *發表於 2010-12-15 23:47:24*
 
@@ -4468,7 +4468,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=70&pid=3921
 
 ---
 
-### 文集/笑談生活
+### 能量醫學
 
 *發表於 2010-05-03 10:34:29*
 
@@ -4510,7 +4510,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=72&pid=4009
 
 ---
 
-### 文集/笑談生活
+### 能量醫學
 
 *發表於 2009-02-03 23:43:57*
 
@@ -4520,7 +4520,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=72&pid=4009
 
 ---
 
-### 文集/笑談生活
+### 論自私與生小孩的思考
 
 *發表於 2010-08-17 20:22:57*
 
@@ -4537,7 +4537,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=72&pid=4009
 
 ---
 
-### 文集/笑談生活
+### 凡事盡力而為，不懈怠也不強求
 
 *發表於 2010-08-17 22:28:49*
 
@@ -4562,7 +4562,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=72&pid=4009
 
 ---
 
-### 文集/笑談生活
+### 神明
 
 *發表於 2010-07-19 22:48:15*
 
@@ -4603,7 +4603,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=74&pid=4068
 
 ---
 
-### 文集/笑談生活
+### 神仙
 
 *發表於 2010-07-26 02:05:56*
 
@@ -4618,7 +4618,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=74&pid=4068
 
 ---
 
-### 文集/笑談生活
+### 論壇經營理念、威望機制與往事回顧
 
 *發表於 2005-01-20 16:47:18*
 
@@ -4676,7 +4676,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=8&pid=777
 
 ---
 
-### 文集/笑談生活
+### 沉香
 
 *發表於 2009-11-09 20:17:14*
 
@@ -4702,7 +4702,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=8&pid=777
 
 ---
 
-### 文集/笑談生活
+### 佛性
 
 *發表於 2008-04-24 22:23:26*
 
@@ -4723,7 +4723,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=8&pid=777
 
 ---
 
-### 文集/笑談生活
+### 談宮廟信仰迷思與求己哲學
 
 *發表於 2004-07-15 22:43:24*
 
@@ -4739,7 +4739,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=8&pid=777
 
 ---
 
-### 文集/笑談生活
+### 為何我從不去看我的未來？
 
 *發表於 2004-07-20 23:00:48*
 
@@ -4774,7 +4774,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=8&pid=777
 
 ---
 
-### 文集/笑談生活
+### 靈異
 
 *發表於 2004-07-27 02:41:58*
   
@@ -4798,7 +4798,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=8&pid=777
 
 ---
 
-### 文集/笑談生活
+### 本靈
 
 *發表於 2004-08-04 00:19:20*
   
@@ -4849,7 +4849,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 萬象皆由心生
 
 *發表於 2004-08-09 00:51:41*
   
@@ -4876,7 +4876,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 乩童
 
 *發表於 2004-08-10 23:22:11*
 
@@ -4903,7 +4903,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 通靈經驗
 
 *發表於 2005-06-24 01:03:35*
   
@@ -4924,7 +4924,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 沉香
 
 *發表於 2005-08-11 00:14:42*
 
@@ -4946,7 +4946,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 神桌
 
 *發表於 2004-07-03 00:22:28*
 
@@ -4978,7 +4978,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 神通
 
 *發表於 2004-07-12 19:11:33*
 
@@ -5002,7 +5002,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 處世態度
 
 *發表於 2007-07-03 03:37:01*
 
@@ -5017,7 +5017,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=3&pid=343
 
 ---
 
-### 文集/笑談生活
+### 人性觀察
 
 *發表於 2007-07-03 23:53:23*
 
@@ -5044,7 +5044,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=55&pid=3029
 
 ---
 
-### 文集/笑談生活
+### 轉念
 
 _發表於 2007-7-6 00:53:15_
 
@@ -5055,7 +5055,7 @@ _發表於 2007-7-6 00:53:15_
 
 ---
 
-### 文集/笑談生活
+### 處世態度
 
 *發表於 2007-07-30 01:16:35*
 
@@ -5075,7 +5075,7 @@ _發表於 2007-7-6 00:53:15_
 
 ---
 
-### 文集/笑談生活
+### 安土地
 
 *發表於 2007-04-27 01:23:22*
 > **下面引用由Sufia在 *2007/04/27 01:07am* 發表的內容：**  
@@ -5090,7 +5090,7 @@ _發表於 2007-7-6 00:53:15_
 
 ---
 
-### 文集/笑談生活
+### 壓力
 
 *發表於 2007-05-02 01:13:33*
 
@@ -5118,7 +5118,7 @@ _發表於 2007-7-6 00:53:15_
 
 ---
 
-### 文集/笑談生活
+### 見名
 
 *發表於 2007-04-06 00:29:22*
 
@@ -5135,7 +5135,7 @@ nirmala   
 
 ---
 
-### 文集/笑談生活
+### 靈擾
 
 *發表於 2007-04-06 00:51:37*
 
@@ -5156,7 +5156,7 @@ nirmala   
 
 ---
 
-### 文集/笑談生活
+### 靈擾
 
 *發表於 2007-04-02 00:56:36*
 
@@ -5175,7 +5175,7 @@ nirmala   
 
 ---
 
-### 文集/笑談生活
+### 放下
 
 *發表於 2007-04-25 23:31:44*
 
@@ -5221,7 +5221,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=56&pid=3191
 
 ---
 
-### 文集/笑談生活
+### 心路歷程
 
 *發表於 2006-04-06 00:58:48*
 
@@ -5233,7 +5233,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=56&pid=3191
 
 ---
 
-### 文集/笑談生活
+### 人性觀察
 
 *發表於 2006-05-21 23:55:51*
 
@@ -5249,7 +5249,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=56&pid=3191
 
 ---
 
-### 文集/笑談生活
+### 感情
 
 *發表於 2006-05-19 00:34:15*
 
@@ -5264,7 +5264,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=56&pid=3191
 
 ---
 
-### 文集/笑談生活
+### 佛學
 
 *發表於 2006-03-29 18:48:06*
 
@@ -5301,7 +5301,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=56&pid=3191
 
 ---
 
-### 文集/笑談生活
+### 回網友
 
 *發表於 2006-03-31 20:15:06*
 
@@ -5321,7 +5321,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=56&pid=3191
 
 ---
 
-### 文集/笑談生活
+### 回網友
 
 *發表於 2006-03-27 23:22:28*
 
@@ -5346,7 +5346,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=56&pid=3191
 
 ---
 
-### 文集/笑談生活
+### 日常
 
 *發表於 2006-04-10 01:57:14*
 
@@ -5373,7 +5373,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=44&pid=2745
 
 ---
 
-### 文集/笑談生活
+### 回網友
 
 *發表於 2005-06-01 10:23:31*
 
@@ -5445,7 +5445,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=27&pid=1708
 
 ---
 
-### 文集/笑談生活
+### 姻緣
 
 *發表於 2005-02-02 20:27:49*
 
@@ -5477,7 +5477,7 @@ iovry
 
 ---
 
-### 文集/笑談生活
+### 修行
 
 *發表於 2006-06-26 23:58:46*
 
@@ -5497,7 +5497,7 @@ iovry
 
 ---
 
-### 文集/笑談生活
+### 靈異
 
 *發表於 2004-10-26 02:56:21*
 
@@ -5516,7 +5516,7 @@ iovry
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2006-05-20 00:58:38*
 
@@ -5527,7 +5527,7 @@ iovry
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2006-05-20 23:43:01*
 
@@ -5538,7 +5538,7 @@ iovry
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2006-05-22 01:04:22*
 
@@ -5555,7 +5555,7 @@ iovry
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2006-06-29 01:14:05*
 
@@ -5571,7 +5571,7 @@ iovry
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2006-08-16 00:57:54*
 
@@ -5580,7 +5580,7 @@ iovry
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-11-07 01:30:31*
 
@@ -5594,7 +5594,7 @@ http://bbs.jin999.tw/jin/forum.p ... p;extra=&page=1
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-11-07 23:42:13*
 
@@ -5629,7 +5629,7 @@ http://bbs.jin999.tw/jin/forum.p ... p;extra=&page=1
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2015-11-07 23:43:07*
 
@@ -5655,7 +5655,7 @@ http://bbs.jin999.tw/jin/forum.p ... p;extra=&page=1
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2015-11-07 23:48:31*
 
@@ -5700,7 +5700,7 @@ http://bbs.jin999.tw/jin/forum.p ... p;extra=&page=1
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2015-11-07 23:49:06*
 
@@ -5744,7 +5744,7 @@ http://bbs.jin999.tw/jin/forum.p ... p;extra=&page=1
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2015-11-07 23:51:21*
 
@@ -5790,7 +5790,7 @@ http://bbs.jin999.tw/jin/forum.p ... p;extra=&page=1
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-11-07 23:51:59*
 
@@ -5841,7 +5841,7 @@ http://bbs.jin999.tw/jin/forum.p ... p;extra=&page=1
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2015-11-07 23:52:21*
 
@@ -5885,7 +5885,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=460&pid=2610
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2015-11-07 01:31:39*
 
@@ -5921,7 +5921,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=460&pid=2610
 
 ---
 
-### 文集/靈學探微
+### 心魔
 
 *發表於 2015-11-10 00:17:17*
 
@@ -6017,7 +6017,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=460&pid=2611
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-12-08 00:46:29*
 
@@ -6027,7 +6027,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=460&pid=2611
 
 ---
 
-### 文集/靈學探微
+### 卡陰
 
 *發表於 2015-11-07 01:32:19*
 
@@ -6046,7 +6046,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=460&pid=2611
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-11-07 01:34:04*
 
@@ -6118,7 +6118,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-11-07 01:36:38*
 
@@ -6141,7 +6141,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-11-07 01:39:30*
 
@@ -6191,7 +6191,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-11-07 23:39:03*
 
@@ -6217,7 +6217,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2015-11-07 23:40:33*
 
@@ -6232,7 +6232,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2005-12-28 00:04:14*
 
@@ -6252,7 +6252,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-12-28 00:31:07*
 
@@ -6264,7 +6264,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2005-12-29 00:16:17*
 
@@ -6286,7 +6286,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2006-01-05 02:49:15*
 
@@ -6307,7 +6307,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2004-12-24 22:26:52*
 
@@ -6334,7 +6334,7 @@ B學校的同學中有一個長得很像他的人，甲不知道怎麼聯絡到�
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-12-24 22:31:29*
 
@@ -6404,7 +6404,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=148&pid=6809
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2004-06-14 19:07:06*
 
@@ -6428,7 +6428,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=148&pid=6809
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2004-06-15 03:02:24*
 
@@ -6470,7 +6470,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=148&pid=6809
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2004-06-16 00:18:07*
 
@@ -6504,7 +6504,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=327&pid=1287
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2004-06-16 00:47:12*
 
@@ -6537,7 +6537,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=327&pid=1287
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2004-06-16 00:57:18*
 
@@ -6566,7 +6566,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=327&pid=1287
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2004-06-27 00:02:23*
 
@@ -6576,7 +6576,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=327&pid=1287
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2004-06-28 00:11:53*
 
@@ -6622,7 +6622,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=327&pid=1287
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2004-06-28 18:35:02*
 
@@ -6635,7 +6635,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=327&pid=1287
 
 ---
 
-### 文集/靈學探微
+### 科學
 
 *發表於 2004-06-30 00:13:54*
 
@@ -6670,7 +6670,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=327&pid=1287
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-06-30 00:20:04*
 
@@ -6706,7 +6706,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=106&pid=5286
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2004-10-28 02:02:04*
 
@@ -6729,7 +6729,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=106&pid=5286
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-11-05 00:08:39*
 
@@ -6758,7 +6758,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=132&pid=6244
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-11-06 00:52:02*
 
@@ -6784,7 +6784,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=132&pid=6244
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2004-11-08 01:41:31*
 
@@ -6835,7 +6835,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=132&pid=6261
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-11-25 00:43:41*
 
@@ -6879,7 +6879,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=132&pid=6261
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2005-01-02 22:12:39*
 
@@ -6963,7 +6963,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=132&pid=6320
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2005-10-19 01:03:47*
 
@@ -6978,7 +6978,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=132&pid=6320
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2005-09-17 00:20:23*
 
@@ -7006,7 +7006,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9660
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2005-09-22 23:45:48*
 
@@ -7033,7 +7033,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9660
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-09-22 23:58:08*
 
@@ -7055,7 +7055,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9669
 
 ---
 
-### 文集/靈學探微
+### 反省
 
 *發表於 2005-09-24 22:20:13*
 
@@ -7095,7 +7095,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9669
 
 ---
 
-### 文集/靈學探微
+### 反省
 
 *發表於 2005-10-06 14:48:31*
 
@@ -7129,7 +7129,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9709
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2005-07-01 23:59:02*
 
@@ -7141,7 +7141,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9709
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-09-22 22:23:53*
 
@@ -7160,7 +7160,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9709
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-09-23 00:01:50*
 
@@ -7172,7 +7172,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9709
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-09-23 01:29:39*
 
@@ -7198,7 +7198,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9709
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-09-30 01:28:29*
 
@@ -7218,7 +7218,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=217&pid=9709
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2004-08-23 23:36:06*
 
@@ -7287,7 +7287,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=119&pid=5764
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2004-11-05 00:12:53*
 
@@ -7464,7 +7464,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=135&pid=6577
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2004-07-27 03:22:48*
 
@@ -7484,7 +7484,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=111&pid=5400
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-08-31 03:10:47*
 
@@ -7518,7 +7518,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9459
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-09-15 00:08:21*
 
@@ -7540,7 +7540,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9459
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-09-17 00:06:28*
 
@@ -7558,7 +7558,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9511
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-09-04 00:18:03*
 
@@ -7590,7 +7590,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9511
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-09-04 10:36:01*
 
@@ -7606,7 +7606,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9511
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-09-04 11:08:18*
 
@@ -7646,7 +7646,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9511
 
 ---
 
-### 文集/靈學探微
+### 卡陰
 
 *發表於 2005-09-06 03:18:04*
 
@@ -7787,7 +7787,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-09-11 15:22:30*
 
@@ -7802,7 +7802,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2005-09-13 21:40:15*
 
@@ -7831,7 +7831,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2005-09-15 01:08:53*
 
@@ -7857,7 +7857,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2005-09-15 01:11:57*
 
@@ -7867,7 +7867,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2005-08-16 23:20:37*
 
@@ -7898,7 +7898,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-08-29 23:02:18*
 
@@ -7909,7 +7909,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2005-08-29 23:19:16*
 
@@ -7925,7 +7925,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=213&pid=9502
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-07-19 00:13:17*
 
@@ -8004,7 +8004,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=200&pid=9005
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-08-05 00:25:28*
 
@@ -8045,7 +8045,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=200&pid=9005
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2005-08-09 00:39:57*
 
@@ -8058,7 +8058,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=200&pid=9005
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-07-07 00:07:02*
 
@@ -8068,7 +8068,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=200&pid=9005
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2005-06-02 23:26:03*
 
@@ -8113,7 +8113,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=182&pid=8146
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2005-06-07 00:18:55*
 
@@ -8144,7 +8144,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=182&pid=8146
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-07-25 21:05:04*
 
@@ -8154,7 +8154,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=182&pid=8146
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-03-07 00:29:01*
 
@@ -8203,7 +8203,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=159&pid=2571
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-07-09 23:10:35*
 
@@ -8239,7 +8239,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=109&pid=5368
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-07-18 20:57:39*
 
@@ -8262,7 +8262,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=199&pid=8980
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2005-06-24 01:10:57*
 
@@ -8366,7 +8366,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=193&pid=8798
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2005-05-31 10:56:54*
 
@@ -8398,7 +8398,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=193&pid=8798
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2005-05-31 11:13:13*
 
@@ -8418,7 +8418,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=193&pid=8798
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-06-01 00:14:26*
 
@@ -8440,7 +8440,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=193&pid=8798
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-06-06 14:37:16*
 
@@ -8484,7 +8484,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=193&pid=8798
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2005-07-05 00:08:58*
 
@@ -8511,7 +8511,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=193&pid=8798
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-07-07 00:34:00*
 
@@ -8548,7 +8548,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=184&pid=8473
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2005-05-16 22:52:08*
 
@@ -8567,7 +8567,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=179&pid=7997
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2005-06-29 01:20:20*
 
@@ -8609,7 +8609,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=181&pid=8071
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-10-23 01:24:51*
 
@@ -8653,7 +8653,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=134&pid=6392
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2005-06-30 23:19:05*
 
@@ -8664,7 +8664,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=134&pid=6392
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-07-23 01:04:12*
 
@@ -8688,7 +8688,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=134&pid=6392
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-08-02 22:31:38*
 
@@ -8718,7 +8718,7 @@ http://www.lppc.com.tw/月刊內文/magzine319-3.htm
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-08-02 23:39:31*
 
@@ -8749,7 +8749,7 @@ http://www.lppc.com.tw/月刊內文/magzine319-3.htm
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-08-22 22:19:25*
 
@@ -8771,7 +8771,7 @@ http://tw.news.yahoo.com/article/url/d/a/110822/1/2xbj3.html
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2013-04-11 04:55:07*
 
@@ -8809,7 +8809,7 @@ http://tw.news.yahoo.com/article/url/d/a/110822/1/2xbj3.html
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2013-04-11 16:01:17*
 
@@ -8840,7 +8840,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=312&pid=2596
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2011-08-22 22:46:13*
 
@@ -8864,7 +8864,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=312&pid=2596
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-08-24 21:43:07*
 
@@ -8893,7 +8893,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=312&pid=2596
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2011-08-24 21:59:55*
 
@@ -8933,7 +8933,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=312&pid=2512
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-04-08 00:16:59*
 
@@ -8963,7 +8963,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=312&pid=2512
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2013-04-08 00:42:17*
 
@@ -8991,7 +8991,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=312&pid=2512
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-04-10 11:15:54*
 
@@ -9012,7 +9012,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=312&pid=2513
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-05-29 01:32:34*
 
@@ -9058,7 +9058,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8273
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2005-05-30 12:36:31*
 
@@ -9089,7 +9089,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8273
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-05-31 10:09:45*
 
@@ -9108,7 +9108,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8273
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2005-05-31 10:33:49*
 
@@ -9136,7 +9136,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8273
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-06-01 22:40:55*
 
@@ -9178,7 +9178,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8390
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-06-03 04:31:35*
 
@@ -9218,7 +9218,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8390
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2005-05-05 23:22:13*
 
@@ -9244,7 +9244,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8390
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2005-05-06 22:44:13*
 
@@ -9254,7 +9254,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8390
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2005-05-06 23:39:13*
 
@@ -9281,7 +9281,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=183&pid=8390
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2005-05-09 00:45:14*
 
@@ -9346,7 +9346,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=176&pid=7937
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2005-05-11 00:36:10*
 
@@ -9367,7 +9367,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=177&pid=7963
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2005-03-22 00:51:28*
 
@@ -9398,7 +9398,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=161&pid=7209
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2005-04-09 21:36:13*
 
@@ -9433,7 +9433,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-04-18 23:31:50*
 
@@ -9457,7 +9457,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2005-04-18 23:38:06*
 
@@ -9471,7 +9471,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2005-03-30 13:27:16*
 
@@ -9491,7 +9491,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2005-03-29 18:18:10*
 
@@ -9503,7 +9503,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2005-03-29 18:42:08*
 
@@ -9523,7 +9523,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-03-29 19:44:59*
 
@@ -9533,7 +9533,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2005-04-05 01:01:11*
 
@@ -9549,7 +9549,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-04-08 01:06:12*
 
@@ -9566,7 +9566,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=169&pid=7609
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2005-03-29 18:07:33*
 
@@ -9595,7 +9595,7 @@ cmj0920女士所言的是比較高層的境界「我真的很佩服你，剛好�
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2005-03-29 19:39:45*
 
@@ -9618,7 +9618,7 @@ cmj0920是小姐ㄛ....真是抱歉!!其實靜師父也不必刻意封閉自己.
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2009-07-12 20:57:10*
 
@@ -9636,7 +9636,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=291&pid=1173
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2014-06-22 18:34:35*
 
@@ -9662,7 +9662,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=291&pid=1173
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2004-08-08 00:58:35*
 
@@ -9790,7 +9790,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=113&pid=5473
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-08-30 22:06:59*
 
@@ -9869,7 +9869,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=113&pid=5551
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-08-30 21:55:26*
 
@@ -9903,7 +9903,7 @@ MIKI算是來的時間最短威望最高的了。
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-02-19 23:14:38*
 
@@ -9931,7 +9931,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=158&pid=7049
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-02-13 01:25:29*
 
@@ -9968,7 +9968,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=156&pid=6968
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-02-19 23:56:14*
 
@@ -9993,7 +9993,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=156&pid=6968
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2005-02-08 12:17:18*
 
@@ -10034,7 +10034,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=155&pid=6941
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2005-02-16 00:37:52*
 
@@ -10076,7 +10076,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=155&pid=6941
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-02-17 00:29:34*
 
@@ -10104,7 +10104,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=155&pid=6956
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2005-01-28 18:50:30*
 
@@ -10152,7 +10152,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=154&pid=6924
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-01-07 23:28:35*
 
@@ -10164,7 +10164,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=154&pid=6924
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-01-14 23:48:17*
 
@@ -10190,7 +10190,7 @@ http://www.jin999.com/cgi-bin/topic.cgi?forum=4&topic=174&show=0
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-01-18 01:19:54*
 
@@ -10222,7 +10222,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=122&pid=5982
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2004-03-03 00:00:14*
 
@@ -10318,7 +10318,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=152&pid=6840
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-11-28 21:15:44*
 
@@ -10326,7 +10326,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=152&pid=6840
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-11-30 00:13:17*
 
@@ -10352,7 +10352,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=152&pid=6840
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-11-29 23:58:15*
 
@@ -10376,7 +10376,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=152&pid=6840
 
 ---
 
-### 文集/靈學探微
+### 佛法
 
 *發表於 2013-11-12 19:58:18*
 
@@ -10406,7 +10406,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=152&pid=6840
 
 ---
 
-### 文集/靈學探微
+### 佛法
 
 *發表於 2013-11-12 22:23:06*
 
@@ -10439,7 +10439,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=152&pid=6840
 
 ---
 
-### 文集/靈學探微
+### 天界
 
 *發表於 2013-11-15 17:57:09*
 
@@ -10456,7 +10456,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=152&pid=6840
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2014-04-20 10:48:29*
 
@@ -10481,7 +10481,7 @@ nirmala是比較幸福.........能夠隨心所欲
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-10-06 21:26:23*
 
@@ -10518,7 +10518,7 @@ nirmala是比較幸福.........能夠隨心所欲
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2004-10-06 21:46:28*
 
@@ -10562,7 +10562,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2004-10-06 21:49:00*
 
@@ -10590,7 +10590,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=133&pid=6381
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2004-10-26 01:33:51*
 
@@ -10656,7 +10656,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=133&pid=6381
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-10-26 22:33:03*
 
@@ -10671,7 +10671,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=133&pid=6381
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-09-14 01:52:22*
 
@@ -10720,7 +10720,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=124&pid=6065
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2004-10-06 01:01:53*
 
@@ -10751,7 +10751,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=124&pid=6065
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2004-11-09 23:24:02*
 
@@ -10780,7 +10780,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=124&pid=6065
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-11-10 18:46:59*
 
@@ -10813,7 +10813,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=131&pid=6177
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2004-11-11 00:03:06*
 
@@ -10843,7 +10843,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=131&pid=6177
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-11-19 01:56:53*
 
@@ -10857,7 +10857,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=131&pid=6177
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-06-30 00:48:22*
 
@@ -10880,7 +10880,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=131&pid=6177
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2004-11-09 23:38:13*
 
@@ -10919,7 +10919,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=139&pid=6642
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2004-09-12 19:49:52*
 
@@ -10973,7 +10973,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=139&pid=6642
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-09-14 01:40:13*
 
@@ -10993,7 +10993,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=139&pid=6642
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2004-09-14 23:36:32*
 
@@ -11039,7 +11039,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=139&pid=6642
 
 ---
 
-### 文集/靈學探微
+### 心魔
 
 *發表於 2004-09-21 13:03:29*
 
@@ -11081,7 +11081,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=139&pid=6642
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2004-09-12 20:19:51*
 
@@ -11159,7 +11159,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=126&pid=6088
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2004-09-14 01:12:14*
 
@@ -11196,7 +11196,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=126&pid=6088
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2004-09-14 01:34:02*
 
@@ -11227,7 +11227,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=126&pid=6088
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2004-09-29 00:07:50*
 
@@ -11255,7 +11255,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=126&pid=6088
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-06-29 22:50:39*
 
@@ -11302,7 +11302,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=108&pid=5311
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-07-01 01:07:23*
 
@@ -11364,7 +11364,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=108&pid=5311
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-07-01 19:30:34*
 
@@ -11391,7 +11391,7 @@ CJ便問他說如果之前的體驗是你自己的，那沒理由會不知後後
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-07-01 21:32:17*
 
@@ -11417,7 +11417,7 @@ CJ便問他說如果之前的體驗是你自己的，那沒理由會不知後後
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2012-02-02 19:03:23*
 
@@ -11532,7 +11532,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=423&pid=2570
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2013-12-03 18:11:59*
 
@@ -11571,7 +11571,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=423&pid=2570
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-06-17 23:28:11*
 
@@ -11603,7 +11603,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=323&pid=1279
 
 ---
 
-### 文集/靈學探微
+### 佛法
 
 *發表於 2004-07-30 23:49:55*
 
@@ -11650,7 +11650,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=323&pid=1279
 
 ---
 
-### 文集/靈學探微
+### 佛法
 
 *發表於 2004-07-31 00:17:05*
 
@@ -11685,7 +11685,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=323&pid=1279
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-08-25 01:42:32*
 
@@ -11699,7 +11699,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=323&pid=1279
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2004-08-31 01:18:43*
 
@@ -11737,7 +11737,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=323&pid=1279
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-08-31 01:24:23*
 
@@ -11745,7 +11745,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=323&pid=1279
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-09-09 00:29:05*
 
@@ -11772,7 +11772,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=323&pid=1279
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-08-10 00:26:44*
 
@@ -11801,7 +11801,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=114&pid=5568
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-08-18 23:07:39*
 
@@ -11845,7 +11845,7 @@ Carla
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2004-06-06 20:22:38*
 
@@ -11913,7 +11913,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=328&pid=1294
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-08-18 01:38:52*
 
@@ -11925,7 +11925,7 @@ ps.嘿嘿~~~~最近才發現偶的"盾牌&qu ...
 
 ---
 
-### 文集/靈學探微
+### 迷信
 
 *發表於 2004-08-18 23:20:42*
 
@@ -11943,7 +11943,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=117&pid=5681
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2004-08-04 00:59:46*
 
@@ -11964,7 +11964,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=117&pid=5681
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2004-08-04 01:12:34*
 
@@ -11990,7 +11990,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=117&pid=5681
 
 ---
 
-### 文集/靈學探微
+### 迷信
 
 *發表於 2004-08-04 23:14:06*
 
@@ -12044,7 +12044,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=117&pid=5681
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-08-04 23:46:53*
 
@@ -12079,7 +12079,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=117&pid=5681
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2004-08-06 00:01:50*
 
@@ -12181,7 +12181,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=117&pid=5681
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-08-06 23:51:17*
 
@@ -12191,7 +12191,7 @@ VANISHING
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2004-08-08 01:56:43*
 
@@ -12251,7 +12251,7 @@ VANISHING
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2004-08-09 22:19:22*
 
@@ -12288,7 +12288,7 @@ VANISHING
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-08-11 01:03:18*
 
@@ -12318,7 +12318,7 @@ VANISHING
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2004-06-04 23:48:36*
 
@@ -12357,7 +12357,7 @@ VANISHING
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2004-06-08 22:31:08*
 
@@ -12395,7 +12395,7 @@ VANISHING
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-06-10 01:12:47*
 
@@ -12455,7 +12455,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=329&pid=1299
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2012-09-09 11:47:30*
 
@@ -12467,7 +12467,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=329&pid=1299
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2004-03-12 00:31:06*
 
@@ -12476,7 +12476,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=329&pid=1299
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2004-06-17 23:12:41*
 
@@ -12510,7 +12510,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=102&pid=5026
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-05-02 21:31:18*
 
@@ -12562,7 +12562,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=102&pid=5026
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-05-05 00:25:34*
 
@@ -12593,7 +12593,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=318&pid=1273
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2004-05-27 20:42:27*
 
@@ -12645,7 +12645,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=318&pid=1273
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-04-13 01:43:49*
 
@@ -12737,7 +12737,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=318&pid=1273
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2004-05-14 01:39:50*
 
@@ -12769,7 +12769,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=317&pid=1271
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2012-05-05 08:00:59*
 
@@ -12855,7 +12855,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=425&pid=2565
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2004-06-27 00:00:10*
 
@@ -12887,7 +12887,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=425&pid=2565
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2004-07-23 00:48:07*
 
@@ -12916,7 +12916,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=425&pid=2565
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-07-24 01:14:27*
 
@@ -12931,7 +12931,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=425&pid=2565
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-07-24 01:53:11*
 
@@ -12972,7 +12972,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=425&pid=2565
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-07-24 02:17:29*
 
@@ -13007,7 +13007,7 @@ hc兄用錯成語了吧~"~
 
 ---
 
-### 文集/靈學探微
+### 卡陰
 
 *發表於 2004-07-27 13:26:46*
 
@@ -13031,7 +13031,7 @@ hc兄用錯成語了吧~"~
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2004-07-28 19:11:56*
 
@@ -13058,7 +13058,7 @@ hc兄用錯成語了吧~"~
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-07-28 19:34:27*
 
@@ -13098,7 +13098,7 @@ hc兄用錯成語了吧~"~
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2004-07-31 00:19:12*
 
@@ -13146,7 +13146,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5244
 
 ---
 
-### 文集/靈學探微
+### 卡陰
 
 *發表於 2004-07-21 01:23:12*
 
@@ -13192,7 +13192,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5173
 
 ---
 
-### 文集/靈學探微
+### 卡陰
 
 *發表於 2004-07-22 00:29:49*
 
@@ -13231,7 +13231,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5173
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2004-07-22 00:42:40*
 
@@ -13274,7 +13274,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2004-07-23 00:04:56*
 
@@ -13316,7 +13316,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-07-23 00:31:36*
 
@@ -13331,7 +13331,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-11 07:46:17*
 
@@ -13341,7 +13341,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-12 03:08:33*
 
@@ -13349,7 +13349,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-12 08:17:21*
 
@@ -13357,7 +13357,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2012-04-16 04:54:13*
 
@@ -13366,7 +13366,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-04 08:36:19*
 
@@ -13380,7 +13380,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-04 08:53:33*
 
@@ -13391,7 +13391,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-10-08 00:17:53*
 
@@ -13415,7 +13415,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-14 19:43:58*
 
@@ -13423,7 +13423,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-15 09:11:46*
 
@@ -13436,7 +13436,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-16 06:55:41*
 
@@ -13446,7 +13446,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2012-05-19 07:15:16*
 
@@ -13457,7 +13457,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-21 07:48:51*
 
@@ -13469,7 +13469,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2011-10-08 20:45:47*
 
@@ -13508,7 +13508,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2012-06-05 07:02:39*
 
@@ -13521,7 +13521,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-06-07 13:57:04*
 
@@ -13539,7 +13539,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2012-06-08 01:41:21*
 
@@ -13580,7 +13580,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2012-06-13 23:55:00*
 
@@ -13595,7 +13595,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-06-16 00:09:19*
 
@@ -13612,7 +13612,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-06-16 00:29:53*
 
@@ -13620,7 +13620,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2012-07-04 16:41:17*
 
@@ -13645,7 +13645,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2011-10-12 19:27:29*
 
@@ -13665,7 +13665,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-07-10 13:03:33*
 
@@ -13673,7 +13673,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2011-10-12 22:48:10*
 
@@ -13718,7 +13718,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2013-04-29 20:13:28*
 
@@ -13728,7 +13728,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-04-30 19:12:35*
 
@@ -13736,7 +13736,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=105&pid=5179
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2011-10-13 19:52:56*
 
@@ -13757,7 +13757,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-09-16 20:34:26*
 
@@ -13766,7 +13766,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-09-21 23:52:52*
 
@@ -13776,7 +13776,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2013-10-29 21:44:01*
 
@@ -13793,7 +13793,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-10-14 19:24:56*
 
@@ -13805,7 +13805,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2013-11-29 01:27:06*
 
@@ -13820,7 +13820,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2014-04-29 20:36:11*
 
@@ -13833,7 +13833,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2014-05-14 21:55:11*
 
@@ -13845,7 +13845,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2014-05-15 20:08:24*
 
@@ -13861,7 +13861,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2011-10-15 21:58:30*
 
@@ -13885,7 +13885,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-10-15 22:11:05*
 
@@ -13917,7 +13917,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 迷信
 
 *發表於 2017-05-08 21:04:15*
 
@@ -13928,7 +13928,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2011-10-15 22:55:03*
 
@@ -13945,7 +13945,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-10-16 23:24:35*
 
@@ -13966,7 +13966,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-10-17 19:42:41*
 
@@ -13990,7 +13990,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2012-01-09 22:44:21*
 
@@ -14002,7 +14002,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2012-01-11 02:08:26*
 
@@ -14027,7 +14027,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-12 00:19:39*
 
@@ -14035,7 +14035,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-14 09:58:45*
 
@@ -14046,7 +14046,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-14 19:17:08*
 
@@ -14061,7 +14061,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2012-01-16 00:32:18*
 
@@ -14106,7 +14106,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-16 01:00:42*
 
@@ -14116,7 +14116,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-02-01 04:04:49*
 
@@ -14124,7 +14124,7 @@ mgjoy  很多資訊就是像這樣閒談中存在舊版裡面，但是因為實�
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2012-02-01 08:35:17*
 
@@ -14177,7 +14177,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2012-02-19 05:09:14*
 
@@ -14197,7 +14197,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2012-02-20 06:05:29*
 
@@ -14222,7 +14222,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2012-02-27 06:16:00*
 
@@ -14235,7 +14235,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2012-02-27 07:48:15*
 
@@ -14249,7 +14249,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2012-02-28 04:57:43*
 
@@ -14296,7 +14296,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2012-03-01 09:33:21*
 
@@ -14304,7 +14304,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-04 03:01:13*
 
@@ -14313,7 +14313,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2012-04-04 08:19:33*
 
@@ -14331,7 +14331,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2012-04-04 08:56:01*
 
@@ -14351,7 +14351,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=313&pid=2363
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2013-08-31 02:06:25*
 
@@ -14409,7 +14409,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=447&pid=2551
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2013-10-21 16:29:36*
 
@@ -14436,7 +14436,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=447&pid=2551
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2013-10-21 18:15:41*
 
@@ -14445,7 +14445,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=447&pid=2551
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2013-10-08 20:10:44*
 
@@ -14537,7 +14537,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=447&pid=2559
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-04-26 23:53:33*
 
@@ -14557,7 +14557,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=447&pid=2559
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2006-04-28 01:16:18*
 
@@ -14609,7 +14609,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=240&pid=1029
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2012-01-12 00:18:20*
 
@@ -14647,7 +14647,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=240&pid=1029
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-12-22 01:10:58*
 
@@ -14659,7 +14659,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=240&pid=1029
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2006-06-15 14:30:23*
 
@@ -14698,7 +14698,7 @@ CMJ我偷偷跟你說，不要告訴別人喔，這裡都是壞人絕對沒錯�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-06-15 15:14:44*
 
@@ -14752,7 +14752,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=246&pid=1057
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2011-05-19 13:52:06*
 
@@ -14791,7 +14791,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=246&pid=1057
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2011-05-29 23:30:17*
 
@@ -14802,7 +14802,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=246&pid=1057
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2011-05-30 23:26:05*
 
@@ -14855,7 +14855,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=246&pid=1057
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2011-05-31 00:22:47*
 
@@ -14878,7 +14878,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=246&pid=1057
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2011-05-31 13:40:54*
 
@@ -14929,7 +14929,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1231
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2011-06-01 23:28:01*
 
@@ -14961,7 +14961,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1231
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2011-06-02 13:04:58*
 
@@ -14980,7 +14980,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1231
 
 ---
 
-### 文集/靈學探微
+### 心魔
 
 *發表於 2011-06-02 23:47:31*
 
@@ -15028,7 +15028,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1231
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2011-06-03 08:23:34*
 
@@ -15047,7 +15047,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1231
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2011-05-19 19:47:34*
 
@@ -15108,7 +15108,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1231
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2011-06-03 11:46:45*
 
@@ -15135,7 +15135,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1233
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2011-06-22 16:32:30*
 
@@ -15143,7 +15143,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1233
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-06-24 00:36:45*
 
@@ -15177,7 +15177,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1233
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2011-06-25 00:52:20*
 
@@ -15247,7 +15247,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1238
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2011-05-20 22:54:04*
 
@@ -15268,7 +15268,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1238
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-05-21 14:30:57*
 
@@ -15298,7 +15298,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1238
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2011-05-22 20:15:55*
 
@@ -15331,7 +15331,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1227
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2011-05-28 02:30:01*
 
@@ -15383,7 +15383,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1227
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2011-05-29 02:06:35*
 
@@ -15416,7 +15416,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=306&pid=1227
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-11-03 19:25:35*
 
@@ -15430,7 +15430,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=315&pid=1269
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2009-04-20 01:36:44*
 
@@ -15496,7 +15496,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=315&pid=1269
 
 ---
 
-### 文集/靈學探微
+### 風水
 
 *發表於 2010-10-21 00:23:08*
 
@@ -15519,7 +15519,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=315&pid=1269
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2011-08-18 22:13:52*
 
@@ -15549,7 +15549,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1146
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-10-04 21:26:45*
 
@@ -15573,7 +15573,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1146
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2011-10-04 21:48:51*
 
@@ -15605,7 +15605,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1147
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2009-04-20 22:54:31*
 
@@ -15689,7 +15689,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1145
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2010-10-19 23:45:37*
 
@@ -15726,7 +15726,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1145
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2006-07-28 21:15:21*
 
@@ -15748,7 +15748,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1145
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2006-07-28 23:24:57*
 
@@ -15760,7 +15760,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1145
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2011-09-25 23:48:30*
 
@@ -15774,7 +15774,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1145
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2011-10-08 22:04:55*
 
@@ -15788,7 +15788,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=282&pid=1145
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-10-08 23:03:48*
 
@@ -15827,7 +15827,7 @@ PS：這說起來又是一個天方夜譚，有的說的。
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2011-10-10 00:39:28*
 
@@ -15846,7 +15846,7 @@ PS：這說起來又是一個天方夜譚，有的說的。
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2011-10-30 22:36:41*
 
@@ -15868,7 +15868,7 @@ PS：這說起來又是一個天方夜譚，有的說的。
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2011-10-31 19:41:42*
 
@@ -15909,7 +15909,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=255&pid=1078
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-10-24 18:03:05*
 
@@ -15925,7 +15925,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=255&pid=1078
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2005-04-21 21:22:13*
 
@@ -15990,7 +15990,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=255&pid=1078
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-04-29 00:32:53*
 
@@ -16033,7 +16033,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=255&pid=1078
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2011-04-29 21:50:48*
 
@@ -16199,7 +16199,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1217
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-11-20 01:11:38*
 
@@ -16207,7 +16207,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1217
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-05-05 00:32:27*
 
@@ -16270,7 +16270,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1217
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2011-05-05 17:56:59*
 
@@ -16350,7 +16350,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1220
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2010-09-29 23:27:48*
 
@@ -16394,7 +16394,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1220
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2011-09-25 21:36:41*
 
@@ -16419,7 +16419,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1220
 
 ---
 
-### 文集/靈學探微
+### 天界
 
 *發表於 2011-09-27 21:39:20*
 
@@ -16438,7 +16438,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1220
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2011-09-29 23:22:57*
 
@@ -16463,7 +16463,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1220
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-10-02 21:06:37*
 
@@ -16477,7 +16477,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1220
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2010-09-29 23:36:32*
 
@@ -16527,7 +16527,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1210
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-04-21 22:54:15*
 
@@ -16565,7 +16565,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1210
 
 ---
 
-### 文集/靈學探微
+### 科學
 
 *發表於 2011-04-26 00:41:00*
 
@@ -16584,7 +16584,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1213
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2013-08-25 01:20:06*
 
@@ -16611,7 +16611,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=305&pid=1213
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2013-09-17 23:23:36*
 
@@ -16648,7 +16648,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-09-21 23:51:01*
 
@@ -16656,7 +16656,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2014-07-12 20:45:02*
 
@@ -16676,7 +16676,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2014-08-15 00:37:21*
 
@@ -16696,7 +16696,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2014-08-20 21:26:57*
 
@@ -16711,7 +16711,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2017-06-22 18:29:39*
 
@@ -16721,7 +16721,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-09-26 22:08:05*
 
@@ -16731,7 +16731,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-09-27 20:34:15*
 
@@ -16748,7 +16748,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2011-07-18 10:34:37*
 
@@ -16768,7 +16768,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 反省
 
 *發表於 2011-09-29 21:59:17*
 
@@ -16794,7 +16794,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-10-12 22:52:28*
 
@@ -16804,7 +16804,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=308&pid=2544
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2011-10-15 23:28:50*
 
@@ -16836,7 +16836,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2011-10-18 23:59:34*
 
@@ -16861,7 +16861,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2011-10-19 21:06:17*
 
@@ -16884,7 +16884,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-10-30 22:51:52*
 
@@ -16892,7 +16892,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2011-07-20 00:02:50*
 
@@ -16904,7 +16904,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2012-07-17 23:28:51*
 
@@ -16918,7 +16918,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2012-07-21 01:56:11*
 
@@ -16929,7 +16929,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2012-07-22 00:22:37*
 
@@ -16974,7 +16974,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2012-07-24 21:54:53*
 
@@ -16990,7 +16990,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2011-08-11 00:08:58*
 
@@ -17095,7 +17095,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2011-08-30 23:51:48*
 
@@ -17118,7 +17118,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2011-09-01 02:35:53*
 
@@ -17154,7 +17154,7 @@ http://www.youtube.com/watch?v=Ss5a_-hbf2M&feature=related
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-08-15 22:29:50*
 
@@ -17214,7 +17214,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=311&pid=1256
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2011-08-24 18:25:41*
 
@@ -17247,7 +17247,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=311&pid=1256
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2011-08-26 01:04:37*
 
@@ -17278,7 +17278,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=311&pid=1257
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-08-05 01:52:07*
 
@@ -17288,7 +17288,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=311&pid=1257
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2005-07-27 19:48:48*
 
@@ -17312,7 +17312,7 @@ aesop
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2010-07-19 22:56:11*
 
@@ -17400,7 +17400,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=303&pid=1201
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2011-06-20 19:10:06*
 
@@ -17441,7 +17441,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=307&pid=1241
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2006-11-11 12:16:20*
 
@@ -17479,7 +17479,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=307&pid=1241
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2007-01-30 02:09:47*
 
@@ -17508,7 +17508,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=307&pid=1241
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2007-01-30 23:19:55*
 
@@ -17582,7 +17582,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=263&pid=1104
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2007-05-08 23:57:58*
 
@@ -17602,7 +17602,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=263&pid=1104
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-11-20 02:18:57*
 
@@ -17706,7 +17706,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=263&pid=1100
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2007-12-07 01:13:35*
 
@@ -17729,7 +17729,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=263&pid=1107
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2011-04-01 22:13:28*
 
@@ -17757,7 +17757,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=263&pid=1107
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2011-04-02 23:24:49*
 
@@ -17766,7 +17766,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=263&pid=1107
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2010-09-20 21:02:27*
 
@@ -17793,7 +17793,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=304&pid=1204
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2010-03-10 19:39:03*
 
@@ -17818,7 +17818,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=301&pid=1195
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2010-03-09 14:10:07*
 
@@ -17843,7 +17843,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=173&pid=7814
 
 ---
 
-### 文集/靈學探微
+### 風水
 
 *發表於 2010-03-08 19:07:43*
 
@@ -17851,7 +17851,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=173&pid=7814
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2017-05-08 20:59:49*
 
@@ -17871,7 +17871,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=173&pid=7814
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2008-03-06 00:00:53*
 
@@ -17929,7 +17929,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=279&pid=1135
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2009-12-28 23:03:40*
 
@@ -17945,7 +17945,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=279&pid=1135
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2009-12-28 23:11:20*
 
@@ -17976,7 +17976,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=295&pid=1178
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2009-06-02 00:45:23*
 
@@ -18056,7 +18056,7 @@ http://tw.knowledge.yahoo.com/question/question?qid=1306051208005
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2009-06-08 11:06:47*
 
@@ -18095,7 +18095,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=283&pid=1151
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2007-05-20 00:26:59*
 
@@ -18109,7 +18109,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=283&pid=1151
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2007-05-24 23:42:19*
 
@@ -18132,7 +18132,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=283&pid=1151
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2007-05-26 21:07:29*
 
@@ -18169,7 +18169,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=270&pid=1121
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2007-05-29 01:38:19*
 
@@ -18191,7 +18191,7 @@ Melody這樣你就知道以前的我有多難纏了吧 哈哈哈
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2007-05-30 00:12:15*
 
@@ -18211,7 +18211,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=270&pid=1122
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2004-08-10 23:42:04*
 
@@ -18348,7 +18348,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=115&pid=5659
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2006-02-15 01:38:43*
 
@@ -18364,7 +18364,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=115&pid=5659
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2006-02-21 01:48:59*
 
@@ -18391,7 +18391,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=115&pid=5659
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2009-06-22 12:30:52*
 
@@ -18407,7 +18407,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=287&pid=1161
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-05-02 10:57:42*
 
@@ -18428,7 +18428,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=287&pid=1161
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2005-05-02 11:23:30*
 
@@ -18454,7 +18454,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=287&pid=1161
 
 ---
 
-### 文集/靈學探微
+### 風水
 
 *發表於 2005-06-28 20:50:17*
 
@@ -18465,7 +18465,7 @@ http://www.jin999.com/cgi-bin/topic.cgi?forum=5&topic=1&show=0
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-05-02 10:59:15*
 
@@ -18487,7 +18487,7 @@ http://www.jin999.com/cgi-bin/topic.cgi?forum=5&topic=1&show=0
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2010-05-25 22:36:57*
 
@@ -18497,7 +18497,7 @@ http://www.jin999.com/cgi-bin/topic.cgi?forum=5&topic=1&show=0
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-05-02 10:59:47*
 
@@ -18512,7 +18512,7 @@ http://www.jin999.com/cgi-bin/topic.cgi?forum=5&topic=1&show=0
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2010-09-22 22:26:56*
 
@@ -18585,7 +18585,7 @@ http://www.jin999.com/cgi-bin/topic.cgi?forum=5&topic=1&show=0
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2010-09-22 22:48:09*
 
@@ -18602,7 +18602,7 @@ http://www.jin999.com/cgi-bin/topic.cgi?forum=5&topic=1&show=0
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2010-09-24 21:52:39*
 
@@ -18631,7 +18631,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2010-09-25 21:28:57*
 
@@ -18655,7 +18655,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-05-02 11:00:28*
 
@@ -18669,7 +18669,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2010-09-27 23:02:20*
 
@@ -18682,7 +18682,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2010-09-29 00:01:10*
 
@@ -18691,7 +18691,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-05-02 11:01:40*
 
@@ -18706,7 +18706,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2005-05-02 11:02:06*
 
@@ -18717,7 +18717,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2005-05-02 11:03:12*
 
@@ -18736,7 +18736,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2005-05-02 11:03:34*
 
@@ -18753,7 +18753,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-05-02 11:03:58*
 
@@ -18774,7 +18774,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=175&pid=7870
 
 ---
 
-### 文集/靈學探微
+### 夢境
 
 *發表於 2009-06-24 02:04:22*
 
@@ -18803,7 +18803,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=288&pid=1163
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2006-10-24 19:49:51*
 
@@ -18824,7 +18824,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=288&pid=1163
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-10-24 20:22:26*
 
@@ -18894,7 +18894,7 @@ jin310tw: 再見
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-10-24 20:28:24*
 
@@ -18955,7 +18955,7 @@ jin310tw (2005/10/23 下午 01:01:18): 威望是我降的我幹嘛不敢承認�
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2006-10-24 20:49:23*
 
@@ -19139,7 +19139,7 @@ jin310tw (2005/10/23 下午 02:03:41): 也因為你們的無聊舉動，害我�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-10-24 20:53:47*
 
@@ -19158,7 +19158,7 @@ jin310tw (2005/10/25 下午 09:27:57): 你在說什麼？不要每次都說自�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-10-24 21:08:01*
 
@@ -19177,7 +19177,7 @@ jin310tw (2005/10/25 下午 09:27:57): 你在說什麼？不要每次都說自�
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2006-10-25 01:58:57*
 
@@ -19188,7 +19188,7 @@ jin310tw (2005/10/25 下午 09:27:57): 你在說什麼？不要每次都說自�
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2006-10-26 02:40:40*
 
@@ -19209,7 +19209,7 @@ jin310tw (2005/10/25 下午 09:27:57): 你在說什麼？不要每次都說自�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2009-06-22 23:44:14*
 
@@ -19247,7 +19247,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=262&pid=1093
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2007-05-11 23:11:15*
 
@@ -19276,7 +19276,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=290&pid=1165
 
 ---
 
-### 文集/靈學探微
+### 佛法
 
 *發表於 2007-05-12 23:34:32*
 
@@ -19309,7 +19309,7 @@ oma 您好
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2007-05-12 23:49:15*
 
@@ -19335,7 +19335,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=290&pid=1167
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2007-05-13 00:28:24*
 
@@ -19356,7 +19356,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=290&pid=1167
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2007-05-13 00:39:11*
 
@@ -19381,7 +19381,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=290&pid=1171
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2004-02-16 11:52:19*
 
@@ -19420,7 +19420,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=289&pid=1164
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2005-09-29 20:41:00*
 
@@ -19451,7 +19451,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=289&pid=1164
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2009-06-23 01:39:57*
 
@@ -19461,7 +19461,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=289&pid=1164
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2009-06-23 00:27:30*
 
@@ -19469,7 +19469,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=289&pid=1164
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2009-06-14 22:22:28*
 
@@ -19479,7 +19479,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=289&pid=1164
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2009-06-15 20:01:50*
 
@@ -19496,7 +19496,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=289&pid=1164
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2009-06-15 22:11:53*
 
@@ -19530,7 +19530,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=286&pid=1158
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2009-06-18 23:52:35*
 
@@ -19551,7 +19551,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=286&pid=1158
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2009-06-20 01:00:03*
 
@@ -19562,7 +19562,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=286&pid=1158
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2007-11-21 01:06:01*
 
@@ -19607,7 +19607,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=286&pid=1158
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-11-21 01:19:18*
 
@@ -19620,7 +19620,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=286&pid=1158
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2007-11-21 23:37:16*
 
@@ -19638,7 +19638,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=286&pid=1158
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-11-26 00:44:17*
 
@@ -19657,7 +19657,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=286&pid=1158
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2007-11-26 23:45:50*
 
@@ -19693,7 +19693,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=278&pid=1131
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2009-06-12 10:54:51*
 
@@ -19702,7 +19702,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=278&pid=1131
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-09-27 01:25:39*
 
@@ -19829,7 +19829,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=278&pid=1131
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-09-27 01:30:49*
 
@@ -19969,7 +19969,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=278&pid=1131
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2009-05-02 01:18:18*
 
@@ -19977,7 +19977,7 @@ pt  我好怕阿飄喔，我很膽小的你不要欺負我，你北上的時候�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2008-06-03 22:31:11*
 
@@ -19997,7 +19997,7 @@ pt  我好怕阿飄喔，我很膽小的你不要欺負我，你北上的時候�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2008-06-04 23:49:51*
 
@@ -20066,7 +20066,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-17 18:11:21*
 
@@ -20079,7 +20079,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2012-04-30 06:31:47*
 
@@ -20096,7 +20096,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-30 08:32:30*
 
@@ -20104,7 +20104,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-01 10:41:37*
 
@@ -20112,7 +20112,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-02 08:18:03*
 
@@ -20126,7 +20126,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2012-05-13 20:59:55*
 
@@ -20140,7 +20140,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2012-05-14 08:49:26*
 
@@ -20161,7 +20161,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-14 19:41:19*
 
@@ -20178,7 +20178,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 業力
 
 *發表於 2012-05-15 08:42:56*
 
@@ -20198,7 +20198,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-11-14 22:30:10*
 
@@ -20208,7 +20208,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2012-05-25 02:45:23*
 
@@ -20229,7 +20229,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-25 09:09:04*
 
@@ -20244,7 +20244,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-05-25 21:01:28*
 
@@ -20255,7 +20255,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-06-04 00:23:03*
 
@@ -20274,7 +20274,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2012-06-05 07:36:40*
 
@@ -20325,7 +20325,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-06-28 22:03:52*
 
@@ -20333,7 +20333,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2012-07-19 22:39:31*
 
@@ -20355,7 +20355,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2012-07-21 01:38:36*
 
@@ -20396,7 +20396,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-12-10 22:55:20*
 
@@ -20421,7 +20421,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-07-31 22:23:02*
 
@@ -20431,7 +20431,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-08-01 23:03:49*
 
@@ -20443,7 +20443,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-12-14 21:02:27*
 
@@ -20451,7 +20451,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2012-09-09 00:38:12*
 
@@ -20477,7 +20477,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-09-28 17:37:53*
 
@@ -20491,7 +20491,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-12-16 01:11:13*
 
@@ -20499,7 +20499,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-02-25 22:15:15*
 
@@ -20507,7 +20507,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-03-05 12:58:55*
 
@@ -20517,7 +20517,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2011-12-18 20:30:14*
 
@@ -20527,7 +20527,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2013-03-11 16:53:08*
 
@@ -20557,7 +20557,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2013-04-08 00:32:27*
 
@@ -20580,7 +20580,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=281&pid=1141
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-04-21 22:50:38*
 
@@ -20594,7 +20594,7 @@ LinChiang 發表於 2013-4-9 10:23
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-04-22 23:37:39*
 
@@ -20607,7 +20607,7 @@ LinChiang 發表於 2013-4-9 10:23
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2013-04-29 01:48:39*
 
@@ -20632,7 +20632,7 @@ LinChiang 發表於 2013-4-9 10:23
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2013-05-12 23:39:58*
 
@@ -20653,7 +20653,7 @@ pt49506105 發表於 2013-5-12 12:52
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2011-12-27 01:38:18*
 
@@ -20679,7 +20679,7 @@ pt49506105 發表於 2013-5-12 12:52
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2013-05-16 03:28:08*
 
@@ -20703,7 +20703,7 @@ Carla 發表於 2013-5-15 02:28
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2013-05-25 01:58:57*
 
@@ -20731,7 +20731,7 @@ Carla 發表於 2013-5-23 03:14
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-05-26 00:26:22*
 
@@ -20739,7 +20739,7 @@ Carla 發表於 2013-5-23 03:14
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-05-27 02:10:12*
 
@@ -20753,7 +20753,7 @@ Carla 發表於 2013-5-23 03:14
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-05-28 23:53:45*
 
@@ -20784,7 +20784,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-05-31 01:50:05*
 
@@ -20792,7 +20792,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-06-04 20:11:27*
 
@@ -20800,7 +20800,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2013-06-29 02:39:48*
 
@@ -20839,7 +20839,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2013-07-03 00:09:29*
 
@@ -20856,7 +20856,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-07-05 19:40:28*
 
@@ -20875,7 +20875,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-07-07 22:55:58*
 
@@ -20885,7 +20885,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2011-10-25 00:08:13*
 
@@ -20902,7 +20902,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2522
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2011-12-31 23:58:03*
 
@@ -20937,7 +20937,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1252
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-07-25 00:13:25*
 
@@ -20950,7 +20950,7 @@ nirmala 發表於 2013-7-23 10:58
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-07-28 01:10:20*
 
@@ -20969,7 +20969,7 @@ nirmala 發表於 2013-7-23 10:58
 
 ---
 
-### 文集/靈學探微
+### 風水
 
 *發表於 2013-07-31 00:47:17*
 
@@ -21022,7 +21022,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2530
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-07-31 08:40:43*
 
@@ -21033,7 +21033,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2530
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2013-08-09 00:30:39*
 
@@ -21048,7 +21048,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2530
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-08-11 00:32:53*
 
@@ -21062,7 +21062,7 @@ PT其實對你來說不一定會很難跟到啦，如果是白天又是假日，
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-08-24 02:28:32*
 
@@ -21073,7 +21073,7 @@ PT其實對你來說不一定會很難跟到啦，如果是白天又是假日，
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2013-08-29 00:06:32*
 
@@ -21081,7 +21081,7 @@ PT其實對你來說不一定會很難跟到啦，如果是白天又是假日，
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-02 15:20:31*
 
@@ -21093,7 +21093,7 @@ PT其實對你來說不一定會很難跟到啦，如果是白天又是假日，
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-03-29 01:45:53*
 
@@ -21111,7 +21111,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2603
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2012-01-03 23:44:03*
 
@@ -21138,7 +21138,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2015-04-26 20:02:33*
 
@@ -21147,7 +21147,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-04 09:36:17*
 
@@ -21156,7 +21156,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-05 13:11:59*
 
@@ -21168,7 +21168,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-07 00:02:15*
 
@@ -21184,7 +21184,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-01-08 23:52:06*
 
@@ -21193,7 +21193,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2011-10-25 20:31:21*
 
@@ -21218,7 +21218,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-11 02:15:03*
 
@@ -21229,7 +21229,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2012-04-11 06:43:42*
 
@@ -21244,7 +21244,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=1253
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2012-04-12 03:06:44*
 
@@ -21261,7 +21261,7 @@ Carla 發表於 2012-4-11 10:53 AM
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-12 08:16:08*
 
@@ -21272,7 +21272,7 @@ Carla 發表於 2012-4-11 10:53 AM
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2011-10-26 22:59:46*
 
@@ -21299,7 +21299,7 @@ Carla 發表於 2012-4-11 10:53 AM
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2012-04-16 05:21:01*
 
@@ -21317,7 +21317,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2388
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2005-04-21 21:22:13*
 
@@ -21382,7 +21382,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=309&pid=2388
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-11-20 01:11:38*
 
@@ -21399,7 +21399,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=170&pid=7663
 
 ---
 
-### 文集/靈學探微
+### 前世
 
 *發表於 2008-01-02 00:22:45*
 
@@ -21434,7 +21434,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=170&pid=7663
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2008-01-03 00:56:45*
 
@@ -21463,7 +21463,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=170&pid=7683
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2009-02-20 22:09:37*
 
@@ -21492,7 +21492,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=170&pid=7683
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2009-02-22 00:51:04*
 
@@ -21621,7 +21621,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=170&pid=7763
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2006-07-11 23:26:19*
 
@@ -21686,7 +21686,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=251&pid=1067
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2008-03-28 02:24:43*
 
@@ -21695,7 +21695,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=251&pid=1067
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2007-12-07 00:57:43*
 
@@ -21715,7 +21715,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=269&pid=1117
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2008-01-11 23:18:39*
 
@@ -21736,7 +21736,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=269&pid=1117
 
 ---
 
-### 文集/靈學探微
+### 佛法
 
 *發表於 2008-01-17 02:59:57*
 
@@ -21750,7 +21750,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=269&pid=1117
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2004-12-15 22:38:41*
 
@@ -21780,7 +21780,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6707
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2005-01-04 23:16:14*
 
@@ -21809,7 +21809,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6746
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-02-01 00:42:30*
 
@@ -21847,7 +21847,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6746
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2005-02-01 01:11:31*
 
@@ -21880,7 +21880,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6746
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-02-02 19:46:17*
 
@@ -21897,7 +21897,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2007-11-29 23:16:54*
 
@@ -21918,7 +21918,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2007-11-30 18:30:00*
 
@@ -21926,7 +21926,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-12-17 01:34:30*
 
@@ -21959,7 +21959,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-12-18 01:18:44*
 
@@ -21971,7 +21971,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2004-12-18 01:52:09*
 
@@ -22009,7 +22009,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 喪葬
 
 *發表於 2004-12-29 01:30:47*
 
@@ -22036,7 +22036,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-01-02 22:16:06*
 
@@ -22050,7 +22050,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2005-01-02 22:51:45*
 
@@ -22076,7 +22076,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2005-01-03 23:35:48*
 
@@ -22113,7 +22113,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=147&pid=6753
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2007-09-27 23:56:57*
 
@@ -22183,7 +22183,7 @@ ANN
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-09-28 00:02:47*
 
@@ -22247,7 +22247,7 @@ ann:只是破符咒不難.但可能會變成互相鬥法.若真要處理.
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2007-09-30 23:54:00*
 
@@ -22296,7 +22296,7 @@ wang:
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2007-10-01 00:27:45*
 
@@ -22358,7 +22358,7 @@ ann:麻煩妳神智清醒一點.我們把專門解符的人.地點.電話.都給
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2007-11-05 21:25:00*
 
@@ -22455,7 +22455,7 @@ EK 18 FU4ZJ，你是不是小戈？
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2007-11-05 21:40:52*
 
@@ -22521,7 +22521,7 @@ ann:
 
 ---
 
-### 文集/靈學探微
+### 符咒
 
 *發表於 2007-11-06 01:59:13*
 
@@ -22568,7 +22568,7 @@ cmj
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2007-11-06 02:05:59*
 
@@ -22614,7 +22614,7 @@ cmj
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2007-09-26 00:31:57*
 
@@ -22754,7 +22754,7 @@ cmj
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2007-09-26 00:20:11*
 
@@ -22919,7 +22919,7 @@ joj:你好
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2007-09-26 00:24:09*
 
@@ -23004,7 +23004,7 @@ joj:你好
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2007-09-15 00:00:58*
 
@@ -23155,7 +23155,7 @@ akira.我剛才回到觀世音方便法門那一篇去看，才發覺到原來�
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2007-09-15 00:06:03*
 
@@ -23280,7 +23280,7 @@ UFO:上面是依經驗分段,我也不敢說絕對正確.
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2007-09-24 23:26:42*
 
@@ -23376,7 +23376,7 @@ Hello!  媛媛兄,媛媛姐,
 
 ---
 
-### 文集/靈學探微
+### 天界
 
 *發表於 2007-09-24 23:33:34*
 
@@ -23472,7 +23472,7 @@ UFO:你上次遺失的問題是不是這個.
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2007-09-24 23:37:39*
 
@@ -23581,7 +23581,7 @@ UFO:你上次遺失的問題是不是這個.
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2007-09-24 23:40:36*
 
@@ -23815,7 +23815,7 @@ news:M.1008691824.A.164@bbs.nsysu.edu.tw...
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2005-09-13 01:03:55*
 
@@ -23828,7 +23828,7 @@ news:M.1008691824.A.164@bbs.nsysu.edu.tw...
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2005-09-17 00:23:37*
 
@@ -23853,7 +23853,7 @@ news:M.1008691824.A.164@bbs.nsysu.edu.tw...
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2006-03-31 20:29:31*
 
@@ -23870,7 +23870,7 @@ news:M.1008691824.A.164@bbs.nsysu.edu.tw...
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2016-03-16 00:42:32*
 
@@ -23938,7 +23938,7 @@ news:M.1008691824.A.164@bbs.nsysu.edu.tw...
 
 ---
 
-### 文集/靈學探微
+### 磁場
 
 *發表於 2016-03-16 01:21:34*
 
@@ -23953,7 +23953,7 @@ news:M.1008691824.A.164@bbs.nsysu.edu.tw...
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2007-09-03 00:57:48*
 
@@ -23990,7 +23990,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=272&pid=1125
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2005-12-12 01:36:36*
 
@@ -24022,7 +24022,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=224&pid=9801
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-09-09 00:10:52*
 
@@ -24044,7 +24044,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=224&pid=9801
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-08-21 00:10:32*
 
@@ -24052,7 +24052,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=224&pid=9801
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-06-13 23:35:13*
 
@@ -24061,7 +24061,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=224&pid=9801
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-06-15 00:11:45*
 
@@ -24080,7 +24080,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=224&pid=9801
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2007-06-17 18:55:01*
 
@@ -24106,7 +24106,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=267&pid=1113
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2005-07-19 23:46:43*
 
@@ -24161,7 +24161,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=203&pid=9151
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2005-07-21 21:06:40*
 
@@ -24185,7 +24185,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=203&pid=9151
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2006-12-02 01:20:18*
 
@@ -24221,7 +24221,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=203&pid=9151
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2006-12-08 00:09:19*
 
@@ -24243,7 +24243,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=203&pid=9185
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2006-05-24 12:56:20*
 
@@ -24260,7 +24260,7 @@ http://w01.wantclick.com/single_report.asp?store_id=5256&UBId=1&theMain_id=69358
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-05-24 19:21:26*
 
@@ -24284,7 +24284,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=243&pid=1033
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2006-05-24 23:32:15*
 
@@ -24314,7 +24314,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=243&pid=1033
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2006-05-25 00:29:10*
 
@@ -24325,7 +24325,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=243&pid=1033
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2006-05-26 02:03:26*
 
@@ -24350,7 +24350,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=243&pid=1033
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2006-05-30 23:56:08*
 
@@ -24365,7 +24365,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=243&pid=1033
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2007-03-29 01:05:13*
 
@@ -24378,7 +24378,7 @@ gumb 這一次你可以看到很多的文章了，希望你在這當中能得到
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2006-02-15 01:46:00*
 
@@ -24410,7 +24410,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=229&pid=9984
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2007-02-20 01:51:57*
 
@@ -24441,7 +24441,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=229&pid=9984
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2007-02-20 02:17:37*
 
@@ -24469,7 +24469,7 @@ cmj0920: 恩恩..
 
 ---
 
-### 文集/靈學探微
+### 佛法
 
 *發表於 2007-02-21 02:48:12*
 
@@ -24523,7 +24523,7 @@ jin310tw: 也為何我會說：順者往前  逆者微退。也是因為如果�
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2007-02-21 02:54:45*
 
@@ -24556,7 +24556,7 @@ jin310tw: 這只能說是眾生沒福報吧。
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2007-02-22 02:44:29*
 
@@ -24570,7 +24570,7 @@ jin310tw: 這只能說是眾生沒福報吧。
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2007-03-01 22:48:01*
 
@@ -24594,7 +24594,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=266&pid=1110
 
 ---
 
-### 文集/靈學探微
+### 處世態度
 
 *發表於 2006-11-28 21:13:27*
 
@@ -24619,7 +24619,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=264&pid=1109
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2006-07-31 01:00:11*
 
@@ -24630,7 +24630,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=264&pid=1109
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2004-05-28 19:50:38*
 
@@ -24662,7 +24662,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=322&pid=1276
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2014-08-20 21:38:37*
 
@@ -24700,7 +24700,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=322&pid=2616
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2004-05-28 19:53:32*
 
@@ -24726,7 +24726,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=322&pid=2616
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2004-05-28 20:01:45*
 
@@ -24785,7 +24785,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=322&pid=2616
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2010-03-09 13:30:23*
 
@@ -24803,7 +24803,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=322&pid=2616
 
 ---
 
-### 文集/靈學探微
+### 附身
 
 *發表於 2013-11-11 19:50:11*
 
@@ -24813,7 +24813,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=322&pid=2616
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-08-16 23:35:06*
 
@@ -24848,7 +24848,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=261&pid=1088
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-08-16 00:42:22*
 
@@ -24856,7 +24856,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=261&pid=1088
 
 ---
 
-### 文集/靈學探微
+### 神明
 
 *發表於 2006-08-07 23:36:20*
 
@@ -24877,7 +24877,7 @@ nirmala 的說法也沒有錯，那也是自然現象的一種方式，不管任
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2006-08-09 22:41:04*
 
@@ -24892,7 +24892,7 @@ nirmala 的說法也沒有錯，那也是自然現象的一種方式，不管任
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2006-08-11 00:35:30*
 
@@ -24921,7 +24921,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=259&pid=1082
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2006-08-17 00:05:40*
 
@@ -25025,7 +25025,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=259&pid=1082
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2006-08-17 00:12:47*
 
@@ -25474,7 +25474,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=259&pid=1082
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2006-08-19 00:17:34*
 
@@ -25509,7 +25509,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=259&pid=1084
 
 ---
 
-### 文集/靈學探微
+### 道教
 
 *發表於 2006-08-04 00:30:44*
 
@@ -25521,7 +25521,7 @@ http://w01.wantclick.com/WbbsHtml/5256/5256-1-292751-1.htm?date=2474
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2006-07-31 00:54:06*
 
@@ -25537,7 +25537,7 @@ http://w01.wantclick.com/WbbsHtml/5256/5256-1-292751-1.htm?date=2474
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-07-22 00:53:20*
 
@@ -25550,7 +25550,7 @@ http://w01.wantclick.com/WbbsHtml/5256/5256-1-292751-1.htm?date=2474
 
 ---
 
-### 文集/靈學探微
+### 工作
 
 *發表於 2006-07-14 21:30:31*
 
@@ -25562,7 +25562,7 @@ http://w01.wantclick.com/WbbsHtml/5256/5256-1-292751-1.htm?date=2474
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-06-27 11:30:47*
 
@@ -25570,7 +25570,7 @@ http://w01.wantclick.com/WbbsHtml/5256/5256-1-292751-1.htm?date=2474
 
 ---
 
-### 文集/靈學探微
+### 家庭
 
 *發表於 2006-06-27 11:44:03*
 
@@ -25588,7 +25588,7 @@ heddylch如果妳看不懂繁體字的字意，也可以在請我們解釋一下
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-11-20 02:37:03*
 
@@ -25621,7 +25621,7 @@ heddylch如果妳看不懂繁體字的字意，也可以在請我們解釋一下
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2005-11-23 00:26:15*
 
@@ -25663,7 +25663,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=223&pid=9794
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-06-16 01:51:04*
 
@@ -25713,7 +25713,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=247&pid=1058
 
 ---
 
-### 文集/靈學探微
+### 喪葬
 
 *發表於 2012-10-23 00:29:22*
 
@@ -25722,7 +25722,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=247&pid=1058
 
 ---
 
-### 文集/靈學探微
+### 喪葬
 
 *發表於 2012-10-24 23:36:33*
 
@@ -25735,7 +25735,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=247&pid=1058
 
 ---
 
-### 文集/靈學探微
+### 喪葬
 
 *發表於 2012-10-29 19:38:03*
 
@@ -25745,7 +25745,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=247&pid=1058
 
 ---
 
-### 文集/靈學探微
+### 喪葬
 
 *發表於 2012-10-29 19:45:45*
 
@@ -25758,7 +25758,7 @@ http://tw.news.yahoo.com/%e5%9e% ... 2%b7-102515566.html
 
 ---
 
-### 文集/靈學探微
+### 喪葬
 
 *發表於 2013-03-18 23:05:07*
 
@@ -25776,7 +25776,7 @@ http://tw.news.yahoo.com/%e5%9e% ... 2%b7-102515566.html
 
 ---
 
-### 文集/靈學探微
+### 風水
 
 *發表於 2012-10-21 06:07:33*
 
@@ -25801,7 +25801,7 @@ http://tw.news.yahoo.com/%e5%9e% ... 2%b7-102515566.html
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2012-10-21 23:14:04*
 
@@ -25828,7 +25828,7 @@ http://tw.news.yahoo.com/%e5%9e% ... 2%b7-102515566.html
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2006-06-06 11:26:55*
 
@@ -25903,7 +25903,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=245&pid=1053
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2006-05-26 02:12:40*
 
@@ -25940,7 +25940,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=244&pid=1038
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2006-06-14 00:54:20*
 
@@ -25994,7 +25994,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=244&pid=1046
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-06-16 01:22:30*
 
@@ -26020,7 +26020,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=244&pid=1046
 
 ---
 
-### 文集/靈學探微
+### 育兒
 
 *發表於 2006-06-05 00:35:15*
 
@@ -26056,7 +26056,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=244&pid=1046
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2006-06-07 01:00:07*
 
@@ -26072,7 +26072,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=244&pid=1046
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-06-08 02:08:52*
 
@@ -26100,7 +26100,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=244&pid=1046
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-06-09 23:22:40*
 
@@ -26110,7 +26110,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=244&pid=1046
 
 ---
 
-### 文集/靈學探微
+### 心性
 
 *發表於 2006-06-12 02:41:31*
 
@@ -26131,7 +26131,7 @@ eileen
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-06-13 19:47:42*
 
@@ -26154,7 +26154,7 @@ LinChiang  好快喔你也要畢業了，真好。
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2006-04-26 23:58:57*
 
@@ -26168,7 +26168,7 @@ LinChiang  好快喔你也要畢業了，真好。
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-04-28 01:06:56*
 
@@ -26188,7 +26188,7 @@ eileen 你好   這不是我厲害，而是基本常識。
 
 ---
 
-### 文集/靈學探微
+### 健康
 
 *發表於 2006-06-09 23:51:00*
 
@@ -26225,7 +26225,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=237&pid=1022
 
 ---
 
-### 文集/靈學探微
+### 感情
 
 *發表於 2006-04-19 02:40:41*
 
@@ -26268,7 +26268,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=235&pid=1015
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-05-18 23:30:59*
 
@@ -26293,7 +26293,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=242&pid=1032
 
 ---
 
-### 文集/靈學探微
+### 人性觀察
 
 *發表於 2006-05-20 23:59:18*
 
@@ -26313,7 +26313,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=242&pid=1032
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-05-22 01:11:05*
 
@@ -26321,7 +26321,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=242&pid=1032
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-04-19 23:35:04*
 
@@ -26358,7 +26358,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=236&pid=1017
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2006-01-20 00:50:12*
 
@@ -26387,7 +26387,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=227&pid=9917
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2006-04-05 00:22:32*
 
@@ -26413,7 +26413,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=227&pid=9917
 
 ---
 
-### 文集/靈學探微
+### 靈擾
 
 *發表於 2006-04-06 00:35:33*
 
@@ -26429,7 +26429,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=227&pid=9917
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2006-04-06 00:49:52*
 
@@ -26447,7 +26447,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=227&pid=9917
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2004-03-29 21:41:24*
 
@@ -26467,7 +26467,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=227&pid=9917
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2004-03-29 21:44:18*
 
@@ -26481,7 +26481,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=227&pid=9917
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2004-07-21 01:16:23*
 
@@ -26499,7 +26499,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=227&pid=9917
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2006-01-20 00:36:43*
 
@@ -26534,7 +26534,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=228&pid=9942
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2005-03-30 13:15:57*
 
@@ -26562,7 +26562,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=167&pid=7408
 
 ---
 
-### 文集/靈學探微
+### 靈界
 
 *發表於 2005-05-29 22:58:59*
 
@@ -26593,7 +26593,7 @@ darfon   您好
 
 ---
 
-### 文集/靈學探微
+### 科學
 
 *發表於 2005-05-30 11:08:13*
 
@@ -26629,7 +26629,7 @@ darfon  您好
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2005-04-06 21:59:51*
 
@@ -26658,7 +26658,7 @@ Melody  我只能說恭喜你，應該封你一個衰王之王的稱號。
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2005-04-29 19:44:58*
 
@@ -26681,7 +26681,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=167&pid=7452
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2005-05-28 00:58:45*
 
@@ -26706,7 +26706,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=167&pid=7452
 
 ---
 
-### 文集/靈學探微
+### 祖先
 
 *發表於 2005-05-28 23:46:07*
 
@@ -26734,7 +26734,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=167&pid=7475
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2005-05-29 01:09:15*
 
@@ -26803,7 +26803,7 @@ darfon  你好  感謝你的良性探討
 
 ---
 
-### 文集/靈學探微
+### 師姐
 
 *發表於 2005-04-29 19:31:11*
 
@@ -26827,7 +26827,7 @@ darfon  你好  感謝你的良性探討
 
 ---
 
-### 文集/靈學探微
+### 迷信
 
 *發表於 2005-04-21 20:55:30*
 
@@ -26847,7 +26847,7 @@ lonely這是你回應的嗎？怎麼好像你老婆的口氣啊？
 
 ---
 
-### 文集/靈學探微
+### 科學
 
 *發表於 2005-07-03 23:36:33*
 
@@ -26861,7 +26861,7 @@ lonely這是你回應的嗎？怎麼好像你老婆的口氣啊？
 
 ---
 
-### 文集/靈學探微
+### 那你們兩個自己去喝好了
 
 *發表於 2010-04-23 00:01:14*
 
@@ -26871,7 +26871,7 @@ lonely這是你回應的嗎？怎麼好像你老婆的口氣啊？
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：磁場、能量與影響
 
 *發表於 2010-04-26 19:59:15*
 
@@ -26890,7 +26890,7 @@ LinChiang  北上如果我有空的話，約個時間見面聊聊沒關係啊。
 
 ---
 
-### 文集/靈學探微
+### 抱歉    我剛剛是用訪客登入觀看的，不知道你抱怨的是指這一件事嗎？
 
 *發表於 2010-04-26 20:10:39*
 
@@ -26910,7 +26910,7 @@ LinChiang  北上如果我有空的話，約個時間見面聊聊沒關係啊。
 
 ---
 
-### 文集/靈學探微
+### 把誰的文章轉貼出去筆戰啊？
 
 *發表於 2010-04-27 00:13:36*
 
@@ -26923,7 +26923,7 @@ LinChiang  北上如果我有空的話，約個時間見面聊聊沒關係啊。
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：輪迴、前世與因果
 
 *發表於 2010-04-28 23:45:05*
 
@@ -26947,7 +26947,7 @@ LinChiang  北上如果我有空的話，約個時間見面聊聊沒關係啊。
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（4）
 
 *發表於 2010-05-01 01:40:32*
 
@@ -26965,7 +26965,7 @@ nirmala  到時候如果我有約他的時候在通知妳，我在翻出我的�
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：人性觀察與處世反省（2）
 
 *發表於 2010-05-03 01:13:00*
 
@@ -27007,7 +27007,7 @@ LinChiang   答案就在水裡面，那些躲在水裡面看戲的人心裡都�
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理
 
 *發表於 2010-04-07 00:21:36*
 
@@ -27025,7 +27025,7 @@ LinChiang   答案就在水裡面，那些躲在水裡面看戲的人心裡都�
 
 ---
 
-### 文集/靈學探微
+### 你以為玩砂就沒事了嗎？  小心土石流喔
 
 *發表於 2010-05-03 10:43:57*
 
@@ -27035,7 +27035,7 @@ LinChiang   答案就在水裡面，那些躲在水裡面看戲的人心裡都�
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：家庭互動與人生體會
 
 *發表於 2010-05-03 11:20:31*
 
@@ -27051,7 +27051,7 @@ LinChiang   答案就在水裡面，那些躲在水裡面看戲的人心裡都�
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（5）
 
 *發表於 2010-05-04 00:27:14*
 
@@ -27072,7 +27072,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（6）
 
 *發表於 2010-05-04 23:50:53*
 
@@ -27098,7 +27098,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：家庭互動與人生體會（2）
 
 *發表於 2010-05-06 23:04:08*
 
@@ -27117,7 +27117,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（7）
 
 *發表於 2010-05-12 21:37:53*
 
@@ -27132,7 +27132,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（8）
 
 *發表於 2010-05-18 01:38:35*
 
@@ -27141,7 +27141,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（9）
 
 *發表於 2010-05-19 04:48:02*
 
@@ -27150,7 +27150,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 為了避免困擾還是設個威望好了
 
 *發表於 2010-05-19 22:56:24*
 
@@ -27179,7 +27179,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（10）
 
 *發表於 2010-06-10 22:08:15*
 
@@ -27190,7 +27190,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 或許是氣候潮濕，或許是自己的心境，或許是天氣變熱自己也躁了
 
 *發表於 2010-06-16 00:09:12*
 
@@ -27203,7 +27203,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：附身現象與處理（3）
 
 *發表於 2010-06-29 02:06:06*
 
@@ -27232,7 +27232,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（11）
 
 *發表於 2010-06-29 23:27:12*
 
@@ -27241,7 +27241,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：身心健康與靈異觀察（3）
 
 *發表於 2010-06-30 22:59:16*
 
@@ -27253,7 +27253,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 等於把手放在胸口這麼大的範圍，我已經有很多次經驗了
 
 *發表於 2010-07-01 01:03:01*
 
@@ -27270,7 +27270,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 不要以為自己指數都正常就沒事，我看過很多病人指數也都正常，但是就是有事
 
 *發表於 2010-07-03 23:47:37*
 
@@ -27280,7 +27280,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 什麼是氣天神？我沒聽過
 
 *發表於 2010-04-10 21:00:59*
 
@@ -27288,7 +27288,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 說起當初練氣的源由，一開始是看武俠小說覺得氣功真的是很好用的咚咚
 
 *發表於 2010-07-06 23:31:16*
 
@@ -27306,7 +27306,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 運氣正確的話，腳不可能麻，會麻代表氣血不通
 
 *發表於 2010-07-07 21:00:56*
 
@@ -27327,7 +27327,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（12）
 
 *發表於 2010-08-09 21:04:55*
 
@@ -27350,7 +27350,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（13）
 
 *發表於 2010-08-11 21:32:02*
 
@@ -27363,7 +27363,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 郊外打坐應該不會吧，正常人是常常在樹下打坐吸收天地精華
 
 *發表於 2010-08-12 23:58:03*
 
@@ -27382,7 +27382,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 你不知道喔，這是常識ㄟ
 
 *發表於 2010-08-14 23:28:57*
 
@@ -27395,7 +27395,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 做人，知道我為何不說修行人而說是做人嗎？
 
 *發表於 2010-08-20 18:58:30*
 
@@ -27426,7 +27426,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 死人都被捅了何況是裝死的。  哈哈哈哈
 
 *發表於 2010-08-21 20:20:10*
 
@@ -27439,7 +27439,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（14）
 
 *發表於 2010-09-14 22:07:46*
 
@@ -27457,7 +27457,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（15）
 
 *發表於 2011-07-19 23:55:26*
 
@@ -27467,7 +27467,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：附身現象與處理
 
 *發表於 2010-04-12 01:48:58*
 
@@ -27486,7 +27486,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：附身現象與處理（2）
 
 *發表於 2010-04-13 01:28:22*
 
@@ -27505,7 +27505,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 說到這個皮蛇喔又有笑話了
 
 *發表於 2010-04-13 22:13:31*
 
@@ -27533,7 +27533,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 如果依照你說的這樣的情形，我會覺得很不妥
 
 *發表於 2010-04-02 22:06:41*
 
@@ -27544,7 +27544,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：身心健康與靈異觀察
 
 *發表於 2010-04-13 23:25:13*
 
@@ -27553,7 +27553,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（2）
 
 *發表於 2010-04-15 22:49:24*
 
@@ -27563,7 +27563,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 要怎麼說呢
 
 *發表於 2010-04-15 23:56:03*
 
@@ -27573,7 +27573,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：人性觀察與處世反省
 
 *發表於 2010-04-16 23:33:51*
 
@@ -27595,7 +27595,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：身心健康與靈異觀察（2）
 
 *發表於 2010-04-17 22:39:49*
 
@@ -27605,7 +27605,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 我不是在之前有說我去看醫生，然後那個醫生問我怎麼知道自己是帶狀皰疹？
 
 *發表於 2010-04-19 23:01:09*
 
@@ -27619,7 +27619,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：通靈經驗與辨別
 
 *發表於 2010-04-20 00:30:53*
 
@@ -27648,7 +27648,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17751
 
 ---
 
-### 文集/靈學探微
+### 你有感覺我們在這裡長嘆？ㄟ...............那裡有感覺啊？
 
 *發表於 2010-04-20 21:13:49*
 
@@ -27679,7 +27679,7 @@ PT當初我只是把我認為最基本與簡單的部分說出來而已，我怎
 
 ---
 
-### 文集/靈學探微
+### 分享一下!：靈異現象與處理（3）
 
 *發表於 2010-04-22 22:27:03*
 
@@ -27702,7 +27702,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=411&pid=17677
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（6）
 
 *發表於 2008-08-31 22:57:39*
 
@@ -27714,7 +27714,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（7）
 
 *發表於 2008-09-01 22:22:35*
 
@@ -27722,7 +27722,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（8）
 
 *發表於 2008-10-31 23:36:02*
 
@@ -27731,7 +27731,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 飄到日本就可以省下機票錢免費暢遊北海道，連這個都不知道
 
 *發表於 2008-11-04 00:29:37*
 
@@ -27739,7 +27739,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 如果變成冰棒還真是慶幸勒，就怕屍骨無存
 
 *發表於 2008-11-06 00:36:01*
 
@@ -27747,7 +27747,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 他已經半瘋掉了，所以語無倫次少打一個幫我
 
 *發表於 2008-11-10 11:44:52*
 
@@ -27757,7 +27757,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（9）
 
 *發表於 2008-11-11 00:14:56*
 
@@ -27766,7 +27766,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 忙比衰好，放假比失業好
 
 *發表於 2008-12-09 22:54:54*
 
@@ -27776,7 +27776,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 真是有錢人ㄟ，我都買不起火材，只能用燃燒吧火鳥打火機
 
 *發表於 2008-12-19 21:27:10*
 
@@ -27786,7 +27786,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 小叉叉你想討紙箱？你麻賣傻了
 
 *發表於 2008-12-27 22:51:32*
 
@@ -27798,7 +27798,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我只能說這兩種人，不要說是當男女朋友，就算是當朋友，我都會排除在外
 
 *發表於 2009-01-05 03:41:15*
 
@@ -27811,7 +27811,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：家庭互動與人生體會
 
 *發表於 2009-01-06 00:07:30*
 
@@ -27824,7 +27824,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 小叉叉原則上多數人是什麼女人嫁什麼老公
 
 *發表於 2009-01-06 23:34:02*
 
@@ -27839,7 +27839,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 你是說刀光劍影互相砍殺的生活嗎？？？
 
 *發表於 2009-01-07 12:20:42*
 
@@ -27847,7 +27847,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：通靈經驗與辨別
 
 *發表於 2009-01-08 02:00:45*
 
@@ -27862,7 +27862,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（10）
 
 *發表於 2009-02-02 22:24:07*
 
@@ -27881,7 +27881,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 就是經濟壞到哪裡的底線啊，但是底線會有多長？還是未知數
 
 *發表於 2009-02-05 00:38:52*
 
@@ -27909,7 +27909,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（11）
 
 *發表於 2009-02-05 23:33:18*
 
@@ -27917,7 +27917,7 @@ PT
 
 ---
 
-### 文集/靈學探微
+### 你們現在是怎樣在這你撞車喔
 
 *發表於 2009-02-09 00:47:49*
 
@@ -27937,7 +27937,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18021
 
 ---
 
-### 文集/靈學探微
+### 我剛剛看了昨天的留言一下子還看不懂我在講什麼？
 
 *發表於 2009-02-09 23:59:30*
 
@@ -27958,7 +27958,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18021
 
 ---
 
-### 文集/靈學探微
+### 到你家燒，到時候變成你被社區抗議呵呵
 
 *發表於 2009-02-11 00:46:26*
 
@@ -27966,7 +27966,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18021
 
 ---
 
-### 文集/靈學探微
+### 我是剛剛睡醒，你明天不用上班喔，一點半了ㄟ
 
 *發表於 2009-02-11 01:35:25*
 
@@ -27974,7 +27974,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18021
 
 ---
 
-### 文集/靈學探微
+### 那會死的更慘
 
 *發表於 2009-02-11 02:20:26*
 
@@ -27990,7 +27990,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18021
 
 ---
 
-### 文集/靈學探微
+### 我用的已經是紗窗的細不銹鋼網了，外面其實是沒有什麼灰燼與黑煙
 
 *發表於 2009-02-11 21:48:52*
 
@@ -28004,7 +28004,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18021
 
 ---
 
-### 文集/靈學探微
+### 那是你燒的不夠久，向我一開始燒兩鐘頭也沒事啊
 
 *發表於 2009-02-12 22:09:26*
 
@@ -28013,7 +28013,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18021
 
 ---
 
-### 文集/靈學探微
+### 現代人心我不知道該怎麼說，好心幫人常常被說雞婆或是吃飽太閒
 
 *發表於 2009-03-21 11:47:51*
 
@@ -28030,7 +28030,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 如果是國安，我看是更受歡迎喔，因為喝國安的人應該比福氣啦的人多
 
 *發表於 2009-03-21 21:38:14*
 
@@ -28045,7 +28045,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 把國自提煉掉之後，就只生下安，安仔是年輕人與警察ㄅㄅ的最愛
 
 *發表於 2009-03-23 10:26:07*
 
@@ -28054,7 +28054,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 那不叫犯罪合理化，那是為自己將來鋪路啦   哈哈哈哈哈哈
 
 *發表於 2009-04-10 00:55:11*
 
@@ -28062,7 +28062,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 我都拿鐵鎚敲木魚，PT你也可以試試看
 
 *發表於 2009-04-10 22:03:33*
 
@@ -28088,7 +28088,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 搞桃花的人，最後整個個性都會改變，變得貪婪計較說謊
 
 *發表於 2009-04-11 20:53:34*
 
@@ -28097,7 +28097,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### ，我不知道對方是誰我怎麼幫你看啊？
 
 *發表於 2009-05-11 23:39:22*
 
@@ -28109,7 +28109,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 我記得我以前曾經說過10個乩童9個沒好尾
 
 *發表於 2009-05-12 23:42:43*
 
@@ -28122,7 +28122,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 應該是他們知道你要找外援，輸人不輸陣
 
 *發表於 2009-05-13 23:33:35*
 
@@ -28132,7 +28132,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18042
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（12）
 
 *發表於 2009-05-14 22:17:39*
 
@@ -28153,7 +28153,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 抱歉我知道連綠豆粉都可以做咖啡了，當然味道與咖啡因是可以分開
 
 *發表於 2008-01-08 01:22:57*
 
@@ -28165,7 +28165,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 此事與我無關，網站也沒問題，是你的問題啦
 
 *發表於 2009-05-17 21:45:18*
 
@@ -28176,7 +28176,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：命運、選擇與改變
 
 *發表於 2009-06-08 00:39:27*
 
@@ -28195,7 +28195,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（13）
 
 *發表於 2009-06-08 11:02:45*
 
@@ -28205,7 +28205,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（14）
 
 *發表於 2009-06-12 00:29:32*
 
@@ -28219,7 +28219,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 我昨晚也跟人談到這個問題，緣分
 
 *發表於 2009-06-14 22:32:51*
 
@@ -28242,7 +28242,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 我從小在女孩堆中長大，但是卻到四十幾歲才結婚，也是因為這因素
 
 *發表於 2009-06-14 23:51:39*
 
@@ -28259,7 +28259,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18085
 
 ---
 
-### 文集/靈學探微
+### 今晚是怎麼了一堆人同時上線
 
 *發表於 2009-06-15 22:26:27*
 
@@ -28270,7 +28270,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 對啊是看到一堆黑黑的文字
 
 *發表於 2009-06-15 23:26:33*
 
@@ -28278,7 +28278,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（15）
 
 *發表於 2009-07-15 22:41:29*
 
@@ -28288,7 +28288,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我會選擇尊重當事人的決定，我知道躺在床上不能動，或是中風臉歪斜一邊的感受
 
 *發表於 2009-07-16 22:54:35*
 
@@ -28303,7 +28303,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：身心健康與靈異觀察
 
 *發表於 2009-07-18 01:04:51*
 
@@ -28313,7 +28313,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（16）
 
 *發表於 2009-08-12 22:18:42*
 
@@ -28323,7 +28323,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（17）
 
 *發表於 2009-08-14 02:32:59*
 
@@ -28332,7 +28332,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 還是那一句話，請妳給我他的姓名與地址
 
 *發表於 2009-08-18 23:31:46*
 
@@ -28342,7 +28342,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 盡人事聽天命
 
 *發表於 2009-08-21 20:27:48*
 
@@ -28350,7 +28350,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 你知道嗎？
 
 *發表於 2009-09-09 23:18:40*
 
@@ -28364,7 +28364,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 如果可以的話，我可不可以報名咬一根啊
 
 *發表於 2009-09-15 21:00:55*
 
@@ -28372,7 +28372,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 那妳就太不靈光了，找個乾爸爸就好了啊，幹嘛那麼麻煩重新來一次
 
 *發表於 2009-09-16 19:11:04*
 
@@ -28380,7 +28380,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 沒關係這是小事，不用在意，我只是給訊息並沒有插手，畢竟人各有緣
 
 *發表於 2009-10-13 22:44:46*
 
@@ -28390,7 +28390,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 權限確實是很大的一個問題，要延長一個人的歲壽並不是那麼簡單
 
 *發表於 2009-10-16 23:31:57*
 
@@ -28410,7 +28410,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 你沒有錯，就算你拜託我，我也不會答應的，只是會讓我為難而已
 
 *發表於 2009-10-19 01:23:10*
 
@@ -28424,7 +28424,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 延壽一年換一年？
 
 *發表於 2009-10-26 22:38:00*
 
@@ -28434,7 +28434,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我何時見多識廣  博學多聞？我怎麼不知道？
 
 *發表於 2009-12-24 01:14:26*
 
@@ -28450,7 +28450,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（18）
 
 *發表於 2009-12-28 23:22:02*
 
@@ -28466,7 +28466,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 應該是時間與空間的碰巧啦
 
 *發表於 2010-01-12 00:34:47*
 
@@ -28478,7 +28478,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 一個人的運勢與前世有關嗎？
 
 *發表於 2010-02-26 01:06:19*
 
@@ -28502,7 +28502,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 管他哪一世的丈夫，那是那一世當他老婆的前世靈該負責的事情
 
 *發表於 2010-03-02 18:42:15*
 
@@ -28523,7 +28523,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 別說什麼教誨啦，聽起來怪怪的，不像你的個性
 
 *發表於 2010-03-03 18:48:42*
 
@@ -28552,7 +28552,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理
 
 *發表於 2007-11-26 23:52:30*
 
@@ -28563,7 +28563,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 不過又有一點不太懂
 
 *發表於 2010-03-06 00:42:12*
 
@@ -28585,7 +28585,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 前世的事情不管是真是假，反正處理好了就好了，也不需要太掛礙
 
 *發表於 2010-03-08 19:57:55*
 
@@ -28598,7 +28598,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 前世的愛犬搞不好這一世變成父母好好的疼愛自己也並非不可能
 
 *發表於 2010-03-09 00:08:28*
 
@@ -28610,7 +28610,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 在很有以前我那時候幫人家辦事，有時候還是我師姐上身處理
 
 *發表於 2010-05-31 22:14:01*
 
@@ -28627,7 +28627,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 你應該是要先確認PT一定會到，這樣我才能去借關刀
 
 *發表於 2010-06-01 11:43:45*
 
@@ -28636,7 +28636,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我只想看人家耍關刀，這比較重要
 
 *發表於 2010-06-03 23:18:09*
 
@@ -28644,7 +28644,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我沒看過女的耍啊，而且現場表演會有臨場震撼的感覺啊
 
 *發表於 2010-06-03 23:45:39*
 
@@ -28652,7 +28652,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 羅東夜市算是蠻大的，想說那麼鄉下的地方沒想到比宜蘭還要熱鬧
 
 *發表於 2010-06-04 21:05:36*
 
@@ -28665,7 +28665,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 小銘你還耶，你今年上來幾次了，不怕被扒皮喔
 
 *發表於 2010-06-09 00:15:09*
 
@@ -28673,7 +28673,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 為何你要認識中藥啊？
 
 *發表於 2010-07-19 22:50:52*
 
@@ -28681,7 +28681,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 大致上除非遇到黑心人，不然一分錢一分貨是很正常的
 
 *發表於 2010-07-20 00:54:26*
 
@@ -28692,7 +28692,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 唉ㄚ到哪一家公司都會有這一類人啦，像我工地趴趴跑，也是常常遇到啊
 
 *發表於 2010-08-09 21:14:52*
 
@@ -28702,7 +28702,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（19）
 
 *發表於 2010-08-09 23:36:06*
 
@@ -28718,7 +28718,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 以正常的道教系統辦事是絕對需要指令的，沒有指令就會變成違法行事
 
 *發表於 2010-10-06 00:17:49*
 
@@ -28745,7 +28745,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 喜歡的較多
 
 *發表於 2010-10-06 22:51:06*
 
@@ -28754,7 +28754,7 @@ pt49506105  Melody  靜竹林  建凱  nirmala
 
 ---
 
-### 文集/靈學探微
+### 你看人家有給我退貨嗎？
 
 *發表於 2010-10-07 19:28:22*
 
@@ -28773,7 +28773,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我找了幾遍沒有這種功能的令牌ㄟ
 
 *發表於 2010-10-08 00:12:52*
 
@@ -28787,7 +28787,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 這個不需快遞，只要你說好，就會自動送達不用擔心
 
 *發表於 2010-10-09 02:17:12*
 
@@ -28810,7 +28810,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 你還真的要喔
 
 *發表於 2010-10-11 23:49:50*
 
@@ -28821,7 +28821,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 建凱你麼知道這麼清楚，我有說漏嘴過嗎？
 
 *發表於 2010-10-12 23:04:53*
 
@@ -28835,7 +28835,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我已經修正為3了
 
 *發表於 2010-10-14 21:25:32*
 
@@ -28850,7 +28850,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈魂現象與觀念（2）
 
 *發表於 2010-10-14 21:51:54*
 
@@ -28884,7 +28884,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我就是那個俗人的兄弟啦
 
 *發表於 2010-10-14 22:45:48*
 
@@ -28893,7 +28893,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 談到令牌談到天界，就順道談一下所謂的天界
 
 *發表於 2010-10-14 23:02:42*
 
@@ -28910,7 +28910,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 你是詐騙集團，你隨便講講我就信喔
 
 *發表於 2010-10-14 23:09:25*
 
@@ -28925,7 +28925,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 厚....我當然知道你是真的有看到那種詐騙集團的招牌
 
 *發表於 2010-10-14 23:33:36*
 
@@ -28943,7 +28943,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 難得大家不睡覺在網路上聊天啊，都快10年沒這樣了   哈哈哈
 
 *發表於 2010-10-14 23:37:58*
 
@@ -28952,7 +28952,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 你沒睡我不敢睡啊
 
 *發表於 2010-10-14 23:44:02*
 
@@ -28963,7 +28963,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我天天都比你晚睡不是嗎？
 
 *發表於 2010-10-14 23:50:04*
 
@@ -28972,7 +28972,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 他無擋頭偷跑去睡了啦
 
 *發表於 2010-10-15 00:06:10*
 
@@ -28980,7 +28980,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（20）
 
 *發表於 2010-10-15 00:12:59*
 
@@ -28991,7 +28991,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 你還真的掛網不下線喔。果真夠卑弊
 
 *發表於 2010-10-15 07:20:03*
 
@@ -28999,7 +28999,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：身心健康與靈異觀察（2）
 
 *發表於 2010-10-15 20:01:09*
 
@@ -29011,7 +29011,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 你太不理解他了，他不是用心，他是變態   哈哈哈哈
 
 *發表於 2010-10-15 23:00:49*
 
@@ -29042,7 +29042,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 談到令牌談到天界，就順道談一下所謂的天界（2）
 
 *發表於 2010-10-15 23:19:46*
 
@@ -29069,7 +29069,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：身心健康與靈異觀察（3）
 
 *發表於 2010-10-15 23:22:01*
 
@@ -29079,7 +29079,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：因果業力與選擇
 
 *發表於 2010-10-21 00:38:37*
 
@@ -29100,7 +29100,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（21）
 
 *發表於 2010-10-21 22:46:22*
 
@@ -29116,7 +29116,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 建凱你是否有一篇回應不見了？
 
 *發表於 2010-10-21 23:53:54*
 
@@ -29143,7 +29143,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 你到現在還在搞無理頭，回應對象還可以搞錯
 
 *發表於 2010-10-23 00:32:05*
 
@@ -29155,7 +29155,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（2）
 
 *發表於 2008-06-10 20:18:31*
 
@@ -29163,7 +29163,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 你不知道有程式可以自動註冊M然後還定時上網發表文章喔
 
 *發表於 2010-10-26 22:49:29*
 
@@ -29173,7 +29173,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈魂現象與觀念（3）
 
 *發表於 2010-10-27 22:41:22*
 
@@ -29195,7 +29195,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 天界  的生活與結構
 
 *發表於 2010-10-27 22:55:56*
 
@@ -29208,7 +29208,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（22）
 
 *發表於 2010-12-12 23:09:22*
 
@@ -29220,7 +29220,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我是覺得這與能力無關是心的問題，能讓人相信的心
 
 *發表於 2010-12-14 00:59:28*
 
@@ -29228,7 +29228,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 等想到喔，那有一點難了。沒事我都懶得想的人，我哪會去想阿哈哈哈
 
 *發表於 2010-12-16 19:31:12*
 
@@ -29241,7 +29241,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 那是否該搬個最佳男主角給小叉叉？
 
 *發表於 2010-12-18 21:41:25*
 
@@ -29249,7 +29249,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 虧你還想到會自暴，果然是最佳男主角啊
 
 *發表於 2010-12-19 22:24:47*
 
@@ -29258,7 +29258,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我記得十幾年前，曾經有人問我，靈界到底長什麼樣子？
 
 *發表於 2010-12-27 19:26:00*
 
@@ -29269,7 +29269,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（23）
 
 *發表於 2011-04-10 22:50:42*
 
@@ -29284,7 +29284,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=412&pid=18349
 
 ---
 
-### 文集/靈學探微
+### 村  謝謝啦
 
 *發表於 2011-04-11 20:24:03*
 
@@ -29293,7 +29293,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 問題是你的音響可以放MP3嗎
 
 *發表於 2011-04-11 21:43:07*
 
@@ -29301,7 +29301,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 當香菇上面在發黴之後，不是香菇上面再長菇了嗎？
 
 *發表於 2011-04-13 00:13:05*
 
@@ -29313,7 +29313,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 開天文講天語很好嗎？
 
 *發表於 2008-07-20 19:27:54*
 
@@ -29327,7 +29327,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 沒辦法，網站這一次大搬家，也不知道搬了幾百還是幾千公里遠
 
 *發表於 2008-08-02 22:40:11*
 
@@ -29336,7 +29336,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（3）
 
 *發表於 2008-08-04 20:47:58*
 
@@ -29344,7 +29344,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（4）
 
 *發表於 2008-08-04 23:40:29*
 
@@ -29361,7 +29361,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我的意念聲音？我很乖的不會亂跑得
 
 *發表於 2008-08-23 21:28:29*
 
@@ -29369,7 +29369,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈魂現象與觀念
 
 *發表於 2007-12-03 00:32:48*
 
@@ -29392,7 +29392,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我沒事找你幹嘛啊，會不會你日有所思夜有所夢。ㄏ阿ㄏ
 
 *發表於 2008-08-25 00:28:12*
 
@@ -29404,7 +29404,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我......又車禍了：靈異現象與處理（5）
 
 *發表於 2008-08-27 20:54:10*
 
@@ -29414,7 +29414,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（35）
 
 *發表於 2008-07-01 00:57:54*
 
@@ -29433,7 +29433,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 以前就跟他說過ㄌ......結果他怎麼反應？ 有2種
 
 *發表於 2008-07-03 20:40:10*
 
@@ -29453,7 +29453,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 這應該不是魷魚吧，魷魚不是長這樣啊，這應該是類似魷魚的海產吧
 
 *發表於 2008-07-09 20:10:18*
 
@@ -29461,7 +29461,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（36）
 
 *發表於 2008-07-09 22:50:48*
 
@@ -29469,7 +29469,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 在這裡講有點年紀？
 
 *發表於 2008-07-14 22:38:55*
 
@@ -29480,7 +29480,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈魂現象與觀念
 
 *發表於 2006-03-13 00:16:19*
 
@@ -29503,7 +29503,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（37）
 
 *發表於 2008-07-15 22:20:48*
 
@@ -29513,7 +29513,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我看你沒反應就知道了啊，因為你如果知道是講自己一定會回話的
 
 *發表於 2008-07-17 23:36:26*
 
@@ -29525,7 +29525,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 他看了老半天說：還真的有像，不過他比較正一點
 
 *發表於 2008-08-27 20:56:59*
 
@@ -29535,7 +29535,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 我忙完的時候已經禮拜三了，那
 
 *發表於 2008-09-03 00:53:12*
 
@@ -29544,7 +29544,7 @@ nirmala 可能又沒回山上住了，才會沒有回覆。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：夢境與靈異經驗
 
 *發表於 2008-09-04 00:00:01*
 
@@ -29563,7 +29563,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 那我選擇面交
 
 *發表於 2008-09-05 00:16:15*
 
@@ -29571,7 +29571,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（38）
 
 *發表於 2008-09-05 22:04:55*
 
@@ -29582,7 +29582,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 我不要飛吻，那個不實際
 
 *發表於 2008-09-10 00:30:16*
 
@@ -29591,7 +29591,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 看的到吃不到是詐欺喔
 
 *發表於 2008-09-12 20:20:39*
 
@@ -29599,7 +29599,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 這一定不是剛出爐的，因為他沒有出廠日期9月10號晚上9點49分
 
 *發表於 2008-09-13 12:42:30*
 
@@ -29608,7 +29608,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 但是阿姨..你明明說是剛出爐的，不管我要剛出爐的啦
 
 *發表於 2008-09-14 01:09:45*
 
@@ -29620,7 +29620,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 我只看到3隻烏鴉
 
 *發表於 2008-09-14 11:01:32*
 
@@ -29641,7 +29641,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（39）
 
 *發表於 2008-09-16 23:29:14*
 
@@ -29649,7 +29649,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 有人知道無敵鐵金剛最後是怎麼死的嗎？
 
 *發表於 2008-09-18 23:04:25*
 
@@ -29657,7 +29657,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 我是甘苦人所以我看二輪的就好了，不然被扣上帽子就不妙了
 
 *發表於 2008-09-24 22:27:05*
 
@@ -29667,7 +29667,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（40）
 
 *發表於 2008-09-25 22:55:53*
 
@@ -29677,7 +29677,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 你怎麼知道證券業以前就是爽過頭，現在樂極生悲
 
 *發表於 2008-11-04 00:31:08*
 
@@ -29685,7 +29685,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（41）
 
 *發表於 2008-11-04 22:08:21*
 
@@ -29695,7 +29695,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 當股市2千多的時候家家戶戶搶著燒碳，到時候當然一炭難求了
 
 *發表於 2008-11-06 00:55:48*
 
@@ -29704,7 +29704,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（42）
 
 *發表於 2008-11-21 00:48:16*
 
@@ -29727,7 +29727,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（43）
 
 *發表於 2008-11-21 13:01:47*
 
@@ -29737,7 +29737,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21006
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（44）
 
 *發表於 2008-12-03 22:10:28*
 
@@ -29746,7 +29746,7 @@ nirmala 就快破100頁了，我幫你推一下，推.......................
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：風水觀念與實務
 
 *發表於 2008-12-04 23:37:13*
 
@@ -29765,7 +29765,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（45）
 
 *發表於 2008-12-06 01:29:44*
 
@@ -29776,7 +29776,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 偏門在這裡的解釋是是變數，非正常值
 
 *發表於 2008-12-06 19:43:42*
 
@@ -29787,7 +29787,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（46）
 
 *發表於 2008-12-06 21:18:20*
 
@@ -29798,7 +29798,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 我是大愚若智型的，所以我沒什麼智慧才會跟一般人不一樣，專想一些奇怪的結果
 
 *發表於 2008-12-07 00:15:39*
 
@@ -29820,7 +29820,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 你師傅只是叫你不要亂拜眾軍官將士的排位，又沒教你不要祭拜祖先
 
 *發表於 2006-04-11 00:00:12*
 
@@ -29831,7 +29831,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 現在一股多少錢啊？
 
 *發表於 2008-12-09 23:06:28*
 
@@ -29840,7 +29840,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 進場時機
 
 *發表於 2008-12-11 23:27:36*
 
@@ -29850,7 +29850,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 妳問他：賭神桌上有一對A∼Q  A∼Q 這什麼咚咚阿？
 
 *發表於 2008-12-19 21:09:24*
 
@@ -29859,7 +29859,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：家庭互動與人生體會（3）
 
 *發表於 2009-01-12 23:57:34*
 
@@ -29877,7 +29877,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 那個加錯東西的事情很正常啦，有靈擾或是本靈常常不在的人都會發生這種事情
 
 *發表於 2009-01-13 21:08:51*
 
@@ -29892,7 +29892,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：通靈經驗與辨別（2）
 
 *發表於 2009-01-15 22:15:20*
 
@@ -29907,7 +29907,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 報告檢舉人，關於這個犯規是不能罰自由球的
 
 *發表於 2009-01-21 00:37:02*
 
@@ -29917,7 +29917,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（47）
 
 *發表於 2009-02-25 21:57:23*
 
@@ -29925,7 +29925,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=21111
 
 ---
 
-### 文集/靈學探微
+### 自己對於天主教基督教所創辦的醫院，不以營利為目的一直都很感動
 
 *發表於 2009-04-15 23:10:06*
 
@@ -29954,7 +29954,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：身心健康與靈異觀察（3）
 
 *發表於 2009-04-28 22:32:43*
 
@@ -29963,7 +29963,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：身心健康與靈異觀察（4）
 
 *發表於 2009-06-11 00:43:54*
 
@@ -29975,7 +29975,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（48）
 
 *發表於 2009-06-12 00:35:34*
 
@@ -29986,7 +29986,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 老實樹有聽說過那是胡瓜的節目，我沒看過
 
 *發表於 2009-06-12 10:49:20*
 
@@ -29996,7 +29996,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 忙到現在總算客人都走了，照片有被切割嗎？沒感覺啊
 
 *發表於 2009-06-21 02:35:55*
 
@@ -30006,7 +30006,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 身體有好就好了，這樣以後你就知道原來骨頭位移，對身體健康的影響這麼大
 
 *發表於 2009-08-12 22:05:40*
 
@@ -30015,7 +30015,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 對啊  我想說這是哪一家坑人醫院啊？應該介紹一下
 
 *發表於 2009-08-14 02:26:49*
 
@@ -30025,7 +30025,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（49）
 
 *發表於 2009-08-18 23:28:22*
 
@@ -30035,7 +30035,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（50）
 
 *發表於 2009-08-21 20:37:14*
 
@@ -30047,7 +30047,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（51）
 
 *發表於 2009-08-23 20:01:00*
 
@@ -30058,7 +30058,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（52）
 
 *發表於 2009-08-25 10:56:32*
 
@@ -30068,7 +30068,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：身心健康與靈異觀察
 
 *發表於 2006-04-15 01:21:35*
 
@@ -30083,7 +30083,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 妳學太極拳也會這樣喔，我會幫自己整脊也是學太極拳才發現的
 
 *發表於 2009-09-01 22:41:42*
 
@@ -30094,7 +30094,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 我學的好像是叫做鄭子太極的樣子，連自己學什麼都可以忘記不簡單吧
 
 *發表於 2009-09-02 18:14:44*
 
@@ -30107,7 +30107,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：家庭互動與人生體會（4）
 
 *發表於 2009-12-03 23:54:52*
 
@@ -30117,7 +30117,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 不奇怪  因為你是怪物
 
 *發表於 2009-12-13 22:50:16*
 
@@ -30125,7 +30125,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（53）
 
 *發表於 2009-12-16 23:49:41*
 
@@ -30138,7 +30138,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 我是覺得那只是他當下一時的氣憤，每一個人都會有這樣的時候
 
 *發表於 2009-12-17 23:26:43*
 
@@ -30151,7 +30151,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（54）
 
 *發表於 2009-12-19 22:44:44*
 
@@ -30161,7 +30161,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 顛  有空就唱一下蔡秋鳳的金包銀，你會覺得很貼切的
 
 *發表於 2006-04-17 00:56:31*
 
@@ -30175,7 +30175,7 @@ http://tw.news.yahoo.com/article/url/d/a/090415/78/1hv4l.html
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（55）
 
 *發表於 2010-05-15 00:13:04*
 
@@ -30189,7 +30189,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈魂現象與觀念（4）
 
 *發表於 2010-05-20 23:03:39*
 
@@ -30205,7 +30205,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：家庭互動與人生體會（5）
 
 *發表於 2010-05-22 22:30:26*
 
@@ -30231,7 +30231,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（56）
 
 *發表於 2010-05-31 22:51:49*
 
@@ -30246,7 +30246,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 平常我是不會漲氣，一瓶胃散可以吃好幾年，但是最近吃得比較凶一點
 
 *發表於 2010-06-01 11:53:47*
 
@@ -30255,7 +30255,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 依據我的經驗
 
 *發表於 2010-06-03 23:20:50*
 
@@ -30265,7 +30265,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 總之可以提早出院總是好的
 
 *發表於 2010-08-03 20:57:58*
 
@@ -30276,7 +30276,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 安那時候已經很嚴重了，整個人都腫起來了
 
 *發表於 2010-08-05 22:44:50*
 
@@ -30298,7 +30298,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：命運、選擇與改變
 
 *發表於 2010-08-08 11:44:29*
 
@@ -30311,7 +30311,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：通靈經驗與辨別（3）
 
 *發表於 2010-08-09 21:52:16*
 
@@ -30327,7 +30327,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 前人不是說過佛在心中莫遠求
 
 *發表於 2010-08-20 21:08:07*
 
@@ -30346,7 +30346,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：神通、法力與迷思
 
 *發表於 2010-08-20 21:19:44*
 
@@ -30368,7 +30368,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 對啊就是這個字，我昨天就是一直找不到
 
 *發表於 2010-08-21 20:41:38*
 
@@ -30378,7 +30378,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 做這種事情很無奈，前些天我妹妹有事找我打到我家，我老婆接的
 
 *發表於 2010-12-19 22:19:18*
 
@@ -30405,7 +30405,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 你現在是處於習慣性移位的階段，跟我以前一模一樣
 
 *發表於 2011-05-20 23:24:04*
 
@@ -30422,7 +30422,7 @@ PT你有沒有可以變成鋼鐵人的護身符啊？做做善事送我幾張吧
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：身心健康與靈異觀察（5）
 
 *發表於 2011-05-23 22:48:53*
 
@@ -30443,7 +30443,7 @@ nirmala   自己慢慢學會觀察與測試，在當中尋找能夠幫助自己�
 
 ---
 
-### 文集/靈學探微
+### 安  他現在是過得很好，只是他也開始忙碌了，所以最近比較少感覺到他了
 
 *發表於 2006-04-20 00:21:02*
 
@@ -30455,7 +30455,7 @@ nirmala   自己慢慢學會觀察與測試，在當中尋找能夠幫助自己�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈魂現象與觀念（2）
 
 *發表於 2006-04-21 01:12:42*
 
@@ -30479,7 +30479,7 @@ nirmala   自己慢慢學會觀察與測試，在當中尋找能夠幫助自己�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（4）
 
 *發表於 2006-04-21 01:20:22*
 
@@ -30496,7 +30496,7 @@ nirmala   自己慢慢學會觀察與測試，在當中尋找能夠幫助自己�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（5）
 
 *發表於 2006-06-06 11:36:01*
 
@@ -30508,7 +30508,7 @@ nirmala   自己慢慢學會觀察與測試，在當中尋找能夠幫助自己�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（6）
 
 *發表於 2006-06-06 12:04:05*
 
@@ -30522,7 +30522,7 @@ nirmala   自己慢慢學會觀察與測試，在當中尋找能夠幫助自己�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：修行、心性與反省
 
 *發表於 2006-06-13 21:38:29*
 
@@ -30564,7 +30564,7 @@ nirmala   自己慢慢學會觀察與測試，在當中尋找能夠幫助自己�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（7）
 
 *發表於 2006-06-13 21:39:56*
 
@@ -30578,7 +30578,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理
 
 *發表於 2006-02-17 02:14:12*
 
@@ -30591,7 +30591,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（8）
 
 *發表於 2006-06-14 01:53:47*
 
@@ -30605,7 +30605,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 不會啦，如果在意我就不會把話說明白了
 
 *發表於 2006-06-14 12:33:19*
 
@@ -30616,7 +30616,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（9）
 
 *發表於 2006-07-11 22:55:33*
 
@@ -30630,7 +30630,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（10）
 
 *發表於 2006-07-22 00:30:03*
 
@@ -30647,7 +30647,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（11）
 
 *發表於 2006-07-29 00:15:29*
 
@@ -30661,7 +30661,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 你已經累積到這樣的經驗與感受了不錯，但是切記一件事情
 
 *發表於 2006-08-04 21:22:43*
 
@@ -30684,7 +30684,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 鋼構屋是指鋼骨結構嗎？還是鐵皮屋的鋼構屋？
 
 *發表於 2006-08-21 19:05:08*
 
@@ -30697,7 +30697,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（12）
 
 *發表於 2006-08-23 01:09:05*
 
@@ -30713,7 +30713,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### nirmala 你是坐建築相關行業的嗎？還是為了買房子有做過功課四處打聽
 
 *發表於 2006-09-21 11:49:26*
 
@@ -30722,7 +30722,7 @@ nirmala 你是坐建築相關行業的嗎？還是為了買房子有做過功課
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（13）
 
 *發表於 2006-09-26 00:38:08*
 
@@ -30765,7 +30765,7 @@ nirmala 你是坐建築相關行業的嗎？還是為了買房子有做過功課
 
 ---
 
-### 文集/靈學探微
+### 我之前講的那是全面性的整修
 
 *發表於 2006-09-26 23:20:48*
 
@@ -30791,7 +30791,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（14）
 
 *發表於 2006-09-30 00:04:10*
 
@@ -30805,7 +30805,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 網站怪怪的是因為政治因素
 
 *發表於 2006-10-04 01:16:56*
 
@@ -30819,7 +30819,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 進口磁磚的價格價差很大，所以我也不是很清楚，但是一片幾百元是常事
 
 *發表於 2006-10-14 00:10:05*
 
@@ -30834,7 +30834,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 在商場上我已經看多了，談的時候一副嘴臉，事後又是另一副嘴臉
 
 *發表於 2006-10-14 22:18:44*
 
@@ -30851,7 +30851,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 在我們的觀感來說系統家具的質感比較粗糙，所以我個人比較不喜歡
 
 *發表於 2006-10-15 08:15:07*
 
@@ -30860,7 +30860,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（2）
 
 *發表於 2006-02-21 01:16:36*
 
@@ -30873,7 +30873,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 他都說他頭殼壞去了，你當然聽不懂他的話了
 
 *發表於 2006-10-27 21:10:26*
 
@@ -30884,7 +30884,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 你說的沒錯那是人心個性的因素，但是有時候情緒會主導這一切觀點
 
 *發表於 2006-11-22 23:50:30*
 
@@ -30897,7 +30897,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（15）
 
 *發表於 2006-11-30 00:21:47*
 
@@ -30912,7 +30912,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 問事包50元很多啊，很多人都是這種觀念
 
 *發表於 2006-03-01 01:26:34*
 
@@ -30934,7 +30934,7 @@ Melody 你自己不是也常常摸空上網   ㄏ啊哈哈哈。
 
 ---
 
-### 文集/靈學探微
+### 卡拉  美樂蒂這幾句對你來說才是重點
 
 *發表於 2006-12-08 00:53:19*
 
@@ -30954,7 +30954,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 還有阿, 能否溝通, 覺得不是那麼重要ㄌ
 
 *發表於 2006-12-13 00:17:33*
 
@@ -30971,7 +30971,7 @@ nirmala
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：修行、心性與反省（2）
 
 *發表於 2006-12-17 00:44:36*
 
@@ -30988,7 +30988,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 你這樣做並沒有錯，畢竟這才是他該去的地方
 
 *發表於 2006-03-02 01:23:13*
 
@@ -31004,7 +31004,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（16）
 
 *發表於 2006-12-28 01:04:15*
 
@@ -31013,7 +31013,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：輪迴、前世與因果
 
 *發表於 2007-01-03 23:46:13*
 
@@ -31027,7 +31027,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 這是舊版沒有威望管制，到這裡去看吧
 
 *發表於 2007-02-23 22:23:05*
 
@@ -31037,7 +31037,7 @@ http://w01.wantclick.com/WbbsHtml/5256/5256.htm?date=568
 
 ---
 
-### 文集/靈學探微
+### 今天終於到家了，睡覺已經是凌晨，才睡兩小時又被叫到工地去了
 
 *發表於 2007-03-01 22:44:16*
 
@@ -31061,7 +31061,7 @@ nirmala 忍是一種方式沒錯，但是忍僅限於外在動作的忍，而不
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：通靈經驗與辨別
 
 *發表於 2007-03-03 02:15:02*
 
@@ -31078,7 +31078,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 以心印心的方式與過程，我在6年前就說過，那一篇文章新舊留言版應該都找的到
 
 *發表於 2007-03-03 02:20:12*
 
@@ -31087,7 +31087,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（17）
 
 *發表於 2007-03-04 22:48:36*
 
@@ -31101,7 +31101,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 對一個初學的通靈者來說，不管是耳朵聽到心裡想到腦波收到都要三思而行
 
 *發表於 2007-03-04 23:59:53*
 
@@ -31120,7 +31120,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 靈學這一條路本來就是很孤單，很多事情不能說不能講，因為有時候會招忌惹事
 
 *發表於 2007-03-08 00:41:49*
 
@@ -31139,7 +31139,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（18）
 
 *發表於 2007-03-13 00:25:06*
 
@@ -31159,7 +31159,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 未命名主題
 
 *發表於 2007-04-11 01:13:54*
 
@@ -31170,7 +31170,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（19）
 
 *發表於 2007-04-25 23:45:56*
 
@@ -31183,7 +31183,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（20）
 
 *發表於 2007-05-29 01:56:26*
 
@@ -31195,7 +31195,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（21）
 
 *發表於 2007-06-07 11:14:01*
 
@@ -31208,7 +31208,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 鬼都會來沾？沾光 沾光你沒聽過嗎？
 
 *發表於 2007-06-14 23:44:30*
 
@@ -31219,7 +31219,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 念經咒確實容易引來一堆鬼神相隨，因為聲音頻率與意念波動確實會招來鬼神
 
 *發表於 2007-06-15 00:26:36*
 
@@ -31234,7 +31234,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 以前常常聽到朋友在說他天天要念咒語幾萬遍，幾年下來他累計了幾百萬遍的經咒
 
 *發表於 2007-06-18 02:20:44*
 
@@ -31254,7 +31254,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（22）
 
 *發表於 2007-07-21 00:16:25*
 
@@ -31263,7 +31263,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 要說恐怖嗎？說說我高雄奇遇記吧
 
 *發表於 2007-07-26 01:41:07*
 
@@ -31286,7 +31286,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 高雄鬼故事續集
 
 *發表於 2007-07-27 16:41:00*
 
@@ -31315,7 +31315,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：因果業力與選擇
 
 *發表於 2007-08-08 00:37:05*
 
@@ -31331,7 +31331,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（23）
 
 *發表於 2007-08-23 01:03:50*
 
@@ -31340,7 +31340,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 林見名回家生兒子去了，恭喜他當爸爸了ㄅ
 
 *發表於 2007-10-05 23:15:04*
 
@@ -31350,7 +31350,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（24）
 
 *發表於 2007-10-08 15:46:16*
 
@@ -31359,7 +31359,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（25）
 
 *發表於 2007-10-26 00:02:40*
 
@@ -31373,7 +31373,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈魂現象與觀念（3）
 
 *發表於 2007-11-05 00:31:36*
 
@@ -31392,7 +31392,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 那是抓豬才會用到的誘餌，你不要隨便亂用
 
 *發表於 2007-11-05 20:52:22*
 
@@ -31405,7 +31405,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 重點：建凱沒說他家有安「關公」
 
 *發表於 2007-11-15 16:55:00*
 
@@ -31426,7 +31426,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 相片沒有開光，不算安神像，所以沒有問題
 
 *發表於 2007-11-16 18:58:25*
 
@@ -31434,7 +31434,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：磁場、能量與影響
 
 *發表於 2007-11-17 00:59:31*
 
@@ -31454,7 +31454,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（26）
 
 *發表於 2007-11-17 21:31:53*
 
@@ -31463,7 +31463,7 @@ nirmala   其實你早已經通靈了，只是你不知道而已，從你來到�
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（27）
 
 *發表於 2007-11-19 19:33:04*
 
@@ -31483,7 +31483,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（28）
 
 *發表於 2007-11-21 23:51:17*
 
@@ -31494,7 +31494,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（29）
 
 *發表於 2007-11-26 01:02:37*
 
@@ -31502,7 +31502,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：輪迴、前世與因果（2）
 
 *發表於 2007-12-26 00:25:04*
 
@@ -31531,7 +31531,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 我好像看到傳說中的劍氣，我懷疑我跑到金庸的武俠世界了？？？
 
 *發表於 2007-12-28 22:35:08*
 
@@ -31543,7 +31543,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：身心健康與靈異觀察（2）
 
 *發表於 2007-12-28 23:16:41*
 
@@ -31563,7 +31563,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（30）
 
 *發表於 2007-12-31 23:48:03*
 
@@ -31576,7 +31576,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（31）
 
 *發表於 2008-01-05 00:21:39*
 
@@ -31587,7 +31587,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 你要去淺水了，這樣就沒人搞笑了ㄟ
 
 *發表於 2008-01-08 01:07:06*
 
@@ -31597,7 +31597,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（32）
 
 *發表於 2008-02-15 00:27:27*
 
@@ -31607,7 +31607,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：家庭互動與人生體會
 
 *發表於 2008-03-24 23:59:49*
 
@@ -31624,7 +31624,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 人不可能沒有靈魂，只可能缺少某一部份的靈魂
 
 *發表於 2006-03-10 23:37:14*
 
@@ -31637,7 +31637,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（33）
 
 *發表於 2008-04-14 23:47:42*
 
@@ -31645,7 +31645,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 上班族可真好啊，放假還有錢領，不像我們放假都沒摳摳
 
 *發表於 2008-06-04 23:46:58*
 
@@ -31654,7 +31654,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：家庭互動與人生體會（2）
 
 *發表於 2008-06-05 20:56:44*
 
@@ -31669,7 +31669,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 你先生說的沒錯，你新聞看太多壓力太大，或許需要去看精神舒壓科呵呵
 
 *發表於 2008-06-07 00:39:20*
 
@@ -31679,7 +31679,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（3）
 
 *發表於 2006-03-11 21:44:48*
 
@@ -31698,7 +31698,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象.....？？就是你常常做呆事  ㄏ哈啊哈哈
 
 *發表於 2008-06-20 20:41:33*
 
@@ -31711,7 +31711,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 一些現象....？？：靈異現象與處理（34）
 
 *發表於 2008-06-24 00:35:02*
 
@@ -31728,7 +31728,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：家庭互動與人生體會
 
 *發表於 2004-09-13 18:21:35*
 
@@ -31764,7 +31764,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（4）
 
 *發表於 2004-09-13 18:41:55*
 
@@ -31804,7 +31804,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 恭喜  小幸子終於在20號晚上5點34分順利生下一個兒子了
 
 *發表於 2005-01-20 18:44:03*
 
@@ -31816,7 +31816,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 他只是在跟老網友說他的家務事罷了
 
 *發表於 2005-02-23 19:30:44*
 
@@ -31824,7 +31824,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 忙了好幾天沒出現，出來露個臉   哈哈
 
 *發表於 2005-03-02 00:25:56*
 
@@ -31832,7 +31832,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：附身現象與處理
 
 *發表於 2005-03-03 01:14:30*
 
@@ -31861,7 +31861,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：通靈經驗與辨別
 
 *發表於 2005-03-07 00:41:42*
 
@@ -31876,7 +31876,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=414&pid=20720
 
 ---
 
-### 文集/靈學探微
+### 你放心啦，只要心地善良，你師傅會幫你度過這一切的
 
 *發表於 2005-11-01 22:44:45*
 
@@ -31905,7 +31905,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21699
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（5）
 
 *發表於 2005-12-15 23:52:21*
 
@@ -31917,7 +31917,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21699
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理
 
 *發表於 2004-03-09 23:48:55*
 
@@ -31928,7 +31928,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21699
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：通靈經驗與辨別（2）
 
 *發表於 2006-05-09 01:33:51*
 
@@ -31945,7 +31945,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21699
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：通靈經驗與辨別（3）
 
 *發表於 2006-05-18 23:59:30*
 
@@ -31956,7 +31956,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21699
 
 ---
 
-### 文集/靈學探微
+### 增強自己的能量
 
 *發表於 2006-05-20 00:52:41*
 
@@ -31970,7 +31970,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21699
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：磁場、能量與影響
 
 *發表於 2006-05-22 00:38:13*
 
@@ -31984,7 +31984,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21699
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：乩身與起乩現象
 
 *發表於 2006-05-22 19:35:36*
 
@@ -31997,7 +31997,7 @@ Donna以前當過記者也開過咖啡廳，但是最終還是逃不過當廟婆
 
 ---
 
-### 文集/靈學探微
+### 不管故事的真實性如何，就把他當作記憶
 
 *發表於 2006-07-11 22:47:05*
 
@@ -32010,7 +32010,7 @@ Donna以前當過記者也開過咖啡廳，但是最終還是逃不過當廟婆
 
 ---
 
-### 文集/靈學探微
+### 我只能說..當我不知如何是好時.. 就停止不前..調整好了再出發
 
 *發表於 2004-03-16 09:20:13*
 
@@ -32043,7 +32043,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 從小接電話常常被當老闆娘，我已經習慣了
 
 *發表於 2006-07-19 01:07:53*
 
@@ -32082,7 +32082,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（6）
 
 *發表於 2006-08-21 19:09:54*
 
@@ -32090,7 +32090,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：修行、心性與反省
 
 *發表於 2004-03-17 17:53:37*
 
@@ -32114,7 +32114,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 這一星期莫名其妙來了很多訪客，大家都集中在這幾天還真是很怪異
 
 *發表於 2007-03-27 00:57:16*
 
@@ -32128,7 +32128,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（7）
 
 *發表於 2007-06-06 20:36:10*
 
@@ -32138,7 +32138,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（8）
 
 *發表於 2007-06-07 23:57:08*
 
@@ -32146,7 +32146,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（9）
 
 *發表於 2007-06-21 20:02:08*
 
@@ -32156,7 +32156,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（10）
 
 *發表於 2007-11-26 01:01:33*
 
@@ -32170,7 +32170,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 會出現那麼多人，當然是你自己的原因，我說過如果不關心你，人家不會出現
 
 *發表於 2007-11-28 22:13:30*
 
@@ -32184,7 +32184,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：身心健康與靈異觀察
 
 *發表於 2004-03-24 03:57:34*
 
@@ -32210,7 +32210,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（11）
 
 *發表於 2008-01-18 00:10:05*
 
@@ -32230,7 +32230,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 你戒酒了啦，你還是喝白干好了
 
 *發表於 2008-01-19 01:50:48*
 
@@ -32239,7 +32239,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 空間設計現在已經不行了，尤其是口才不好的妳
 
 *發表於 2008-07-20 22:27:05*
 
@@ -32266,7 +32266,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 結論：凡事就盡力去做..  有「往好的方向」改變就有機會
 
 *發表於 2008-08-31 22:29:34*
 
@@ -32276,7 +32276,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（12）
 
 *發表於 2008-09-23 22:05:54*
 
@@ -32294,7 +32294,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（13）
 
 *發表於 2008-10-30 23:47:35*
 
@@ -32304,7 +32304,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 你就明明好好的卻一天到晚往壞處想
 
 *發表於 2008-11-04 00:26:03*
 
@@ -32313,7 +32313,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 我現在就70公斤了也還好ㄚ   哈啊哈哈阿
 
 *發表於 2008-11-04 22:10:02*
 
@@ -32321,7 +32321,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 小幸子  生日快樂喔，雖然前一天還是給你碰，但幸好還沒胡
 
 *發表於 2009-04-10 00:39:26*
 
@@ -32332,7 +32332,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 不知道ㄟ，對我來說生死或是死生都是一樣
 
 *發表於 2009-05-19 23:12:39*
 
@@ -32341,7 +32341,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 在畫之前要多加一個想像
 
 *發表於 2009-05-21 00:26:45*
 
@@ -32349,7 +32349,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 以藝品算是不貴，以要供奉的佛像來說，算是店頭價吧
 
 *發表於 2010-05-12 22:14:05*
 
@@ -32364,7 +32364,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（14）
 
 *發表於 2010-05-12 22:49:15*
 
@@ -32373,7 +32373,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 你那裡說錯需要道歉啊？我重複只細看了幾遍沒什麼問題啊
 
 *發表於 2010-05-13 03:02:08*
 
@@ -32420,7 +32420,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 我家倉庫哪有什麼觀音像？只有水晶雕的觀音而已
 
 *發表於 2010-05-13 22:55:53*
 
@@ -32433,7 +32433,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 每一段期間救自己回顧一下過去，在檢視一下現在自己
 
 *發表於 2010-10-05 23:48:35*
 
@@ -32443,7 +32443,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 絕大多數的人都只會站在自己的立場看自己，都不會站在別人的立場看自己
 
 *發表於 2011-01-04 23:45:21*
 
@@ -32454,7 +32454,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（15）
 
 *發表於 2011-01-09 11:40:04*
 
@@ -32462,7 +32462,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 奇怪直接送出就可以，為何按引用與回覆選項就無法連結畫面？
 
 *發表於 2011-01-09 11:48:34*
 
@@ -32494,7 +32494,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：家庭互動與人生體會（2）
 
 *發表於 2011-01-09 22:09:51*
 
@@ -32511,7 +32511,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 雖然當初我預言了你的未來，但是預言就是希望能改變，而不是等著出現
 
 *發表於 2011-01-11 20:03:14*
 
@@ -32520,7 +32520,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（2）
 
 *發表於 2004-03-31 00:15:55*
 
@@ -32530,7 +32530,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### 如果不滿足的話，不管當初作什麼決定，現在都會後悔
 
 *發表於 2011-05-07 23:34:55*
 
@@ -32558,7 +32558,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21478
 
 ---
 
-### 文集/靈學探微
+### [原創]小幸子謝了：靈異現象與處理（3）
 
 *發表於 2004-04-05 02:02:02*
 
@@ -32588,7 +32588,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21513
 
 ---
 
-### 文集/靈學探微
+### 沒人叫你自己對號入座
 
 *發表於 2004-04-05 18:17:30*
 
@@ -32596,7 +32596,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21513
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈魂現象與觀念
 
 *發表於 2005-06-24 00:32:23*
 
@@ -32616,7 +32616,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21513
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈魂現象與觀念（2）
 
 *發表於 2005-06-26 01:40:19*
 
@@ -32647,7 +32647,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21513
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：人性觀察與處世反省
 
 *發表於 2005-06-27 01:26:17*
 
@@ -32681,7 +32681,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=415&pid=21513
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：符咒現象與辨別
 
 *發表於 2005-06-29 01:11:07*
 
@@ -32718,7 +32718,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（3）
 
 *發表於 2005-07-01 00:07:16*
 
@@ -32735,7 +32735,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理
 
 *發表於 2005-06-11 00:37:32*
 
@@ -32752,7 +32752,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：磁場、能量與影響
 
 *發表於 2005-06-09 23:59:57*
 
@@ -32769,7 +32769,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 不一樣的心性業力造就不一樣的靈學狀況
 
 *發表於 2005-07-03 23:11:45*
 
@@ -32784,7 +32784,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：修行、心性與反省
 
 *發表於 2005-07-04 23:38:05*
 
@@ -32805,7 +32805,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（4）
 
 *發表於 2005-07-04 23:52:06*
 
@@ -32818,7 +32818,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 我報告還沒時間寫完，所以證書也還沒領
 
 *發表於 2005-07-05 00:17:34*
 
@@ -32838,7 +32838,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（5）
 
 *發表於 2005-07-07 00:18:57*
 
@@ -32850,7 +32850,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（6）
 
 *發表於 2005-07-07 10:04:07*
 
@@ -32886,7 +32886,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 現在可以看到了吧，我也要去寫報告了
 
 *發表於 2005-06-12 00:11:25*
 
@@ -32895,7 +32895,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（7）
 
 *發表於 2005-09-15 23:35:16*
 
@@ -32914,7 +32914,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22244
 
 ---
 
-### 文集/靈學探微
+### 我那一天看IP顯示是大阪，那應該從東京接到大阪再連到北京的吧
 
 *發表於 2005-09-19 23:23:08*
 
@@ -32929,7 +32929,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22430
 
 ---
 
-### 文集/靈學探微
+### 水晶柱去年我看到一支26公斤的，很漂亮雙色透明
 
 *發表於 2005-09-22 23:28:52*
 
@@ -32943,7 +32943,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22430
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：磁場、能量與影響（2）
 
 *發表於 2005-09-24 21:39:35*
 
@@ -32961,7 +32961,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=416&pid=22430
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（8）
 
 *發表於 2005-09-26 22:54:06*
 
@@ -32976,7 +32976,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 有機會我再找看看有沒有更便宜漂亮的
 
 *發表於 2005-10-09 23:08:37*
 
@@ -32984,7 +32984,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（9）
 
 *發表於 2005-10-19 23:07:09*
 
@@ -32994,7 +32994,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 與各位大師討論一些狀況：靈異現象與處理（2）
 
 *發表於 2005-06-15 22:19:12*
 
@@ -33006,7 +33006,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（2）
 
 *發表於 2004-05-13 00:52:06*
 
@@ -33018,7 +33018,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：修行、心性與反省
 
 *發表於 2004-11-08 01:29:22*
 
@@ -33091,7 +33091,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（5）
 
 *發表於 2004-11-09 23:57:40*
 
@@ -33121,7 +33121,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 沒關係  反正現在流行頭昏    哈哈
 
 *發表於 2004-11-10 23:39:15*
 
@@ -33129,7 +33129,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 那我現在說來來得及喔   呵呵
 
 *發表於 2004-11-28 21:18:47*
 
@@ -33140,7 +33140,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 你不是已經去找小欣了嗎？
 
 *發表於 2004-05-27 00:36:56*
 
@@ -33148,7 +33148,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（6）
 
 *發表於 2005-04-29 19:02:09*
 
@@ -33160,7 +33160,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 那就明天下午在去啊還不簡單，這還要喊救命
 
 *發表於 2004-05-27 18:33:08*
 
@@ -33168,7 +33168,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（3）
 
 *發表於 2004-05-28 00:40:49*
 
@@ -33178,7 +33178,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（7）
 
 *發表於 2005-05-22 03:10:54*
 
@@ -33193,7 +33193,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（8）
 
 *發表於 2005-06-11 22:23:50*
 
@@ -33212,7 +33212,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（9）
 
 *發表於 2005-07-05 00:18:57*
 
@@ -33225,7 +33225,7 @@ em02:
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（10）
 
 *發表於 2005-07-05 00:27:28*
 
@@ -33247,7 +33247,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=417&pid=22809
 
 ---
 
-### 文集/靈學探微
+### 你還躲的真徹底ㄟ，即時通沒看見，網站上也是偷偷上來貼一下就下線
 
 *發表於 2005-07-05 01:06:36*
 
@@ -33257,7 +33257,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=417&pid=22809
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（11）
 
 *發表於 2005-07-25 20:53:26*
 
@@ -33266,7 +33266,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=417&pid=22809
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（12）
 
 *發表於 2005-07-26 01:37:48*
 
@@ -33278,7 +33278,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=417&pid=22809
 
 ---
 
-### 文集/靈學探微
+### 翩翩你要去當抓鬼大隊長了喔
 
 *發表於 2004-06-02 23:36:58*
 
@@ -33286,7 +33286,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=417&pid=22809
 
 ---
 
-### 文集/靈學探微
+### 雲朵舊版有人找你喔   卡車司機
 
 *發表於 2004-06-28 00:13:10*
 
@@ -33294,7 +33294,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=417&pid=22809
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：身心健康與靈異觀察
 
 *發表於 2004-07-12 01:50:14*
 
@@ -33310,7 +33310,7 @@ ps:今天中午出醫院買中餐...遇到一個帶氧氣罩要坐救護車回�
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：卡陰現象與判斷
 
 *發表於 2004-07-29 01:49:23*
 
@@ -33334,7 +33334,7 @@ ps...心裡一直在想一件事..
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理（4）
 
 *發表於 2004-08-09 00:04:34*
 
@@ -33354,7 +33354,7 @@ ps...心裡一直在想一件事..
 
 ---
 
-### 文集/靈學探微
+### 問問問：我是不是有抗體了？：靈異現象與處理
 
 *發表於 2004-05-12 01:50:42*
 
@@ -33376,7 +33376,7 @@ ps...心裡一直在想一件事..
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（6）
 
 *發表於 2009-01-25 04:03:53*
 
@@ -33387,7 +33387,7 @@ ps...心裡一直在想一件事..
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（7）
 
 *發表於 2009-01-27 01:25:18*
 
@@ -33401,7 +33401,7 @@ ps...心裡一直在想一件事..
 
 ---
 
-### 文集/靈學探微
+### 多數來講是會放著看你撞牆撞到爽了，在觀察你有沒有覺悟
 
 *發表於 2009-02-02 02:04:32*
 
@@ -33413,7 +33413,7 @@ ps...心裡一直在想一件事..
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：輪迴、前世與因果
 
 *發表於 2009-02-02 22:01:09*
 
@@ -33442,7 +33442,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17404
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理
 
 *發表於 2007-05-24 22:37:08*
 
@@ -33451,7 +33451,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17404
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（8）
 
 *發表於 2009-02-03 23:34:14*
 
@@ -33462,7 +33462,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17404
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：家庭互動與人生體會
 
 *發表於 2009-03-03 20:42:15*
 
@@ -33484,7 +33484,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：通靈經驗與辨別
 
 *發表於 2009-03-04 21:28:17*
 
@@ -33504,7 +33504,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（9）
 
 *發表於 2009-03-05 22:51:48*
 
@@ -33525,7 +33525,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（10）
 
 *發表於 2009-03-16 22:41:46*
 
@@ -33534,7 +33534,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### 嗚..............雖然是事實，但是也不要講這麼白嘛∼∼∼
 
 *發表於 2009-03-18 00:46:16*
 
@@ -33542,7 +33542,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### 可是我看到的明明是白的啊∼∼∼
 
 *發表於 2009-03-20 22:24:02*
 
@@ -33552,7 +33552,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（11）
 
 *發表於 2011-07-14 23:22:37*
 
@@ -33562,7 +33562,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（2）
 
 *發表於 2008-11-21 01:06:15*
 
@@ -33577,7 +33577,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=410&pid=17421
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（3）
 
 *發表於 2008-11-22 21:02:22*
 
@@ -33592,7 +33592,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 我等你的算命心得報告
 
 *發表於 2008-11-25 12:07:51*
 
@@ -33600,7 +33600,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（4）
 
 *發表於 2008-11-25 22:50:37*
 
@@ -33608,7 +33608,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### [灌水]..錯雜談：靈異現象與處理（5）
 
 *發表於 2008-11-25 23:37:44*
 
@@ -33616,7 +33616,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 小媛 蒐集、整理的參考資源：靈異現象與處理
 
 *發表於 2011-07-14 23:21:32*
 
@@ -33626,7 +33626,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（2）
 
 *發表於 2006-09-29 23:47:09*
 
@@ -33635,7 +33635,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（3）
 
 *發表於 2006-10-04 01:25:43*
 
@@ -33651,7 +33651,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 最近網站公司駭客多，所以很多IP都被暫時鎖住了
 
 *發表於 2006-10-13 00:45:55*
 
@@ -33660,7 +33660,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（4）
 
 *發表於 2006-10-14 00:29:41*
 
@@ -33670,7 +33670,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 唉啊...我還真的找她喝勒
 
 *發表於 2006-10-15 08:07:15*
 
@@ -33681,7 +33681,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：修行、心性與反省
 
 *發表於 2006-10-30 00:42:21*
 
@@ -33699,7 +33699,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（5）
 
 *發表於 2006-11-01 00:57:50*
 
@@ -33713,7 +33713,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 〈〈嗚嗚被發現了~一定是CD講的
 
 *發表於 2005-11-23 23:33:20*
 
@@ -33729,7 +33729,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：家庭互動與人生體會
 
 *發表於 2005-11-24 00:11:38*
 
@@ -33771,7 +33771,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 上回，想念地藏經，但師姐建議不要
 
 *發表於 2007-06-18 02:55:49*
 
@@ -33804,7 +33804,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 在網路上寫感想經歷時，最糟糕的一件事情就是，他人誤解或無知的批判
 
 *發表於 2007-06-18 14:42:29*
 
@@ -33829,7 +33829,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 你有想到就好了，自己做錯總是很隨性，但是別人做錯卻是一清二楚
 
 *發表於 2007-06-20 22:44:04*
 
@@ -33840,7 +33840,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 睡一覺醒來繼續留言
 
 *發表於 2007-06-22 00:17:49*
 
@@ -33886,7 +33886,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：通靈經驗與辨別
 
 *發表於 2007-06-22 23:55:13*
 
@@ -33897,7 +33897,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：宗教信仰與正信
 
 *發表於 2007-10-14 23:13:52*
 
@@ -33910,7 +33910,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：宗教信仰與正信（2）
 
 *發表於 2007-10-15 22:36:20*
 
@@ -33926,7 +33926,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（6）
 
 *發表於 2007-10-15 23:19:38*
 
@@ -33955,7 +33955,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### 境界高？以前的許多紛爭就是為此而起
 
 *發表於 2007-10-17 00:57:52*
 
@@ -33982,7 +33982,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：輪迴、前世與因果
 
 *發表於 2007-11-07 23:34:07*
 
@@ -33993,7 +33993,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：磁場、能量與影響
 
 *發表於 2008-03-18 00:39:48*
 
@@ -34012,7 +34012,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：修行、心性與反省（2）
 
 *發表於 2008-03-18 20:17:06*
 
@@ -34034,7 +34034,7 @@ OOXX不要躲起來打四色牌快出來接客了。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：通靈經驗與辨別（2）
 
 *發表於 2008-03-19 22:37:23*
 
@@ -34061,7 +34061,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：磁場、能量與影響（2）
 
 *發表於 2008-03-20 23:45:13*
 
@@ -34084,7 +34084,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（7）
 
 *發表於 2008-03-21 23:39:57*
 
@@ -34096,7 +34096,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 智者你在哪裡啊？？？
 
 *發表於 2008-05-14 08:11:09*
 
@@ -34105,7 +34105,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 上次不是就聽說神龍在你家？不是在全家
 
 *發表於 2008-05-15 01:09:51*
 
@@ -34115,7 +34115,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 你家明明是全家還裝蒜，快把神龍呼喚出來吧
 
 *發表於 2008-05-15 23:25:16*
 
@@ -34124,7 +34124,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 你賣假了，我需要神龍啦
 
 *發表於 2008-05-18 02:14:17*
 
@@ -34132,7 +34132,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 如果功能一樣我可以勉強接受
 
 *發表於 2008-05-18 23:23:07*
 
@@ -34140,7 +34140,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 這樣你就知道我為何沒事找你過來聊天了
 
 *發表於 2008-06-10 20:09:55*
 
@@ -34148,7 +34148,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 現在媽媽總算上來陪你了，不要在胡亂跟媽媽抬槓了
 
 *發表於 2008-06-15 01:46:41*
 
@@ -34159,7 +34159,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 對啊，現在的時局，不多存一些錢養老還真是不行
 
 *發表於 2008-06-16 00:21:01*
 
@@ -34167,7 +34167,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 沒關係沒關係，沒人比我家以前更嚴重
 
 *發表於 2008-06-17 23:24:55*
 
@@ -34178,7 +34178,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（8）
 
 *發表於 2008-10-06 23:34:16*
 
@@ -34186,7 +34186,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 十年前的妳難道有多一隻眼睛嗎？   哈哈哈
 
 *發表於 2008-10-09 00:11:42*
 
@@ -34194,7 +34194,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：人性觀察與處世反省
 
 *發表於 2008-10-09 23:29:13*
 
@@ -34217,7 +34217,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（9）
 
 *發表於 2008-10-16 23:43:33*
 
@@ -34225,7 +34225,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（10）
 
 *發表於 2008-10-18 23:59:49*
 
@@ -34235,7 +34235,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 我記得年初曾經有一次的體驗  ㄟ  那應該讓我先體驗了那種感覺
 
 *發表於 2008-10-26 21:11:58*
 
@@ -34252,7 +34252,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 登天都比較容易
 
 *發表於 2008-10-28 18:16:36*
 
@@ -34262,7 +34262,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：人性觀察與處世反省（2）
 
 *發表於 2008-10-29 00:21:27*
 
@@ -34294,7 +34294,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（11）
 
 *發表於 2008-10-29 00:28:10*
 
@@ -34304,7 +34304,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 賓果....你答對了
 
 *發表於 2008-10-29 09:38:35*
 
@@ -34319,7 +34319,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 以前小叉叉滾地事件又發生了，這次戲碼更精彩「挖心掏肺」ㄟ
 
 *發表於 2008-10-29 15:00:17*
 
@@ -34330,7 +34330,7 @@ PT  我說我從來不打坐你相不相信？
 
 ---
 
-### 文集/靈學探微
+### 小叉叉的滾地秀在海腳七號上映前前已經下檔了，如有向偶真是可惜
 
 *發表於 2008-10-30 10:09:38*
 
@@ -34342,7 +34342,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（12）
 
 *發表於 2008-10-30 10:29:58*
 
@@ -34356,7 +34356,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### 這是臨場表演看表演者的隨興演出，所以不需要導演 製作人 執行人
 
 *發表於 2008-10-31 00:15:53*
 
@@ -34365,7 +34365,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（13）
 
 *發表於 2008-11-04 01:15:22*
 
@@ -34375,7 +34375,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（14）
 
 *發表於 2008-11-06 00:33:43*
 
@@ -34383,7 +34383,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### 前幾年我有時候會品嚐一下烈酒，我很喜歡沾一下香味與留存口間，滑落喉間的觸感
 
 *發表於 2009-02-09 00:46:38*
 
@@ -34395,7 +34395,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### 是愛蘭囍酒吧，我家有一瓶放幾年我都忘記了
 
 *發表於 2009-02-10 00:22:44*
 
@@ -34407,7 +34407,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（15）
 
 *發表於 2009-02-11 00:38:54*
 
@@ -34417,7 +34417,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（16）
 
 *發表於 2009-02-11 01:41:15*
 
@@ -34426,7 +34426,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：身心健康與靈異觀察
 
 *發表於 2009-02-17 00:21:17*
 
@@ -34449,7 +34449,7 @@ PT關於秘笈的使用說明在去年已經詳細記載於周星馳的功夫裡
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（17）
 
 *發表於 2009-02-17 21:10:52*
 
@@ -34460,7 +34460,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（18）
 
 *發表於 2009-02-25 00:01:41*
 
@@ -34469,7 +34469,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（19）
 
 *發表於 2009-03-02 00:47:37*
 
@@ -34484,7 +34484,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### 我沒有很厲害，我只是在講經驗值與統計分析而已
 
 *發表於 2009-03-03 00:07:35*
 
@@ -34493,7 +34493,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### 講屁話也是要有很高的藝術天分，大家會講嗎？不會嘛
 
 *發表於 2009-03-04 21:32:34*
 
@@ -34503,7 +34503,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### 回收物不是要清理乾淨嗎？裡面有東西也可以丟？這真的不簡單啊
 
 *發表於 2009-03-07 23:20:34*
 
@@ -34514,7 +34514,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（20）
 
 *發表於 2009-03-08 22:52:19*
 
@@ -34526,7 +34526,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### 是微退啦，當超過負荷的時候，稍微退一下可以減少阻力過大壓死自己
 
 *發表於 2009-03-30 01:21:24*
 
@@ -34534,7 +34534,7 @@ CMJ我上次電話中有跟你老公講說拿那支舊型的借我，請他拿�
 
 ---
 
-### 文集/靈學探微
+### 我只是會在你話尾A你而已，可惜這一篇沒得A
 
 *發表於 2009-04-28 00:27:06*
 
@@ -34555,7 +34555,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 前幾天電腦壞了都沒看你寫的東西，壓縮機是新的嗎？如果是新的就不貴
 
 *發表於 2009-07-13 00:41:28*
 
@@ -34566,7 +34566,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 我只能說：  加油 ， 世間沒什麼人不會犯錯，只要不繼續錯就好了
 
 *發表於 2006-07-03 00:06:20*
 
@@ -34574,7 +34574,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 你什麼時候會狗腿了，我都不知道？
 
 *發表於 2009-07-16 23:16:53*
 
@@ -34583,7 +34583,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 你這一次不簡單喔，還可以清楚溝通，之前不是都是模糊的感覺
 
 *發表於 2009-07-17 00:08:17*
 
@@ -34593,7 +34593,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 彥霖 陳： 剛剛妮可在分析我家人的個性
 
 *發表於 2006-07-03 01:03:39*
 
@@ -34669,7 +34669,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### [但他長大之前  我好像還是得在旁邊罩著
 
 *發表於 2009-09-23 23:20:38*
 
@@ -34682,7 +34682,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理
 
 *發表於 2005-11-21 23:22:32*
 
@@ -34693,7 +34693,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 你夠厲害，這種失誤也可以搞的出來，真是猴塞雷啊
 
 *發表於 2010-06-10 00:09:55*
 
@@ -34703,7 +34703,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 計畫永遠趕不上變化
 
 *發表於 2010-06-10 21:54:11*
 
@@ -34752,7 +34752,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 現實 現實 現實
 
 *發表於 2010-09-11 02:33:22*
 
@@ -34771,7 +34771,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 我解說什麼啊？
 
 *發表於 2010-10-21 00:02:39*
 
@@ -34780,7 +34780,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（21）
 
 *發表於 2010-10-22 00:02:59*
 
@@ -34788,7 +34788,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 我都不知小孩子這麼嚴重，我只是單純的以為是肺積水不知道死亡率這麼高
 
 *發表於 2011-01-18 20:30:43*
 
@@ -34799,7 +34799,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（22）
 
 *發表於 2011-02-12 03:26:09*
 
@@ -34825,7 +34825,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 什麼讚啊？
 
 *發表於 2011-02-13 19:15:30*
 
@@ -34833,7 +34833,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### 這又不是第一次，他早就習慣作黑臉了，沒差啦
 
 *發表於 2011-02-14 20:10:38*
 
@@ -34841,7 +34841,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（23）
 
 *發表於 2011-02-14 22:08:11*
 
@@ -34849,7 +34849,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=408&pid=16751
 
 ---
 
-### 文集/靈學探微
+### Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話
 
 *發表於 2011-02-15 18:19:48*
 
@@ -34869,7 +34869,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 你早就不是奇蹟
 
 *發表於 2011-02-15 22:43:35*
 
@@ -34884,7 +34884,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 所以說要我將悲劇當成是喜劇，那是不可能的事阿
 
 *發表於 2011-02-16 00:44:19*
 
@@ -34902,7 +34902,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：身心健康與靈異觀察（2）
 
 *發表於 2011-02-17 17:58:37*
 
@@ -34919,7 +34919,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：命運、選擇與改變
 
 *發表於 2011-02-20 02:22:01*
 
@@ -34972,7 +34972,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈魂現象與觀念
 
 *發表於 2011-02-21 18:54:37*
 
@@ -34992,7 +34992,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 林見名   你也太爽了吧
 
 *發表於 2011-02-22 18:06:18*
 
@@ -35005,7 +35005,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 即身成就？那是不如法的傳教者，自己斷章取義做錯誤的解釋與傳承
 
 *發表於 2011-05-10 11:02:29*
 
@@ -35024,7 +35024,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### Carla 隨想紀事：靈異現象與處理（24）
 
 *發表於 2011-07-14 23:21:10*
 
@@ -35034,7 +35034,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 這一個主題蒐集了網路信件上值得觀看的文章
 
 *發表於 2004-02-12 01:11:29*
 
@@ -35044,7 +35044,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 待人「微軟」一點
 
 *發表於 2005-02-07 16:23:53*
 
@@ -35056,7 +35056,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：家庭互動與人生體會（4）
 
 *發表於 2005-02-07 16:42:31*
 
@@ -35149,7 +35149,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 打拼，附贈幸福
 
 *發表於 2005-02-07 16:49:25*
 
@@ -35181,7 +35181,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 給有福氣的人看
 
 *發表於 2005-07-24 23:21:34*
 
@@ -35234,7 +35234,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 「回答柔和，使怒消退；言語暴戾，觸動怒氣。」
 
 *發表於 2004-02-27 21:01:28*
 
@@ -35279,7 +35279,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 好話壞話只在一念之間
 
 *發表於 2004-02-27 21:02:27*
 
@@ -35329,7 +35329,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：身心健康與靈異觀察
 
 *發表於 2004-02-27 21:07:41*
 
@@ -35392,7 +35392,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 1.誤會； 2.釘子； 3.且慢下手； 4.寬大
 
 *發表於 2004-03-02 23:28:09*
 
@@ -35499,7 +35499,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 作者  ◎侯文詠
 
 *發表於 2006-11-12 15:13:07*
 
@@ -35517,7 +35517,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：家庭互動與人生體會
 
 *發表於 2004-03-16 12:54:37*
 
@@ -35570,7 +35570,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 出門高E.Q，回家低E.Q
 
 *發表於 2004-03-16 19:48:55*
 
@@ -35609,7 +35609,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 公車上的一席話
 
 *發表於 2007-01-30 01:13:24*
 
@@ -35627,7 +35627,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 「什麼都帶不走」
 
 *發表於 2004-02-12 01:15:09*
 
@@ -35672,7 +35672,7 @@ Melody 你講的是沒錯，但是我只能很無奈的說一句現實的話。
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：靈異現象與處理
 
 *發表於 2004-03-17 00:02:23*
 
@@ -35692,7 +35692,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 十二條法則--養出不負責任的下一代
 
 *發表於 2007-06-07 23:49:38*
 
@@ -35788,7 +35788,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 走進星星的世界(.^ ^.)~
 
 *發表於 2004-03-17 18:41:22*
 
@@ -35832,7 +35832,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 我不知道這個忍是不是忍耐忍讓的忍，如果是的話，那會內傷ㄟ
 
 *發表於 2009-07-02 00:11:21*
 
@@ -35843,7 +35843,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：家庭互動與人生體會（2）
 
 *發表於 2004-03-19 02:04:44*
 
@@ -35898,7 +35898,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：靈異現象與處理（3）
 
 *發表於 2009-07-03 00:02:50*
 
@@ -35917,7 +35917,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 小時候我不是看米老鼠，那時候我不知道有米老鼠，但是我知道太空飛鼠
 
 *發表於 2009-07-04 22:01:14*
 
@@ -35930,7 +35930,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：靈異現象與處理（4）
 
 *發表於 2009-10-02 22:00:05*
 
@@ -35939,7 +35939,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 幸好我沒有小孩子，不用煩惱這個問題
 
 *發表於 2009-10-04 23:50:28*
 
@@ -35947,7 +35947,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 台灣的未來？我真的不知道台灣的未來在那裡
 
 *發表於 2009-10-07 22:14:26*
 
@@ -35985,7 +35985,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 昨天我在網路上有遇到他，他說沒事
 
 *發表於 2009-10-08 23:13:55*
 
@@ -35997,7 +35997,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 你不知道記憶力太好的人一旦神經衰弱之後的恐怖感覺
 
 *發表於 2009-10-09 22:59:40*
 
@@ -36010,7 +36010,7 @@ Date: Thu, 12 Feb 2004 19:13:32 +0800
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：靈異現象與處理（5）
 
 *發表於 2011-07-07 17:47:17*
 
@@ -36026,7 +36026,7 @@ http://beta.tw.news.yahoo.com/%E8%AB%BE%E5%9F%BA%E4%BA%9E-%E6%AF%80%E5%9C%A82%E5
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：靈異現象與處理（6）
 
 *發表於 2011-07-09 17:42:02*
 
@@ -36034,7 +36034,7 @@ http://beta.tw.news.yahoo.com/%E8%AB%BE%E5%9F%BA%E4%BA%9E-%E6%AF%80%E5%9C%A82%E5
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：靈異現象與處理（7）
 
 *發表於 2011-07-14 23:20:06*
 
@@ -36044,7 +36044,7 @@ http://beta.tw.news.yahoo.com/%E8%AB%BE%E5%9F%BA%E4%BA%9E-%E6%AF%80%E5%9C%A82%E5
 
 ---
 
-### 文集/靈學探微
+### 人往往可以願諒自己的醜陋，卻不能接受他人的醜陋
 
 *發表於 2004-04-27 23:13:44*
 
@@ -36095,7 +36095,7 @@ http://beta.tw.news.yahoo.com/%E8%AB%BE%E5%9F%BA%E4%BA%9E-%E6%AF%80%E5%9C%A82%E5
 
 ---
 
-### 文集/靈學探微
+### 聯合報上看到的,寫得真不錯!
 
 *發表於 2004-05-02 23:36:43*
 
@@ -36159,7 +36159,7 @@ http://beta.tw.news.yahoo.com/%E8%AB%BE%E5%9F%BA%E4%BA%9E-%E6%AF%80%E5%9C%A82%E5
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：身心健康與靈異觀察（2）
 
 *發表於 2004-05-02 23:39:44*
 
@@ -36196,7 +36196,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 女人報仇，八年不晚....＊-＊(風流的男人請小心 )
 
 *發表於 2004-05-16 01:30:26*
 
@@ -36222,7 +36222,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 心若改變，你的態度跟著改變；
 
 *發表於 2004-05-16 01:37:17*
 
@@ -36264,7 +36264,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 孱弱的善良
 
 *發表於 2004-05-16 12:03:51*
 
@@ -36322,7 +36322,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 相遇，不是用來生氣的
 
 *發表於 2004-02-16 01:10:20*
 
@@ -36431,7 +36431,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：家庭互動與人生體會（3）
 
 *發表於 2004-08-31 23:56:11*
 
@@ -36451,7 +36451,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 老板最怕的五種人
 
 *發表於 2004-09-09 22:42:14*
 
@@ -36480,7 +36480,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 賣梳子給和尚
 
 *發表於 2004-09-09 22:46:30*
 
@@ -36532,7 +36532,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 一位了不起的父親--向徐明致敬
 
 *發表於 2004-09-09 22:49:50*
 
@@ -36546,7 +36546,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 希望這一篇文章可以給你不同的省思：靈異現象與處理（2）
 
 *發表於 2004-09-17 01:03:59*
 
@@ -36788,7 +36788,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 低估你的問題？呵呵
 
 *發表於 2006-12-26 01:31:22*
 
@@ -36815,7 +36815,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=407&pid=15800
 
 ---
 
-### 文集/靈學探微
+### 删除：因果業力與選擇
 
 *發表於 2006-12-26 23:56:23*
 
@@ -36847,7 +36847,7 @@ ANN的事一直是我心中的痛，因為我可能再也找不到那麼善良�
 
 ---
 
-### 文集/靈學探微
+### 你不是練功驅魔殺到天搖地動，連天花板床鋪房間整個都搖起來了？？？
 
 *發表於 2006-12-27 00:37:09*
 
@@ -36856,7 +36856,7 @@ ANN的事一直是我心中的痛，因為我可能再也找不到那麼善良�
 
 ---
 
-### 文集/靈學探微
+### 不動明王忙了半年多甘願了喔，我都結婚半年了你才出現
 
 *發表於 2006-12-28 01:14:30*
 
@@ -36868,7 +36868,7 @@ ANN的事一直是我心中的痛，因為我可能再也找不到那麼善良�
 
 ---
 
-### 文集/靈學探微
+### 删除：磁場、能量與影響（2）
 
 *發表於 2006-12-31 22:26:18*
 
@@ -36894,7 +36894,7 @@ ANN的事一直是我心中的痛，因為我可能再也找不到那麼善良�
 
 ---
 
-### 文集/靈學探微
+### 删除：靈魂現象與觀念
 
 *發表於 2007-01-01 22:49:14*
 
@@ -36924,7 +36924,7 @@ Carla 的說法也沒有錯，那是以人的生活角度去要求自己，也�
 
 ---
 
-### 文集/靈學探微
+### 這裡威望五的有一半都是這樣走過來的，只是大家已經習慣不多說了
 
 *發表於 2007-01-03 23:28:55*
 
@@ -36937,7 +36937,7 @@ Carla 的說法也沒有錯，那是以人的生活角度去要求自己，也�
 
 ---
 
-### 文集/靈學探微
+### 删除：靈異現象與處理（2）
 
 *發表於 2007-01-23 00:21:50*
 
@@ -36947,7 +36947,7 @@ Carla 的說法也沒有錯，那是以人的生活角度去要求自己，也�
 
 ---
 
-### 文集/靈學探微
+### 删除：通靈經驗與辨別
 
 *發表於 2007-06-20 00:06:47*
 
@@ -36966,7 +36966,7 @@ Carla 的說法也沒有錯，那是以人的生活角度去要求自己，也�
 
 ---
 
-### 文集/靈學探微
+### 恭喜你喔，希望你用這樣的思想繼續精進
 
 *發表於 2007-08-13 01:55:19*
 
@@ -36974,7 +36974,7 @@ Carla 的說法也沒有錯，那是以人的生活角度去要求自己，也�
 
 ---
 
-### 文集/靈學探微
+### 近幾年我想了很多，為何你們可以解決，為何他們不能解決？
 
 *發表於 2007-08-25 22:57:25*
 
@@ -36989,7 +36989,7 @@ nirmala  Melody　算是比較特殊的，我沒太多時間直接教他們什�
 
 ---
 
-### 文集/靈學探微
+### 删除：附身現象與處理
 
 *發表於 2007-12-13 12:46:12*
 
@@ -37010,7 +37010,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23480
 
 ---
 
-### 文集/靈學探微
+### 那個靈法力強嗎？真的強嗎？是你被他騙了
 
 *發表於 2007-12-13 20:44:10*
 
@@ -37026,7 +37026,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23480
 
 ---
 
-### 文集/靈學探微
+### 對啊..對啊..他鳥都不鳥我，他只敢欺負沒用的人
 
 *發表於 2007-12-13 21:26:21*
 
@@ -37050,7 +37050,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23480
 
 ---
 
-### 文集/靈學探微
+### 删除：靈異現象與處理（3）
 
 *發表於 2007-12-13 21:49:06*
 
@@ -37097,7 +37097,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23491
 
 ---
 
-### 文集/靈學探微
+### 删除：靈異現象與處理（4）
 
 *發表於 2007-12-13 22:58:36*
 
@@ -37125,7 +37125,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23491
 
 ---
 
-### 文集/靈學探微
+### 我發現你精神很好嘛，不像個病人，而且思路清晰記憶力也很好吵起架來精神旺盛
 
 *發表於 2007-12-14 18:34:34*
 
@@ -37142,7 +37142,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23491
 
 ---
 
-### 文集/靈學探微
+### 删除：靈異現象與處理（5）
 
 *發表於 2007-12-14 21:02:37*
 
@@ -37153,7 +37153,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23491
 
 ---
 
-### 文集/靈學探微
+### 删除：附身現象與處理（2）
 
 *發表於 2007-12-16 16:11:55*
 
@@ -37194,7 +37194,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23491
 
 ---
 
-### 文集/靈學探微
+### 删除：靈異現象與處理（6）
 
 *發表於 2007-12-18 00:19:43*
 
@@ -37211,7 +37211,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23491
 
 ---
 
-### 文集/靈學探微
+### 删除：宗教信仰與正信
 
 *發表於 2007-12-18 23:46:40*
 
@@ -37238,7 +37238,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：靈異現象與處理（7）
 
 *發表於 2008-02-18 23:55:05*
 
@@ -37248,7 +37248,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：宗教信仰與正信（2）
 
 *發表於 2011-07-14 22:57:25*
 
@@ -37258,7 +37258,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：修行、心性與反省
 
 *發表於 2006-12-20 00:39:09*
 
@@ -37295,7 +37295,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：磁場、能量與影響
 
 *發表於 2006-12-17 00:21:06*
 
@@ -37315,7 +37315,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：身心健康與靈異觀察（2）
 
 *發表於 2006-12-21 00:41:36*
 
@@ -37335,7 +37335,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 上篇亂碼 金毛的內容
 
 *發表於 2006-12-22 14:58:11*
 
@@ -37347,7 +37347,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：身心健康與靈異觀察
 
 *發表於 2006-12-18 00:44:44*
 
@@ -37363,7 +37363,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：靈異現象與處理
 
 *發表於 2006-12-23 01:08:04*
 
@@ -37402,7 +37402,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 删除：神通、法力與迷思
 
 *發表於 2006-12-25 03:25:29*
 
@@ -37438,7 +37438,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 如果要貼文，卻找不到歸類主題，那就貼在這裡吧
 
 *發表於 2004-02-21 18:22:33*
 
@@ -37446,7 +37446,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=419&pid=23539
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（5）
 
 *發表於 2004-07-14 23:38:32*
 
@@ -37473,7 +37473,7 @@ HTML格式檔案 [ 偵測病毒並下載 ]
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（6）
 
 *發表於 2004-07-18 10:58:44*
 
@@ -37501,7 +37501,7 @@ AQ高手的做法是，遇到狀況，先問自己：「現在有什麼是可珍
 
 ---
 
-### 文集/靈學探微
+### 這是一篇流傳很久的老文章了
 
 *發表於 2004-07-18 11:11:25*
 
@@ -37621,7 +37621,7 @@ Taiwan在國外受到大家
 
 ---
 
-### 文集/靈學探微
+### ＂治安實在是太---壞了＂
 
 *發表於 2004-07-18 20:35:09*
 
@@ -37672,7 +37672,7 @@ Taiwan在國外受到大家
 
 ---
 
-### 文集/靈學探微
+### 地震來時，你躲在哪裡？老師教的是錯的!!
 
 *發表於 2004-07-18 20:39:07*
 
@@ -37760,7 +37760,7 @@ Taiwan在國外受到大家
 
 ---
 
-### 文集/靈學探微
+### 職場秘辛：十種不可追隨的老闆
 
 *發表於 2004-07-19 00:10:33*
 
@@ -37822,7 +37822,7 @@ Taiwan在國外受到大家
 
 ---
 
-### 文集/靈學探微
+### 真是服了作者，為了諸位開車族的福利還是昧著良心轉寄！
 
 *發表於 2004-07-19 00:50:10*
 
@@ -37870,7 +37870,7 @@ b 沒看到收費員開ㄉ單 可能被人抽走
 
 ---
 
-### 文集/靈學探微
+### 火蟻(胡雲龍)
 
 *發表於 2004-07-21 10:33:08*
 
@@ -37950,7 +37950,7 @@ b 沒看到收費員開ㄉ單 可能被人抽走
 
 ---
 
-### 文集/靈學探微
+### 下次要轉帳，都去麥當勞~
 
 *發表於 2004-07-26 00:15:53*
 
@@ -37989,7 +37989,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=418&pid=22968
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（7）
 
 *發表於 2004-07-26 01:40:14*
 
@@ -38134,7 +38134,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 我視覺的這是一份網路謠言
 
 *發表於 2004-08-31 23:34:26*
 
@@ -38159,7 +38159,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 你可以不酒後開車但是你不可以不知道這樣的規定
 
 *發表於 2004-09-16 10:25:43*
 
@@ -38202,7 +38202,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 生日當密碼 銀行不需賠償
 
 *發表於 2004-09-16 11:33:01*
 
@@ -38216,7 +38216,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（8）
 
 *發表於 2004-09-20 01:04:31*
 
@@ -38242,7 +38242,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 天呀!!  我就是這家滴用戶勒
 
 *發表於 2004-09-20 21:03:28*
 
@@ -38287,7 +38287,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 這些東西不可再喝!!--行政院消費者保護委員會正式公布
 
 *發表於 2004-09-21 12:28:17*
 
@@ -38350,7 +38350,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理
 
 *發表於 2004-03-09 01:12:23*
 
@@ -38371,7 +38371,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 無間道...目前看過最爆笑的
 
 *發表於 2004-03-09 23:02:47*
 
@@ -38404,7 +38404,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：身心健康與靈異觀察（3）
 
 *發表於 2005-01-05 23:20:20*
 
@@ -38645,7 +38645,7 @@ Subject: Fw: 晚上開車遇到臨檢的時後要小心，說不定是假臨檢�
 
 ---
 
-### 文集/靈學探微
+### 有趣ㄉ記憶測驗~~可試做看看~~有點難ㄋㄟ^^＂
 
 *發表於 2005-01-05 23:26:41*
 
@@ -38658,7 +38658,7 @@ http://games.lynms.edu.hk/games/feelingheart/game/F14.swf
 
 ---
 
-### 文集/靈學探微
+### 可笑1：行動電話會接收到病毒訊息---
 
 *發表於 2005-01-05 23:31:15*
 
@@ -38691,7 +38691,7 @@ Ans：據醫生說…那要一次要好幾公斤的蝦跟好幾公斤的檸檬�
 
 ---
 
-### 文集/靈學探微
+### 荷蘭人口是台灣的 3／4, 土地面積是台灣的 5／4,國民所得大約是台灣兩倍
 
 *發表於 2004-02-21 18:22:48*
 
@@ -38773,7 +38773,7 @@ Ans：據醫生說…那要一次要好幾公斤的蝦跟好幾公斤的檸檬�
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（2）
 
 *發表於 2004-03-09 23:33:22*
 
@@ -38786,7 +38786,7 @@ Ans：據醫生說…那要一次要好幾公斤的蝦跟好幾公斤的檸檬�
 
 ---
 
-### 文集/靈學探微
+### 很重要喔!不要以為有刷卡買機票就不用再買個人旅遊平安險了!
 
 *發表於 2005-03-29 19:48:34*
 
@@ -38810,7 +38810,7 @@ Ans：據醫生說…那要一次要好幾公斤的蝦跟好幾公斤的檸檬�
 
 ---
 
-### 文集/靈學探微
+### 如果你收到
 
 *發表於 2005-03-29 19:50:23*
 
@@ -38880,7 +38880,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 請千萬不要使用！
 
 *發表於 2005-03-29 19:59:35*
 
@@ -38923,7 +38923,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 她與男友相約＂中友百貨公司＂購物，倆人的均將自己的車子停放於百貨公司地下停車
 
 *發表於 2005-07-24 23:18:49*
 
@@ -38974,7 +38974,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：命運、選擇與改變（2）
 
 *發表於 2009-09-09 23:01:23*
 
@@ -39003,7 +39003,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 那個收禮金的歐巴尚就是莉蓁啦，他女兒都比妳大了
 
 *發表於 2009-09-15 20:56:44*
 
@@ -39018,7 +39018,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 你要叫莉蓁媽媽，我當然贊成哈啊哈哈哈
 
 *發表於 2009-09-16 19:08:01*
 
@@ -39026,7 +39026,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 得罪你？那是客套話啦。他們都是壞人所以才會這樣講
 
 *發表於 2009-11-09 20:22:51*
 
@@ -39036,7 +39036,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 這個要請建凱或是小媛幫你分析了
 
 *發表於 2009-11-11 21:15:17*
 
@@ -39047,7 +39047,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 他會頭皮發麻，從此不趕在亂貼文章了
 
 *發表於 2010-01-10 23:17:59*
 
@@ -39056,7 +39056,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 便利商店也降阿，現在外面的陷阱還真多 ─_─”
 
 *發表於 2004-02-21 18:27:54*
 
@@ -39221,7 +39221,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（9）
 
 *發表於 2011-03-05 00:53:33*
 
@@ -39240,7 +39240,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 我現在是能休息就盡量休息，有時候下班到家就關手機先睡一下
 
 *發表於 2011-03-05 20:45:30*
 
@@ -39258,7 +39258,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 這個自律神經檢測，我有超過十幾個ㄟ，沒仔細計算搞不好超過一半
 
 *發表於 2011-03-08 23:48:58*
 
@@ -39269,7 +39269,7 @@ Internet上蔓延,我們必需想辦法阻止它的盛行,但因為目前還沒�
 
 ---
 
-### 文集/靈學探微
+### 超好笑的新聞，因為是敏感話題所以只貼網址就好
 
 *發表於 2011-03-14 17:59:27*
 
@@ -39278,7 +39278,7 @@ http://tw.news.yahoo.com/article/url/d/a/110314/2/2o01w.html
 
 ---
 
-### 文集/靈學探微
+### 遺憾喔，不知道ㄟ
 
 *發表於 2011-03-15 23:45:47*
 
@@ -39294,7 +39294,7 @@ http://tw.news.yahoo.com/article/url/d/a/110314/2/2o01w.html
 
 ---
 
-### 文集/靈學探微
+### 我忙完了生日也過了   哈哈哈哈
 
 *發表於 2011-04-10 22:58:02*
 
@@ -39302,7 +39302,7 @@ http://tw.news.yahoo.com/article/url/d/a/110314/2/2o01w.html
 
 ---
 
-### 文集/靈學探微
+### 榛卑鄙，竟然真的掛網一小時上來留言
 
 *發表於 2011-05-06 19:23:53*
 
@@ -39311,7 +39311,7 @@ http://tw.news.yahoo.com/article/url/d/a/110314/2/2o01w.html
 
 ---
 
-### 文集/靈學探微
+### 你家裡有網路喔，上班看的還不夠，下班還看
 
 *發表於 2011-05-06 21:08:59*
 
@@ -39326,7 +39326,7 @@ http://tw.news.yahoo.com/article/url/d/a/110314/2/2o01w.html
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（10）
 
 *發表於 2011-05-07 19:29:08*
 
@@ -39340,7 +39340,7 @@ http://tw.news.yahoo.com/article/url/d/a/110314/2/2o01w.html
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（11）
 
 *發表於 2011-07-14 22:56:00*
 
@@ -39350,7 +39350,7 @@ http://tw.news.yahoo.com/article/url/d/a/110314/2/2o01w.html
 
 ---
 
-### 文集/靈學探微
+### 請別讓我安樂死！ 我想要一個溫暖而安全的家！~~ 請大家幫幫忙
 
 *發表於 2004-03-16 12:07:52*
 
@@ -39374,7 +39374,7 @@ http://www2.nsysu.edu.tw/Dogfamily/，並且四處宣傳轉貼。最近他們來
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（3）
 
 *發表於 2004-03-16 12:11:46*
 
@@ -39411,7 +39411,7 @@ http://www2.nsysu.edu.tw/Dogfamily/，並且四處宣傳轉貼。最近他們來
 
 ---
 
-### 文集/靈學探微
+### Dear my friends
 
 *發表於 2004-03-16 12:22:09*
 
@@ -39477,7 +39477,7 @@ Dear my friends...
 
 ---
 
-### 文集/靈學探微
+### 有騎車的必看~重要重要
 
 *發表於 2004-03-17 00:10:26*
 
@@ -39511,7 +39511,7 @@ Dear my friends...
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：靈異現象與處理（4）
 
 *發表於 2004-03-18 01:13:38*
 
@@ -39538,7 +39538,7 @@ http://www.net110.gov.tw/　刑事警察局
 
 ---
 
-### 文集/靈學探微
+### 主題：  貝殼的愛情~~
 
 *發表於 2004-03-18 10:37:42*
 
@@ -39576,7 +39576,7 @@ http://www.net110.gov.tw/　刑事警察局
 
 ---
 
-### 文集/靈學探微
+### 社會行走100訣(很有趣)
 
 *發表於 2004-02-22 02:38:04*
 
@@ -39688,7 +39688,7 @@ http://www.net110.gov.tw/　刑事警察局
 
 ---
 
-### 文集/靈學探微
+### 電話費又降價了~要記得去改-93新版
 
 *發表於 2004-03-24 19:46:08*
 
@@ -39778,7 +39778,7 @@ C  75  315  265  95  365  315
 
 ---
 
-### 文集/靈學探微
+### 十種電腦密技
 
 *發表於 2004-02-26 00:01:47*
 
@@ -39857,7 +39857,7 @@ C  75  315  265  95  365  315
 
 ---
 
-### 文集/靈學探微
+### 這是真的嗎 ？
 
 *發表於 2004-04-02 20:14:36*
 
@@ -40024,7 +40024,7 @@ C  75  315  265  95  365  315
 
 ---
 
-### 文集/靈學探微
+### 找回遺失手機的方法這是真的
 
 *發表於 2004-04-08 01:16:34*
 
@@ -40048,7 +40048,7 @@ C  75  315  265  95  365  315
 
 ---
 
-### 文集/靈學探微
+### 這樣好像有點小可怕奈~~大家回家看看囉
 
 *發表於 2004-04-20 20:49:14*
 
@@ -40075,7 +40075,7 @@ C  75  315  265  95  365  315
 
 ---
 
-### 文集/靈學探微
+### 被詐騙者的親身經歷
 
 *發表於 2004-04-24 10:38:47*
 
@@ -40167,7 +40167,7 @@ C  75  315  265  95  365  315
 
 ---
 
-### 文集/靈學探微
+### 大陸的水果不要買
 
 *發表於 2004-04-24 10:41:37*
 
@@ -40191,7 +40191,7 @@ C  75  315  265  95  365  315
 
 ---
 
-### 文集/靈學探微
+### 免費網路電話
 
 *發表於 2004-05-07 18:55:38*
 
@@ -40208,7 +40208,7 @@ http://www.goodcity.com.tw/go/tel
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：命運、選擇與改變
 
 *發表於 2004-02-27 20:59:35*
 
@@ -40263,7 +40263,7 @@ http://www.goodcity.com.tw/go/tel
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：身心健康與靈異觀察
 
 *發表於 2004-05-07 23:58:30*
 
@@ -40294,7 +40294,7 @@ http://www.goodcity.com.tw/go/tel
 
 ---
 
-### 文集/靈學探微
+### 發現1400年前北朝的千年之戀
 
 *發表於 2004-05-16 01:40:00*
 
@@ -40328,7 +40328,7 @@ nefertiti
 
 ---
 
-### 文集/靈學探微
+### 銀行界人士請大家轉寄本信函
 
 *發表於 2004-05-16 01:43:08*
 
@@ -40353,7 +40353,7 @@ nefertiti
 
 ---
 
-### 文集/靈學探微
+### 很好玩唷！  ^_^
 
 *發表於 2004-05-16 11:01:58*
 
@@ -40387,7 +40387,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=418&pid=22927
 
 ---
 
-### 文集/靈學探微
+### 這年頭騙子多，騙術一變再變，千萬要有 警覺心！！
 
 *發表於 2004-05-16 11:50:20*
 
@@ -40457,7 +40457,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=418&pid=22927
 
 ---
 
-### 文集/靈學探微
+### 夏天到了非常重要的一件事
 
 *發表於 2004-05-27 19:09:02*
 
@@ -40496,7 +40496,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=418&pid=22927
 
 ---
 
-### 文集/靈學探微
+### 即興留言區：身心健康與靈異觀察（2）
 
 *發表於 2004-06-08 21:40:44*
 
@@ -40557,7 +40557,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=418&pid=22927
 
 ---
 
-### 文集/靈學探微
+### 在兩個月我就正式的成為35歲的熟男了
 
 *發表於 2004-06-08 21:49:12*
 
@@ -40664,7 +40664,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=418&pid=22927
 
 ---
 
-### 文集/靈學探微
+### Subject： Fw： 吳宗憲和陳文茜的對話，非常犀利--haha
 
 *發表於 2004-06-08 21:58:12*
 
@@ -40696,7 +40696,7 @@ Subject: Fw: 吳宗憲和陳文茜的對話，非常犀利--haha
 
 ---
 
-### 文集/靈學探微
+### 「謊言愈大，愈有人相信」，台灣的政治也正上演一齣精彩的羅生門
 
 *發表於 2004-06-10 23:10:29*
 
@@ -40716,7 +40716,7 @@ Subject: Fw: 吳宗憲和陳文茜的對話，非常犀利--haha
 
 ---
 
-### 文集/靈學探微
+### 愛的開始是種感覺．．．
 
 *發表於 2004-06-10 23:11:30*
 
@@ -40821,7 +40821,7 @@ Subject: Fw: 吳宗憲和陳文茜的對話，非常犀利--haha
 
 ---
 
-### 文集/靈學探微
+### 提醒您使用行動電話時請注意關心您
 
 *發表於 2004-06-21 00:31:45*
 
@@ -40846,7 +40846,7 @@ Dear all :
 
 ---
 
-### 文集/靈學探微
+### 常給自己太多壓力的女人應該看看~
 
 *發表於 2004-06-21 00:33:35*
 
@@ -40890,7 +40890,7 @@ Dear all :
 
 ---
 
-### 文集/靈學探微
+### 選擇屬於自己的適婚年齡　　　　　 －吳若權－
 
 *發表於 2004-06-21 00:34:20*
 
@@ -40987,7 +40987,7 @@ Dear all :
 
 ---
 
-### 文集/靈學探微
+### 我們的十元商品是中國的醫療用具回收製作的
 
 *發表於 2004-06-21 00:39:14*
 
@@ -41000,7 +41000,7 @@ Dear all :
 
 ---
 
-### 文集/靈學探微
+### 女士們要注意了~~新型春藥聞到就完了!
 
 *發表於 2004-06-21 00:41:46*
 
@@ -41022,7 +41022,7 @@ FM2燕窩後，比燕窩更恐佈的強姦藥丸-肉圓。
 
 ---
 
-### 文集/靈學探微
+### 國王的祕密...要看..看過的都說棒
 
 *發表於 2004-07-09 22:31:11*
 
@@ -41158,7 +41158,7 @@ FM2燕窩後，比燕窩更恐佈的強姦藥丸-肉圓。
 
 ---
 
-### 文集/靈學探微
+### 手機撥打112 救命專線
 
 *發表於 2004-07-09 22:32:58*
 
@@ -41170,7 +41170,7 @@ FM2燕窩後，比燕窩更恐佈的強姦藥丸-肉圓。
 
 ---
 
-### 文集/靈學探微
+### 皮膚科醫生建議少用的洗髮精~
 
 *發表於 2004-07-09 22:46:28*
 
@@ -41245,7 +41245,7 @@ FM2燕窩後，比燕窩更恐佈的強姦藥丸-肉圓。
 
 ---
 
-### 文集/靈學探微
+### 為何要背負人生的十字架？-不錯的動畫呦
 
 *發表於 2004-07-09 23:30:23*
 
@@ -41292,7 +41292,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=418&pid=22951
 
 ---
 
-### 文集/靈學探微
+### 微軟發佈 IIS 緊急重大安全公告
 
 *發表於 2004-07-09 23:33:00*
 
@@ -41312,7 +41312,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 有發現就好，繼續努力ㄅ
 
 *發表於 2009-02-10 00:00:40*
 
@@ -41320,7 +41320,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈魂現象與觀念
 
 *發表於 2009-03-03 00:28:38*
 
@@ -41330,7 +41330,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 我沒有裝不知道
 
 *發表於 2009-03-04 20:20:30*
 
@@ -41343,7 +41343,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 會很難嗎？今天都3篇ㄌㄟ
 
 *發表於 2009-03-16 00:32:42*
 
@@ -41354,7 +41354,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 訓練讓人茁壯，何況是你有練過，當然更沒問題啊
 
 *發表於 2009-03-16 22:01:07*
 
@@ -41365,7 +41365,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（34）
 
 *發表於 2009-03-18 01:20:02*
 
@@ -41379,7 +41379,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（35）
 
 *發表於 2009-03-18 13:07:58*
 
@@ -41394,7 +41394,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 你知道什麼事轉念嗎？
 
 *發表於 2009-03-21 11:41:59*
 
@@ -41417,7 +41417,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 或許我只認為把握機會提醒你那種感覺，所以不覺得有什麼好感動
 
 *發表於 2009-03-21 22:13:10*
 
@@ -41428,7 +41428,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（36）
 
 *發表於 2009-03-24 23:24:20*
 
@@ -41441,7 +41441,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 哇沒有搞軌，挖眸棒爪嘎郎
 
 *發表於 2009-03-25 01:11:39*
 
@@ -41450,7 +41450,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 那我也應該去鑑定一下，我應該也是重度病患
 
 *發表於 2009-04-01 21:33:49*
 
@@ -41463,7 +41463,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 你看錯太極了，他可沒有黑白分明啊
 
 *發表於 2009-04-05 21:38:44*
 
@@ -41473,7 +41473,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 對我來說
 
 *發表於 2009-04-06 21:48:21*
 
@@ -41485,7 +41485,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 你沒看過有人在路上走很快，嘴裡還碎碎念的嗎？
 
 *發表於 2009-04-08 12:14:56*
 
@@ -41503,7 +41503,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 我比較歹運所以我看過，這樣你爽了ㄅ
 
 *發表於 2009-04-08 17:40:33*
 
@@ -41511,7 +41511,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 很多事情...跳脫圈外再來看自己，可以看清很多事情
 
 *發表於 2009-04-10 01:01:36*
 
@@ -41522,7 +41522,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（37）
 
 *發表於 2009-04-10 22:21:00*
 
@@ -41530,7 +41530,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 你想想無盡慈悲的人該做哪一些事情？
 
 *發表於 2009-05-12 00:00:25*
 
@@ -41539,7 +41539,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 你還可以上來哈啦看來精神不錯
 
 *發表於 2009-05-12 23:28:18*
 
@@ -41547,7 +41547,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 尿酸結石還可以結很多真是很不簡單
 
 *發表於 2009-05-13 23:30:11*
 
@@ -41565,7 +41565,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 我看了都沒感覺ㄟ，看來我是正常人沒錯
 
 *發表於 2009-05-19 22:55:26*
 
@@ -41578,7 +41578,7 @@ CNET新聞簡訊　　25/06/2004
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（38）
 
 *發表於 2009-07-10 00:52:15*
 
@@ -41596,7 +41596,7 @@ Melody   恭喜你事情就快解決了。恭喜
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（39）
 
 *發表於 2009-07-11 00:54:57*
 
@@ -41613,7 +41613,7 @@ Melody   恭喜你事情就快解決了。恭喜
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（40）
 
 *發表於 2009-07-12 20:42:16*
 
@@ -41623,7 +41623,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 結果與我預見的差不多，去年我電話中不是說本票能夠拿回來就算是你贏了
 
 *發表於 2009-07-30 21:05:55*
 
@@ -41633,7 +41633,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 雖然日子會比較難過，至少還是能過就好了
 
 *發表於 2009-07-31 18:24:00*
 
@@ -41642,7 +41642,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：家庭互動與人生體會（6）
 
 *發表於 2009-10-26 22:26:08*
 
@@ -41650,7 +41650,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 骨灰灑海裡，聽說靈魂就容易被禁錮在海裡ㄟ，就像淹死鬼一樣
 
 *發表於 2009-11-17 22:55:55*
 
@@ -41659,7 +41659,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 當然就像人一樣，樹靈是會有好的沒錯
 
 *發表於 2009-11-19 18:18:10*
 
@@ -41670,7 +41670,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：通靈經驗與辨別（2）
 
 *發表於 2009-11-23 21:23:25*
 
@@ -41682,7 +41682,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 其實萬物自己本就生生不息，就算是氣也是如此
 
 *發表於 2009-11-25 00:45:05*
 
@@ -41697,7 +41697,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 這一部份因人因時而異我沒無法回答你
 
 *發表於 2009-11-25 23:21:00*
 
@@ -41705,7 +41705,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（2）
 
 *發表於 2005-09-15 01:16:54*
 
@@ -41715,7 +41715,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 不管怎麼說，我會建議沒聽沒看沒感覺
 
 *發表於 2010-05-31 22:44:11*
 
@@ -41726,7 +41726,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 這個還真的有一點難，因為不知道怎樣控制自己的潛意識
 
 *發表於 2010-06-03 23:15:32*
 
@@ -41736,7 +41736,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：宗教信仰與正信
 
 *發表於 2010-10-23 00:23:16*
 
@@ -41758,7 +41758,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 我是覺得兩個都有問題
 
 *發表於 2011-01-03 00:03:49*
 
@@ -41777,7 +41777,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 有更冷嗎？我今天就少穿一件ㄟ
 
 *發表於 2011-02-03 02:45:46*
 
@@ -41786,7 +41786,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 當全世界的人都變了，只要自己不變就好了
 
 *發表於 2011-03-14 02:40:02*
 
@@ -41799,7 +41799,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 很多知識是拿來實踐，而不是拿來當知識的
 
 *發表於 2011-03-14 23:12:46*
 
@@ -41814,7 +41814,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 個人的因果業報個人了
 
 *發表於 2011-03-15 22:13:42*
 
@@ -41826,7 +41826,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 上次我們是在哪一篇說到核災對環境污染嚴重等等問題
 
 *發表於 2011-05-06 19:31:01*
 
@@ -41840,7 +41840,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 這個問題你拜託有跟地基主打過交道的人回答你好了
 
 *發表於 2011-06-08 23:51:16*
 
@@ -41848,7 +41848,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 別以為你沒說出口，人家就不知道，問題是地基主不是人，所以你的想法他心知肚明
 
 *發表於 2011-06-09 23:10:35*
 
@@ -41882,7 +41882,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈魂現象與觀念（2）
 
 *發表於 2011-06-10 23:26:58*
 
@@ -41918,7 +41918,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 那一黑一紅是現在我租房子的住家地基主
 
 *發表於 2011-06-12 19:01:44*
 
@@ -41942,7 +41942,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（41）
 
 *發表於 2011-06-13 23:34:31*
 
@@ -41954,7 +41954,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：宗教信仰與正信（2）
 
 *發表於 2011-07-14 21:50:23*
 
@@ -41964,7 +41964,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 什麼時候該裝死？什麼時候該反擊？什麼時候該溝通？
 
 *發表於 2006-05-20 23:36:42*
 
@@ -41979,7 +41979,7 @@ Melody 九九乘法表只要背一半就好了，我記得小時候的墊板後�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：修行、心性與反省
 
 *發表於 2005-04-09 21:16:40*
 
@@ -42005,7 +42005,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=18560
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（3）
 
 *發表於 2006-06-09 23:57:18*
 
@@ -42016,7 +42016,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=18560
 
 ---
 
-### 文集/靈學探微
+### 買房子該怎麼避免自己的誤判？
 
 *發表於 2006-07-22 00:37:20*
 
@@ -42025,7 +42025,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=18560
 
 ---
 
-### 文集/靈學探微
+### 人的修行標準要訂在哪裡？
 
 *發表於 2006-07-31 00:28:05*
 
@@ -42040,7 +42040,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=18560
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：身心健康與靈異觀察
 
 *發表於 2005-04-18 23:58:56*
 
@@ -42067,7 +42067,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=18560
 
 ---
 
-### 文集/靈學探微
+### Melody 妳要我刪除的文章應該已經刪除了吧
 
 *發表於 2006-11-25 00:46:44*
 
@@ -42078,7 +42078,7 @@ Melody 妳要我刪除的文章應該已經刪除了吧。
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（4）
 
 *發表於 2007-02-14 00:23:51*
 
@@ -42092,7 +42092,7 @@ JJ 是什麼意思阿?? !!
 
 ---
 
-### 文集/靈學探微
+### 古人言：生於憂患 死於安樂
 
 *發表於 2007-03-08 00:19:32*
 
@@ -42100,7 +42100,7 @@ JJ 是什麼意思阿?? !!
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（5）
 
 *發表於 2007-06-21 20:19:49*
 
@@ -42111,7 +42111,7 @@ JJ 是什麼意思阿?? !!
 
 ---
 
-### 文集/靈學探微
+### 一袋400元是幾公克？那應該是伊力安的吧
 
 *發表於 2007-06-22 00:42:12*
 
@@ -42127,7 +42127,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 沉香木 目前價格一斤從幾千塊到一百多萬，落差非常大
 
 *發表於 2007-06-22 23:06:50*
 
@@ -42141,7 +42141,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：磁場、能量與影響
 
 *發表於 2007-06-23 23:02:12*
 
@@ -42150,7 +42150,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（6）
 
 *發表於 2007-06-25 21:38:50*
 
@@ -42162,7 +42162,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（7）
 
 *發表於 2007-06-26 23:39:08*
 
@@ -42174,7 +42174,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 我所謂：不要面子的心
 
 *發表於 2007-07-30 01:37:11*
 
@@ -42188,7 +42188,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（8）
 
 *發表於 2007-08-04 23:57:48*
 
@@ -42198,7 +42198,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（9）
 
 *發表於 2007-08-18 09:19:18*
 
@@ -42206,7 +42206,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 真實無虛是還好，只是將自己生活心得用比較親亦的方式作表達
 
 *發表於 2007-08-21 00:05:59*
 
@@ -42220,7 +42220,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：家庭互動與人生體會
 
 *發表於 2007-08-30 23:26:46*
 
@@ -42235,7 +42235,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：家庭互動與人生體會（2）
 
 *發表於 2007-09-07 22:35:03*
 
@@ -42259,7 +42259,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（10）
 
 *發表於 2007-09-11 21:06:05*
 
@@ -42270,7 +42270,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（11）
 
 *發表於 2007-09-27 01:17:54*
 
@@ -42280,7 +42280,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 太好了，永慶店長在法庭上說他跟屋主沒關係是不是？
 
 *發表於 2007-09-27 23:40:19*
 
@@ -42297,7 +42297,7 @@ http://tw.myblog.yahoo.com/jw!_.rvereZSEEvOxm.liOA.Q--
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：家庭互動與人生體會（3）
 
 *發表於 2007-10-01 00:16:53*
 
@@ -42324,7 +42324,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（12）
 
 *發表於 2007-10-01 00:31:43*
 
@@ -42334,7 +42334,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（13）
 
 *發表於 2007-10-02 01:19:59*
 
@@ -42363,7 +42363,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（14）
 
 *發表於 2007-10-03 00:41:09*
 
@@ -42382,7 +42382,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（15）
 
 *發表於 2007-10-05 23:30:55*
 
@@ -42400,7 +42400,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 時間不夠講重點
 
 *發表於 2007-10-08 00:05:45*
 
@@ -42435,7 +42435,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：家庭互動與人生體會（4）
 
 *發表於 2007-10-08 13:03:38*
 
@@ -42520,7 +42520,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 我花了20分鐘才大略重新編排好信件，不然還真的看不下去一堆黑字擠在一起
 
 *發表於 2007-10-08 13:15:54*
 
@@ -42534,7 +42534,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 我還以為我貼錯地方，怎會是你在這裡問我這個問題
 
 *發表於 2007-10-08 15:57:31*
 
@@ -42545,7 +42545,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 打官司有贏才有面子，如果輸了連裡子都沒了，還能有什麼面子？
 
 *發表於 2007-10-10 01:38:01*
 
@@ -42588,7 +42588,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（16）
 
 *發表於 2007-10-12 22:30:26*
 
@@ -42599,7 +42599,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：輪迴、前世與因果
 
 *發表於 2007-10-14 22:37:39*
 
@@ -42616,7 +42616,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=413&pid=19061
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：通靈經驗與辨別
 
 *發表於 2007-10-14 23:59:36*
 
@@ -42633,7 +42633,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 看完你的留言，我覺得我是否要更正一下
 
 *發表於 2007-10-15 00:14:00*
 
@@ -42648,7 +42648,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：修行、心性與反省（2）
 
 *發表於 2007-10-19 00:28:33*
 
@@ -42679,7 +42679,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（17）
 
 *發表於 2007-10-22 00:31:43*
 
@@ -42690,7 +42690,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（18）
 
 *發表於 2007-10-23 00:05:46*
 
@@ -42698,7 +42698,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 很多靈界事，沒有親身經歷的人還是無法想像
 
 *發表於 2005-05-24 22:51:08*
 
@@ -42708,7 +42708,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 很多人都是如此，一開始都很清修，但是漸漸的少到眾人的讚賞與期望之後
 
 *發表於 2005-05-24 23:21:34*
 
@@ -42726,7 +42726,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：附身現象與處理
 
 *發表於 2007-11-10 22:07:32*
 
@@ -42745,7 +42745,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：家庭互動與人生體會（5）
 
 *發表於 2007-11-11 20:34:47*
 
@@ -42765,7 +42765,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 針對這一件事情我好久沒講話了，看你寫了這麼多，如果是寫給我們看的那是還好
 
 *發表於 2007-12-03 01:04:30*
 
@@ -42790,7 +42790,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 可是我不太模擬的出對方下次會怎麼反控我
 
 *發表於 2007-12-04 02:11:56*
 
@@ -42826,7 +42826,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 其實美樂蒂一直都很正常，他只是氣與急所以亂了方寸
 
 *發表於 2007-12-05 01:19:46*
 
@@ -42845,7 +42845,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 你已經有進步了，慢慢有抓到重點。但是還不夠因為你的話還不夠精簡，加油
 
 *發表於 2007-12-25 23:51:40*
 
@@ -42853,7 +42853,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 那現在等於鑑定結果房子是沒漏水了，你怎麼辦？
 
 *發表於 2008-05-10 00:04:29*
 
@@ -42861,7 +42861,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 看來你腦筋總算清醒了，如果一開始就這麼清醒就好了
 
 *發表於 2008-05-11 02:41:23*
 
@@ -42878,7 +42878,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：輪迴、前世與因果（2）
 
 *發表於 2008-05-15 01:54:49*
 
@@ -42890,7 +42890,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 我已經暫時開放會員自己編輯留言的功能，大家可以整理自己的留言了
 
 *發表於 2008-05-18 02:40:26*
 
@@ -42899,7 +42899,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 抱歉  我好像沒有設定成功
 
 *發表於 2008-05-18 23:53:49*
 
@@ -42908,7 +42908,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 測試到現在還是沒成功
 
 *發表於 2008-06-04 23:51:23*
 
@@ -42916,7 +42916,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 我的心中沒有疑惑
 
 *發表於 2008-06-20 20:30:07*
 
@@ -42925,7 +42925,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理
 
 *發表於 2005-05-25 22:34:11*
 
@@ -42939,7 +42939,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（19）
 
 *發表於 2008-07-11 21:43:25*
 
@@ -42949,7 +42949,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 聽說你不只活著還去補財庫喔，補著補著還碰到一堆熟人
 
 *發表於 2008-07-14 01:02:35*
 
@@ -42963,7 +42963,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：人性觀察與處世反省
 
 *發表於 2008-07-14 22:32:10*
 
@@ -42984,7 +42984,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（20）
 
 *發表於 2008-07-15 22:54:14*
 
@@ -43006,7 +43006,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 我昨天聽到一個笑話
 
 *發表於 2008-07-17 23:31:32*
 
@@ -43018,7 +43018,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：因果業力與選擇
 
 *發表於 2008-07-20 19:57:53*
 
@@ -43040,7 +43040,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 天書等於是一個智慧電腦，妳要跟它起共鳴讓它認同你，自然會浮現答案
 
 *發表於 2008-07-21 23:44:53*
 
@@ -43050,7 +43050,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 我今天不用吹冷氣了，好冷
 
 *發表於 2008-07-24 21:55:15*
 
@@ -43058,7 +43058,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（21）
 
 *發表於 2008-08-21 21:23:19*
 
@@ -43066,7 +43066,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（22）
 
 *發表於 2008-08-23 01:31:50*
 
@@ -43074,7 +43074,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 你還潛水喔，算一算你從20出頭潛到快30了ㄟ，在潛下去都當爸爸了。 哈哈哈阿
 
 *發表於 2008-08-23 21:30:35*
 
@@ -43082,7 +43082,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 現在記憶力沒以前好了，沒辦法過目不忘，只是用殘存記憶與邏輯推論
 
 *發表於 2008-08-25 00:08:57*
 
@@ -43094,7 +43094,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（23）
 
 *發表於 2008-08-27 21:03:15*
 
@@ -43108,7 +43108,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（24）
 
 *發表於 2008-09-16 23:52:53*
 
@@ -43121,7 +43121,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 說話的藝術不知道你聽過沒有，台語也有一句老話，講話要有藝術
 
 *發表於 2008-09-19 23:22:14*
 
@@ -43151,7 +43151,7 @@ Melody 對於逆境，要如何度過？就看自己的心態了快樂是一天 
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（25）
 
 *發表於 2008-09-22 00:30:07*
 
@@ -43163,7 +43163,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（26）
 
 *發表於 2008-09-22 22:04:13*
 
@@ -43187,7 +43187,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 我不是剛過20歲生日？我76年次剛好有讀到三民主義
 
 *發表於 2008-09-22 22:54:58*
 
@@ -43197,7 +43197,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 後來每當有空可以上網回文時
 
 *發表於 2008-09-23 21:56:39*
 
@@ -43208,7 +43208,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（27）
 
 *發表於 2008-09-24 22:16:11*
 
@@ -43216,7 +43216,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 光是法官主觀認定說：這不是漏水是濕氣重
 
 *發表於 2008-09-25 20:52:58*
 
@@ -43228,7 +43228,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 你那個怕死多想的寶貝老公這下子要絕食了   哈哈哈哈阿
 
 *發表於 2008-09-28 00:54:46*
 
@@ -43240,7 +43240,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 聽起來這台麵包機還真的蠻好用的，價格應該也很貴吧
 
 *發表於 2008-10-01 00:44:18*
 
@@ -43248,7 +43248,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（28）
 
 *發表於 2008-10-02 00:02:40*
 
@@ -43256,7 +43256,7 @@ Melody 就是那個當事者，他講他自己認為是重點的話，但是旁�
 
 ---
 
-### 文集/靈學探微
+### 我哪有寬宏大量，我只是做自己能做到的事情罷了
 
 *發表於 2008-10-02 23:30:24*
 
@@ -43266,7 +43266,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：身心健康與靈異觀察（2）
 
 *發表於 2008-10-04 22:50:50*
 
@@ -43274,7 +43274,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 幹了什麼好事？大概上輩子麵包吃的不夠多，所以這輩子多吃一些
 
 *發表於 2008-10-06 23:29:42*
 
@@ -43282,7 +43282,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 那不起訴就等於你敗訴了
 
 *發表於 2008-11-11 00:07:37*
 
@@ -43291,7 +43291,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（29）
 
 *發表於 2008-11-14 01:35:29*
 
@@ -43302,7 +43302,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（30）
 
 *發表於 2008-11-14 23:47:52*
 
@@ -43314,7 +43314,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 那我 日月坐命 豈不陰晴不定ㄏ啊哈哈ㄏ哈哈
 
 *發表於 2008-11-17 03:29:28*
 
@@ -43322,7 +43322,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：命運、選擇與改變
 
 *發表於 2008-11-18 23:55:53*
 
@@ -43331,7 +43331,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 對於夫妻之間我不會講，因為很複雜。什麼都可以牽扯
 
 *發表於 2008-11-20 02:35:19*
 
@@ -43358,7 +43358,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（31）
 
 *發表於 2008-12-19 21:13:21*
 
@@ -43372,7 +43372,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 我是一個自我要求很高的人，因為怕自己教不好小孩子，所以決定不想生小孩
 
 *發表於 2009-01-03 00:32:03*
 
@@ -43404,7 +43404,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 有時候教小孩子真的很無奈，好說歹說打罵什麼都來了，就是無效
 
 *發表於 2009-01-04 01:43:57*
 
@@ -43416,7 +43416,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（32）
 
 *發表於 2009-01-05 03:48:31*
 
@@ -43425,7 +43425,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 意思是你沒有死好了   ㄏ啊哈哈哈ㄏ
 
 *發表於 2009-01-05 15:34:30*
 
@@ -43433,7 +43433,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 心中的疑惑？：靈異現象與處理（33）
 
 *發表於 2009-01-07 00:12:00*
 
@@ -43441,7 +43441,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（2）
 
 *發表於 2007-09-11 23:43:50*
 
@@ -43460,7 +43460,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 靈學有沒有軌跡？
 
 *發表於 2006-09-21 11:39:37*
 
@@ -43476,7 +43476,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：附身現象與處理
 
 *發表於 2007-10-23 00:01:43*
 
@@ -43489,7 +43489,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（3）
 
 *發表於 2007-10-25 23:56:21*
 
@@ -43500,7 +43500,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（4）
 
 *發表於 2008-03-24 23:46:22*
 
@@ -43533,7 +43533,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：人性觀察與處世反省
 
 *發表於 2006-10-04 00:38:59*
 
@@ -43556,7 +43556,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 你說的這個情形，只要自己沒發瘋與失去正常理智的情況下，那都是正常情況
 
 *發表於 2006-10-04 00:44:51*
 
@@ -43567,7 +43567,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（5）
 
 *發表於 2008-03-28 02:07:56*
 
@@ -43578,7 +43578,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### 小叉叉的近況喔，你就想像三分不像人七分不像鬼，那就是他了
 
 *發表於 2006-10-05 00:50:14*
 
@@ -43592,7 +43592,7 @@ nirmala我現在工程大約要忙到25號吧，不過下星期應該就可以�
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（6）
 
 *發表於 2008-06-10 20:14:26*
 
@@ -43617,7 +43617,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15545
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（7）
 
 *發表於 2008-06-19 18:22:02*
 
@@ -43632,7 +43632,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15545
 
 ---
 
-### 文集/靈學探微
+### 被你發現了
 
 *發表於 2010-03-09 14:12:08*
 
@@ -43640,7 +43640,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15545
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：宗教信仰與正信
 
 *發表於 2010-03-10 00:21:59*
 
@@ -43665,7 +43665,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15545
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：修行、心性與反省
 
 *發表於 2010-03-10 23:59:32*
 
@@ -43693,7 +43693,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15545
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：輪迴、前世與因果
 
 *發表於 2010-03-11 00:23:26*
 
@@ -43714,7 +43714,7 @@ A害,當我想通時,我就什麼都不想講了A...因為沒什麼好講了,真
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（8）
 
 *發表於 2010-03-11 02:46:00*
 
@@ -43726,7 +43726,7 @@ A害,當我想通時,我就什麼都不想講了A...因為沒什麼好講了,真
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理（9）
 
 *發表於 2010-03-18 22:56:41*
 
@@ -43769,7 +43769,7 @@ A害,當我想通時,我就什麼都不想講了A...因為沒什麼好講了,真
 
 ---
 
-### 文集/靈學探微
+### 會有感受已經不錯了，多數人是不放在心上
 
 *發表於 2010-05-31 22:02:38*
 
@@ -43781,7 +43781,7 @@ A害,當我想通時,我就什麼都不想講了A...因為沒什麼好講了,真
 
 ---
 
-### 文集/靈學探微
+### 有啊，那是神豬一灌到，一灌就倒，你沒聽說過喔
 
 *發表於 2010-08-21 20:27:33*
 
@@ -43789,7 +43789,7 @@ A害,當我想通時,我就什麼都不想講了A...因為沒什麼好講了,真
 
 ---
 
-### 文集/靈學探微
+### 我記得很多年前我在舊版寫過，為何他們會這樣騙人入會？
 
 *發表於 2010-08-25 23:09:55*
 
@@ -43805,7 +43805,7 @@ A害,當我想通時,我就什麼都不想講了A...因為沒什麼好講了,真
 
 ---
 
-### 文集/靈學探微
+### 當初要去就應該全盤先考量好的，包含營業執照 人員培訓與開銷等等都要審慎評估
 
 *發表於 2010-08-31 00:11:59*
 
@@ -43832,7 +43832,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15638
 
 ---
 
-### 文集/靈學探微
+### 點無小............不然你是想怎樣
 
 *發表於 2010-09-05 22:58:08*
 
@@ -43840,7 +43840,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15638
 
 ---
 
-### 文集/靈學探微
+### 如果經驗證明寫出來不對，那完全不寫是否也不對？
 
 *發表於 2010-09-24 21:30:50*
 
@@ -43870,7 +43870,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=406&pid=15638
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：命運、選擇與改變
 
 *發表於 2010-09-25 21:09:09*
 
@@ -43901,7 +43901,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 一直以來我的進步都是為了他人而進步，從來沒有為了自己而進步
 
 *發表於 2010-09-27 22:15:31*
 
@@ -43921,7 +43921,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 你今天是無聊喔，這麼猴話
 
 *發表於 2010-10-26 22:51:36*
 
@@ -43932,7 +43932,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 我很少罵人，有什麼可怕啊？我只是以錢很少笑而已
 
 *發表於 2006-10-28 00:48:44*
 
@@ -43944,7 +43944,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：符咒現象與辨別
 
 *發表於 2011-06-06 03:24:15*
 
@@ -43995,7 +43995,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 當你在版面上說：等著幫你收屍的時候，我已經決定放棄了
 
 *發表於 2011-06-06 11:51:36*
 
@@ -44014,7 +44014,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 我是因為內容談到CMJ的家務事，所以配合他的威望值，你們也跟著設定
 
 *發表於 2011-06-06 23:13:02*
 
@@ -44048,7 +44048,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### 最近應該是在小女子那一個主題裡吧
 
 *發表於 2011-06-06 23:56:14*
 
@@ -44058,7 +44058,7 @@ Melody
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：身心健康與靈異觀察（2）
 
 *發表於 2011-06-07 11:43:53*
 
@@ -44101,7 +44101,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 這時候是否就可以印證，人生在逆境中才會想到要體悟，過的太安逸就什麼都忘記了
 
 *發表於 2011-06-16 22:50:46*
 
@@ -44109,7 +44109,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 所以多數的修行人都過得很辛苦，因為只有在苦難中才會長大
 
 *發表於 2011-06-16 23:27:16*
 
@@ -44117,7 +44117,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：靈異現象與處理
 
 *發表於 2006-12-25 03:37:04*
 
@@ -44131,7 +44131,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：身心健康與靈異觀察
 
 *發表於 2006-12-26 00:23:56*
 
@@ -44147,7 +44147,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### cmj心程寄語(限威望3)：人性觀察與處世反省（2）
 
 *發表於 2007-03-18 22:27:08*
 
@@ -44156,7 +44156,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 舊版網址連結處：靈異現象與處理
 
 *發表於 2006-06-21 23:05:50*
 
@@ -44164,7 +44164,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 我再找時間，先把他的問題回覆
 
 *發表於 2004-06-30 00:48:22*
 
@@ -44187,7 +44187,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 個人是很認同訊息中的看法
 
 *發表於 2004-11-09 23:38:13*
 
@@ -44207,7 +44207,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 我好像越講越遠了
 
 *發表於 2004-11-10 23:49:26*
 
@@ -44228,7 +44228,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 靈學與通靈：通靈經驗與辨別
 
 *發表於 2004-07-01 21:32:17*
 
@@ -44254,7 +44254,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 這一篇文章我看過，但是我懶得回應，因為一回應就會有辯論
 
 *發表於 2004-06-29 22:50:39*
 
@@ -44280,7 +44280,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 靈．靈駕．靈駕病：靈異現象與處理
 
 *發表於 2004-08-31 01:24:23*
 
@@ -44288,7 +44288,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 靈．靈駕．靈駕病：修行、心性與反省
 
 *發表於 2004-09-09 00:29:05*
 
@@ -44315,7 +44315,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 幸好你不是mike男生，不然我就不說話了
 
 *發表於 2004-06-06 20:22:38*
 
@@ -44329,7 +44329,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 什麼才是修？：修行、心性與反省
 
 *發表於 2004-07-29 23:28:21*
 
@@ -44352,7 +44352,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 什麼才是修？：修行、心性與反省（2）
 
 *發表於 2004-07-31 00:28:54*
 
@@ -44366,7 +44366,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 什麼才是修？：通靈經驗與辨別
 
 *發表於 2004-06-08 22:46:25*
 
@@ -44389,7 +44389,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 而且是哭到連眼淚都流不出來啦
 
 *發表於 2004-05-05 00:25:34*
 
@@ -44400,7 +44400,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 何以修行也會成為社會新亂源!？：靈魂現象與觀念
 
 *發表於 2004-05-06 19:02:57*
 
@@ -44422,7 +44422,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### ｢觀念少一點｣應該是較容易教化!!
 
 *發表於 2004-05-02 21:31:18*
 
@@ -44474,7 +44474,7 @@ OOXX........................死XX拜託你一個事情就這副屌樣。
 
 ---
 
-### 文集/靈學探微
+### 乩身？天命？現實？：乩身與起乩現象
 
 *發表於 2004-05-28 19:50:38*
 
@@ -44506,7 +44506,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=399&pid=15244
 
 ---
 
-### 文集/靈學探微
+### 不是我少來 我是暑假都再工作 要開學才有時間上來 我也常常來看阿
 
 *發表於 2004-05-28 19:53:32*
 
@@ -44532,7 +44532,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=399&pid=15244
 
 ---
 
-### 文集/靈學探微
+### 正確說法？什麼是正確說法？
 
 *發表於 2004-05-28 20:01:45*
 
@@ -44591,7 +44591,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=399&pid=15244
 
 ---
 
-### 文集/靈學探微
+### 給各位網友：身心健康與靈異觀察
 
 *發表於 2004-04-13 01:43:49*
 
@@ -44683,7 +44683,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=399&pid=15244
 
 ---
 
-### 文集/靈學探微
+### 我的意思是我已經是無法後悔的年齡了
 
 *發表於 2004-05-27 00:34:47*
 
@@ -44699,7 +44699,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=399&pid=15244
 
 ---
 
-### 文集/靈學探微
+### 給各位網友：靈異現象與處理
 
 *發表於 2004-05-14 01:39:50*
 
@@ -44717,7 +44717,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=402&pid=15264
 
 ---
 
-### 文集/靈學探微
+### 自然無為~~是說天生自然嗎？？？：修行、心性與反省
 
 *發表於 2004-04-05 01:59:35*
 
@@ -44752,7 +44752,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=402&pid=15264
 
 ---
 
-### 文集/靈學探微
+### 自然無為~~是說天生自然嗎？？？：靈異現象與處理（2）
 
 *發表於 2004-04-07 18:57:13*
 
@@ -44774,7 +44774,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=402&pid=15264
 
 ---
 
-### 文集/靈學探微
+### 我知道你正在線上
 
 *發表於 2004-04-08 01:30:58*
 
@@ -44788,7 +44788,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=402&pid=15264
 
 ---
 
-### 文集/靈學探微
+### 自然無為~~是說天生自然嗎？？？：靈異現象與處理
 
 *發表於 2004-04-05 01:33:31*
 
@@ -44798,7 +44798,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=402&pid=15264
 
 ---
 
-### 文集/靈學探微
+### 最近一直在忙碌ann的事情
 
 *發表於 2004-12-15 22:38:41*
 
@@ -44828,7 +44828,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15193
 
 ---
 
-### 文集/靈學探微
+### 因為我們與安的妹妹在連續熬夜與忙碌之後，所以接連兩天都沒時間去醫院探視
 
 *發表於 2004-12-18 01:52:09*
 
@@ -44866,7 +44866,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15193
 
 ---
 
-### 文集/靈學探微
+### 宿命：喪葬觀念與注意事項
 
 *發表於 2004-12-29 01:30:47*
 
@@ -44893,7 +44893,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15193
 
 ---
 
-### 文集/靈學探微
+### 宿命：靈異現象與處理
 
 *發表於 2005-01-02 22:16:06*
 
@@ -44907,7 +44907,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15193
 
 ---
 
-### 文集/靈學探微
+### 事情告一段落了，我也該重新把這一篇故事說完
 
 *發表於 2005-01-02 22:51:45*
 
@@ -44933,7 +44933,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15193
 
 ---
 
-### 文集/靈學探微
+### 在剛認識安的那一段時間我還是每天都會在即時通跟一群網友聊天
 
 *發表於 2005-01-03 23:35:48*
 
@@ -44970,7 +44970,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15193
 
 ---
 
-### 文集/靈學探微
+### 在看完整個房子之後，我交代安要幫房子重新油漆一次，然後家裡的燈泡要換新
 
 *發表於 2005-01-04 23:16:14*
 
@@ -44999,7 +44999,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 每次安在問我的時候我總是很無奈
 
 *發表於 2005-02-01 00:42:30*
 
@@ -45037,7 +45037,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 前幾天我跟女友逛著大賣場，不經意的我又看到大同醬油
 
 *發表於 2005-02-01 01:11:31*
 
@@ -45070,7 +45070,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 好啊，等過年後大家找時間過去
 
 *發表於 2005-02-02 19:46:17*
 
@@ -45081,7 +45081,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 宿命：靈異現象與處理（2）
 
 *發表於 2007-11-20 01:07:51*
 
@@ -45089,7 +45089,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 宿命：命運、選擇與改變
 
 *發表於 2012-01-28 19:31:43*
 
@@ -45123,7 +45123,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 因為大家非常關心安的情況，所以我先說他的最近病況
 
 *發表於 2004-12-17 01:34:30*
 
@@ -45156,7 +45156,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 你也發覺我講的保守喔
 
 *發表於 2004-12-18 01:18:44*
 
@@ -45168,7 +45168,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 看過附身..著魔..走靈會山的一些疑問   「舊版文章」：靈異現象與處理
 
 *發表於 2007-09-27 01:25:39*
 
@@ -45295,7 +45295,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 看過附身..著魔..走靈會山的一些疑問   「舊版文章」：靈異現象與處理（2）
 
 *發表於 2007-09-27 01:30:49*
 
@@ -45435,7 +45435,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 命相與人生「舊版文章」：命運、選擇與改變
 
 *發表於 2007-09-26 00:31:57*
 
@@ -45575,7 +45575,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=396&pid=15232
 
 ---
 
-### 文集/靈學探微
+### 神通？  幻相？  法術？   騙術？  財色？「舊版文章」：神通、法力與迷思
 
 *發表於 2007-09-26 00:20:11*
 
@@ -45740,7 +45740,7 @@ joj:你好
 
 ---
 
-### 文集/靈學探微
+### 神通？  幻相？  法術？   騙術？  財色？「舊版文章」：神通、法力與迷思（2）
 
 *發表於 2007-09-26 00:24:09*
 
@@ -45825,7 +45825,7 @@ joj:你好
 
 ---
 
-### 文集/靈學探微
+### 這是舊版轉貼過來的文章，是網友之間的對話轉貼過來
 
 *發表於 2007-09-15 00:00:58*
 
@@ -45976,7 +45976,7 @@ akira.我剛才回到觀世音方便法門那一篇去看，才發覺到原來�
 
 ---
 
-### 文集/靈學探微
+### 持頌經咒的正確觀念!：家庭互動與人生體會
 
 *發表於 2007-09-15 00:06:03*
 
@@ -46101,7 +46101,7 @@ UFO:上面是依經驗分段,我也不敢說絕對正確.
 
 ---
 
-### 文集/靈學探微
+### 持頌經咒的正確觀念!：家庭互動與人生體會（2）
 
 *發表於 2007-09-24 23:26:42*
 
@@ -46197,7 +46197,7 @@ Hello!  媛媛兄,媛媛姐,
 
 ---
 
-### 文集/靈學探微
+### 持頌經咒的正確觀念!：符咒現象與辨別
 
 *發表於 2007-09-24 23:33:34*
 
@@ -46293,7 +46293,7 @@ UFO:你上次遺失的問題是不是這個.
 
 ---
 
-### 文集/靈學探微
+### 持頌經咒的正確觀念!：修行、心性與反省
 
 *發表於 2007-09-24 23:37:39*
 
@@ -46402,7 +46402,7 @@ UFO:你上次遺失的問題是不是這個.
 
 ---
 
-### 文集/靈學探微
+### 持頌經咒的正確觀念!：修行、心性與反省（2）
 
 *發表於 2007-09-24 23:40:36*
 
@@ -46636,7 +46636,7 @@ news:M.1008691824.A.164@bbs.nsysu.edu.tw...
 
 ---
 
-### 文集/靈學探微
+### 超渡及補福德庫之簡易操作方法
 
 *發表於 2005-09-08 17:51:47*
 
@@ -46699,7 +46699,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=390&pid=15018
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：命運、選擇與改變
 
 *發表於 2005-09-17 00:23:37*
 
@@ -46724,7 +46724,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=390&pid=15018
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：靈異現象與處理
 
 *發表於 2005-09-19 14:16:48*
 
@@ -46738,7 +46738,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=390&pid=15018
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：宗教信仰與正信
 
 *發表於 2005-09-08 23:12:05*
 
@@ -46778,7 +46778,7 @@ b.問儀軌:
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：靈異現象與處理（2）
 
 *發表於 2005-10-03 09:00:39*
 
@@ -46796,7 +46796,7 @@ b.問儀軌:
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：靈異現象與處理（3）
 
 *發表於 2005-10-31 16:43:43*
 
@@ -46820,7 +46820,7 @@ b.問儀軌:
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：家庭互動與人生體會
 
 *發表於 2005-10-31 17:02:58*
 
@@ -46848,7 +46848,7 @@ b.問儀軌:
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：觀念、經驗與回應
 
 *發表於 2005-09-09 00:05:25*
 
@@ -46873,7 +46873,7 @@ PS. 記得問一下, 要在什麼時間前完成, 你可以先說, 看祂們同�
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：家庭互動與人生體會（2）
 
 *發表於 2006-03-23 10:12:49*
 
@@ -46903,7 +46903,7 @@ PS. 記得問一下, 要在什麼時間前完成, 你可以先說, 看祂們同�
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：靈異現象與處理（4）
 
 *發表於 2006-03-24 23:42:39*
 
@@ -46917,7 +46917,7 @@ PS. 記得問一下, 要在什麼時間前完成, 你可以先說, 看祂們同�
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：靈異現象與處理（5）
 
 *發表於 2006-03-29 22:35:38*
 
@@ -46934,7 +46934,7 @@ HMM... 能被人尊敬是有他偉大的地方.
 
 ---
 
-### 文集/靈學探微
+### 超渡的效果
 
 *發表於 2005-09-09 00:14:52*
 
@@ -46962,7 +46962,7 @@ HMM... 能被人尊敬是有他偉大的地方.
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：因果業力與選擇
 
 *發表於 2006-03-31 14:58:31*
 
@@ -46993,7 +46993,7 @@ HMM... 能被人尊敬是有他偉大的地方.
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：符咒現象與辨別
 
 *發表於 2006-03-31 20:29:31*
 
@@ -47010,7 +47010,7 @@ HMM... 能被人尊敬是有他偉大的地方.
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：觀念、經驗與回應（2）
 
 *發表於 2005-09-09 00:19:41*
 
@@ -47083,7 +47083,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=390&pid=15026
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：靈魂現象與觀念
 
 *發表於 2006-04-17 22:04:45*
 
@@ -47103,7 +47103,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=390&pid=15026
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：靈異現象與處理（6）
 
 *發表於 2006-04-19 01:28:40*
 
@@ -47123,7 +47123,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=390&pid=15026
 
 ---
 
-### 文集/靈學探微
+### 淺談超渡及福德庫：修行、心性與反省
 
 *發表於 2007-05-26 21:13:07*
 
@@ -47145,7 +47145,7 @@ https://jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=390&pid=15026
 
 ---
 
-### 文集/靈學探微
+### 本站 建凱 網友提供的 淨口.身.意 與安土地真言
 
 *發表於 2006-12-21 14:03:56*
 
@@ -47165,7 +47165,7 @@ NAN MO SAN MAN DUO。MOU TOU NAN 。WONG 。DU LU DU LU。DI “V”(美語字�
 
 ---
 
-### 文集/靈學探微
+### 心經白話解譯與大圓滿般若波羅蜜多心咒補述
 
 *發表於 2007-04-25 01:58:09*
 
@@ -47247,7 +47247,7 @@ NAN MO SAN MAN DUO。MOU TOU NAN 。WONG 。DU LU DU LU。DI “V”(美語字�
 
 ---
 
-### 文集/靈學探微
+### 通靈者的悲哀
 
 *發表於 2004-10-06 21:26:23*
 
@@ -47284,7 +47284,7 @@ NAN MO SAN MAN DUO。MOU TOU NAN 。WONG 。DU LU DU LU。DI “V”(美語字�
 
 ---
 
-### 文集/靈學探微
+### 靈能者：靈異現象與處理
 
 *發表於 2004-10-25 20:20:48*
 
@@ -47294,7 +47294,7 @@ Ada
 
 ---
 
-### 文集/靈學探微
+### 老實說舊版的風雨我不在意，畢竟那是對我懷恨者的陳腔濫調
 
 *發表於 2004-10-26 01:33:51*
 
@@ -47360,7 +47360,7 @@ Ada
 
 ---
 
-### 文集/靈學探微
+### cmj與ada兩姊妹
 
 *發表於 2004-10-06 21:46:28*
 
@@ -47404,7 +47404,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈能者：人性觀察與處世反省
 
 *發表於 2004-10-06 21:49:00*
 
@@ -47424,60 +47424,244 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
+### 序言
 
-*發表於 2007-11-20 01:30:22*
+*發表於 2004-2-3 15:09:09*
 
-見山是山　見水是水　　因為山就是山，水就是水，這是現時邏輯觀念，難道山水會互換嗎？
+小弟對儒.釋.道之字義可說一竅不通。皆因當年初學時菩薩不願我再接觸宮.廟.壇.經典.禮法等.....
 
-當修行到一個程度之後，會發現原來世界的背後，還有他隱藏的千變萬化的道理 當你放下一切執著念之後，萬般[空相] 山它可不是山　水也可以說不是水 例如　山在億萬年前，他可能是海，海他卻可能是山 所以山裡有海　海浬有山 所以山不是山　水不是水
+ 菩薩曰：心性未定心智未開，恐未蒙其利先受其害。心智既開者始能與佛同心，知經典之要義。
 
-但是當修行再進階到更進一步 了悟透測萬物生滅循環的道理 心中更進一步的放下執著 連自己是否在修行都不執著了 因為修與不修都是在修
+ 須知文字為一[定相]隨觀者心性之.起.伏.轉.折.而生不同之意境。
+ 且經典歷二干五百年之口傳 記敘 遺漏 文字翻譯 文字語言口音變遷等.......
+ 再加上自以為是之高僧大德修改已偏離來意境。
 
-是否有山有水　是山是水　都已經不重要了 你說是山他就是山　是水他就是水 因為在他心中　山與水　都是一樣 都只是宇宙自然循環
+ 我說：那既是己生錯誤為何留傳不予消毀。
 
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+ 菩薩曰：錯有錯著一切自有天意，佛法落諸文字已是錯，再錯又何妨有德者得之。
 
-我說的覺醒不是你說的那一種覺醒
+ 我說：那經典奧義多變，這樣看也對那樣看也對，再換個角度 又發現通通都不對，再加上年久失真。
 
-這一輩子你知道自己為何來做人　現下在幹什麼　就是覺醒了 如果渾渾噩噩的過一生，那就是不覺醒．
+ 這樣要如何學起，怎樣才是真 才能補齊那失落心境。
 
-* * *
+ 菩薩曰：唯將己心溶入經典之情境，常存於心用心比對始得正心。
+ 唯與佛溶入相同之意境，始知佛心 才能以心相印。
 
----
+ 我說：那是不是像我與人對話，常有誤解而生嫌隙相同。 
+ 那是不是要與人對話時，設身處地將己心入他心溶入相同之背景處境，始知對方之心境。
 
-### 文集/笑談生活
+ 那是不是看人胃痛難當自己從未痛過，怎麼想像也不可能跟當事感受相同。
+ 見人喪親之痛自己未曾有過，也不知如何痛徹心扉。
 
-*發表於 2011-12-29 00:46:19*
+ 那同等義　我今日[心之行徑]未與菩薩設相同之等地 怎知[菩薩心]怎知經典所要表達之正[佛心]。
 
-一般人一生都會有多次的姻緣機會。 婚前遇到，說是有異性緣。 婚後遇到，說是桃花。 對於每一次姻緣的抉擇，都是人生的一個重大定數。 跟不同的人結婚會出現截然不同的命運。 同樣的婚後的桃花，自己是否要跳入漩渦之中，也會對後續人生出現重大變數。 人的一生要如何過，都是在自己的抉擇之中。 幾次重大抉擇決定了我們的一生。 所以要過什麼樣的人生？ 就在我們自己的手中。
+ 菩薩微笑以退............
 
-命運 命:一半由前世注定，一半由運去影響。 運:一半由時局註定，一半由自己創造。
+ 此後 以心向善 我心不勉強沒有打坐沒有唸經。 
+ 但求平日將我心近菩薩心 不嫉 不恨 不悔
+ 常以平常心 慈悲心 提點自己。
 
-運氣 怎麼去運用自己的氣場。 多數人不懂怎樣去運氣，就讓他隨著天數運行。 氣場身上的所散發出來不可見的磁場頻率。 以道家語法，陰陽加上五行構成身上的磁場。 頂門為陽 會陰為陰加上五臟為五行構成構成7個脈輪。 此七個脈輪即為人之魄。
+ 心生氣憤時 心生不平時 心生貪念時 心生私念時。不為自已找藉口，以平常心提醒自己內心不可悸動。
 
-道家或許是藏私或許是遺失造成對三魂七魄的語焉不詳。 在以前自己故意不予詳解，就是怕被神棍偷學去騙財騙色，我暫時設在低威望3，也希望看到的人看過就好不要流出。 一般坊間只有對三魂的淺解卻沒有詳解，對於七魄更是完全無解。 七魄就像彩虹一般運行在身體裡面，如果七魄取得均衡運行，則身體無恙運氣順暢，反之則諸事不順 重者病亡。 所謂的祭改 改運 祈福 收驚 除煞的基礎原理皆在於此。
+ 如是日復一日年復一年 
 
-* * *
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:04:26*
-
-一分耕耘一分收穫
- 修行沒有捷徑
-
- 捻花微笑　一句成佛　
- 有沒有人想過，在那當下覺悟的背後，覺者經過多少累世累劫的努力。
- 莫見人眼前的成功，而忘卻那背後的努力。
+------
 
 ---
 
+### 活在當下與無色無相有矛盾嗎？
+
+*發表於 2004-2-15 18:34:14*
+
+活在當下....與"無色無相"有矛盾嗎？
+
+ 佛說修行要有大智慧。
+ 人家說要活在當下，就是要我們不要執著於過往，亦不擔心於未來。
+
+ 從不執著於我念.我相.放大到不執著於色相，如此依序漸進就不矛盾了。
+ 很多人生或經典見解，都是一步一腳印走出智慧與解脫。
+
+ 莫聽人道:某一派別，道法,經典,為最上乘.便一路追趕。
+
+ 須知身為初學者的我們，就算最初淺的.道.法.窮己一生可能都做不到。
+ 又何必捨低逐高空中築閣呢。
+
 ---
 
-### 文集/笑談生活
+---
+
+### 經咒
+
+*發表於 2004-2-15 18:37:38*
+
+幾千年來所有經典咒語早就荒腔走板。
+
+ 例如：2500年前的梵語與現代印度語口音可能相同嗎?
+
+ 有行者辛辛苦苦遠走西藏,印度求正音法，其實只能証明自己夠著相,夠執著。
+
+ 所有咒語都只是一個字相。
+ 重要的是心怎麼想　怎麼悟　怎麼做。
+
+---
+
+---
+
+### 修行修心
+
+*發表於 2004-2-15 18:42:10*
+
+修行修心就是用不同的眼光，用不同的同理心，去看一件事情在用客觀的智慧去思考，選擇一條最正確道路去走。
+
+ 眾生皆平等 眾生皆平等盡力去做，雖然對我們來說一點也不平等，但是開始與最終是平等的。
+
+---
+
+---
+
+### 宏觀的包容 智慧的慈悲
+
+*發表於 2004-3-31 15:42:02*
+
+宏觀的包容 智慧的慈悲
+
+ 每一個人都會犯錯，包含我自己．
+ 所以基於將心比心我幫每一個人找理由來說服我自己，給每一個人機會改過．
+ 類似的事件常常在我身邊上演．
+
+ 人不怕犯錯只怕犯錯不改過，更怕的是不認為自己有錯．
+ 顏回不二過
+
+ 我一向靜靜的等待，等待每一個人真正的覺醒．
+ 希望達到不退轉的覺者境地，順而往前 逆者微退 如同太極拳一般不頂不抗借力使力．
+ 昨夜在火車上我跟身旁三人解說法相，諸法如何通相 常相 [空相]．宇宙諸法一理萬化．
+ 對此法相一理通 百理通 萬法出於一法也歸於空法謂之如來．
+
+ 人生的路途難走，輪迴難轉何苦斤斤計較別人的過錯，只要對方真的悔過又何必計較太多．
+ 但是  悔過是真的悔過嗎？從此不再犯嗎？ 每個人心中有一把尺衡量著這一切....
+
+ 法無常法我也不一定是對的．畢竟我只是一個常人．
+
+ 給網友 當我們生氣時，告訴自己少說話．
+ 生氣時所說的往往很傷人，說出口的話如同潑出去的水．
+ 已形成的傷口很難平復完全．
+
+---
+
+---
+
+### 輪迴與修行
+
+*發表於 2004-4-26 19:33:13*
+
+云云眾生落入凡塵皆有其定數，輪迥轉世川流不習成住壞空循環不斷。
+
+ 修行之路眾生皆平等，無形象 位階 年歲之差異。
+ 自自然然順心而行，如若相信生死輪迴若真入心　
+
+ 當知
+ 設若：今生是我父母眾，怎知其前生是我恩人 僕人 仇人 寵物？
+ 今生之我功成名就名利加身，怎知我前生是.善人.殘者.畜牲？
+
+ 設若：捨棄自我之名相相信前言者，生不二心了悟眾生皆平等之心靈奧義，由內而外緩步奉行之。
+
+ 固而今世轉而為人有此識心有緣修心，當感謝上蒼之垂憐矣。
+
+ 設若：行者得表相之成就，既行退轉自以為是誤用神通，自以為是神佛轉世四處宣揚廣收群眾自據一偶。
+
+ 須知聖人者：謙虛自讓不表外揚，何況真神佛降世者。 世人當以智慧之心勿盲目附從。
+
+ [九句佛偈一句魔言]蠱惑腐蝕人心之佛性，此似是而非之表相繼續留傳，真末法時期不遠矣。
+
+ 世尊曾言：佛法不滅 唯佛法可滅佛法。
+ 今見此五濁惡世之亂相，吾人當知佛陀之預言，不幸言中矣。
+
+ 世人自欺欺人以為末法時期有彌勒佛法駐世。
+ 人心不足蛇吞象，此一劫有佛陀之降世己是萬幸。怎可奢求下一劫之彌勒佛提前駐世，此一妄想謂之[貪]呀。
+
+ 自助人助未得真努力即幻想人助，此一貪念末除怎悟正法？
+
+ 抱持門戶之見，連凡人應有之寬廣包容心且無！怎悟正法?
+ 此念未除！所悟之見皆為妄法。
+
+ 關於末世之說：緣起緣滅成住壞空乃自然之循環，縱天崩地裂地球消失亦是自然。
+
+---
+
+---
+
+### 法無常法
+
+*發表於 2004-4-26 19:47:15*
+
+當我們認真修行改進之後，在每一段日子回顧以往總會覺得自己以前好笨，不斷反省不斷改進。
+
+ 時日既久之後，會發現以前奉為圭臬的真理，竟不再是真理？？？
+ 因為我以前懂得的經典佛法幾乎等於零．時日久後才看到[法無常法]這句話。
+
+ 小時候認為買玩具是天經地義是生命的全部，但長大後卻罵晚輩只知買玩具打電動是錯誤的。
+
+ 同一個人對同一件事卻有截然不同的看法，就是法無常法．也為何我會常說對任合事不要存有定見。
+
+ 我並不比別人特殊 聰明，反倒是比別人笨，所以要比別人更用心過生活。
+
+---
+
+---
+
+### 是業力也是輪迴更是共業
+
+*發表於 2004-4-27 00:33:07*
+
+每一個宗教的立意都是好的，只是現在的人為將自己的教意與功效誇大。
+ 讓每一個人以為信了某一宗教就可以得到某些利益。
+ 也因為人性本貪，不如此真的很難吸收信徒，所以現在存續下來的宗教。
+ 哪一個沒有使用利誘？
+
+ 天堂　佛國　道天　聖境
+
+ 沒有這些利基是難以吸收龐大信徒的。
+ 這也是這些宗教為了存續下去不得已要屈於現實。
+
+ 只是因為許多宗師為了擴展自己的勢力，又加倍渲染神蹟，造成今日的宗教亂相與人心浮濫。
+
+ 這些亂相是誰的錯？
+
+ 是生活在這個空間每一個人的錯。
+ 每一個人都有責任去喚醒身邊的人，勿盲從與迷信宗教。
+
+ 為何我這３年來在網路上要不斷的去提醒　　修行以修身　修心　修性為基礎
+
+ 為何我要常常告訴自己身邊的人，如果我們能將個人倫理公民道德做的完善，那就已經是修行了。
+
+ 為何我要如是說？
+
+ 我們身邊看到聽的所謂修行者　宗師　法師，有幾個人能做好公民與道德？
+ 連基礎的做人之道都沒做好，就痴心學佛成佛？
+ 或許說是學做人還差不多。
+
+ 連人都還做不好，如何當宗師法師上人？
+ 當然　上有所好下必成風，上梁不正下梁歪。
+ 錯誤的師父是很難教出真正的學生的。
+
+ 在這一次要想框正多數人的宗教思想。
+ 我想是難了。
+
+ 千百年來，人心一直沒變。
+ 一直都是如此的貪與私。
+
+ 用利益去吸收的教徒，真會成就嗎？
+ 歷史已經給我們答案。
+
+ 但是可憐的人類，依然被那些誤道宗師所牽引而繼續錯下去。
+ 千百年來的模式不斷重複　輪轉
+ 是業力也是輪迴更是共業。
+
+---
+
+---
+
+### 人生修行何處不是道場
 
 *發表於 2004-4-27 00:34:25*
 
@@ -47511,65 +47695,222 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
+### 跳脫輪迴的方式
 
-*發表於 2004-6-9 22:09:28*
+*發表於 2004-4-27 00:35:49*
 
-『三人行必有我師』
+在個人來說：佛的境界
+ 它可以說是跳脫出這個循環
+ 但是當他跳出也可以說他是死了
+ 因為它不垢不靜不動
 
- 並不是三個人當中一定有一個比自己強.
- 而是三人當中,不管對或錯都有值得自己省思改進的方向.
- 對方的錯,提醒自己不要重蹈覆轍.
- 對方優點,值得自己學習.
+ 另一種跳脫輪迴的方式
+ 那就是無視於輪迴
+ 無生老病死苦
+ 當有生命能做到般若心經中的境界時
+ 那輪迴與不輪迴
+ 已經跟自己無關了
 
- 每一篇留言,都是大家的省思.
- 用客觀的心態,包容的胸懷去欣賞.
- 不一定要認同或是反對.
- 而是告訴自己,今天如果對方是我的話.
- 我會如何想如何做?
- 能否比對方更好?
+ 我自己是比較傾向於後者才是真佛
+ 身在紅塵卻不染紅塵
+ 亦可說是根本沒有紅塵
 
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2005-9-14 20:49:07*
-
-身為一個人，凡事不能一概而論斷。
- 一件事情的發生，他可能是因果可能是卡陰也可能是人為，更以說是總和結果。
- 所以如果對一件事情的論斷，過渡鐵口絕決都很容易出現偏頗誤判。
-
- 例如生病，他可能是生活起居 飲食習慣 居家環境所累積引起的。
- 不能一生病就說煞到或是卡陰或是因果業力。
- 靈學能力只能拿來增長經驗見識，不能期望用他來改變一些什麼。
-
- 凡事平常心去應對，該發生的他自然會發生，那就去面對。
- 能解決是自己的命，不能解決也是命。
- 凡事盡力而為，不懈怠也不強求。
+ 因為當自己不把紅塵當紅塵，就沒有所謂身在不在紅塵．
+ 同樣的當不把輪迴當輪迴，就沒有所謂輪不輪迴．
+ 在心念上自然就跳脫六道輪迴
 
 ---
 
 ---
 
-### 文集/笑談生活
+### 空門之中好修行，紅塵之中寸步難行
 
-*發表於 2005-9-13 00:57:08*
+*發表於 2004-4-30 00:38:04*
 
-人生是由很多的抉擇與結果所串連而成的。
- 反省就是為了希望能有更好的抉擇與結果而存在。
- 每一個人都知道因與果的形成道理。
- 但是一般人只知道未經思考的去種因，然後再去收拾不喜歡的果。
- 但是卻很少人去瞭解如何實踐種好的因，再去擁抱甜美的果。
+空門之中好修行，紅塵之中寸步難行。
 
- 自省與內觀在這時候便扮演著重要的關鍵。
+ 身入紅塵而不落紅塵。
+
+ 佛法就是這麼無常法無常相。
+
+ 看我們用什麼心去對應。
+
+ 當自己做到心經中的境界時，就可以身入紅塵而不落紅塵。
 
 ---
 
 ---
 
-### 文集/笑談生活
+### 修行的苦難考試
+
+*發表於 2004-4-30 00:38:51*
+
+一般人認為修行的苦難考試不斷
+ 但是實際的內相呢？
+
+ 萬法唯心造、一切唯心轉....
+
+ 事物本身所呈現的現象是沒有好、壞、苦、樂之分的。
+
+ 只有經過我們的心去感覺區分之後所轉化出來的結果，
+ 才會有所分別.......
+
+ 但是當我們放下之後。
+ 就沒有考試 沒有這一切 沒有人生 沒有六道輪迴。
+
+ 但我們依然在輪迴中。
+ 與友分享........... 
+
+---
+
+---
+
+### 勵志 - 不問收穫盡力而為
+
+*發表於 2004-4-30 00:43:24*
+
+不問收穫盡力而為，乃修行人之初基。
+ 誠實對己無愧於天地，乃人之本牲。
+
+ 別忘了人外有人天外有天，能人者後有能人。
+ 罵就讓他罵左耳進右耳出，不也是訓諫[空相]的機會嗎?
+
+ 生活中禪機處處，看你用什麼心境去面對。
+ 不要灰心 不要喪氣。
+
+ 當年我不明真理自以為是咒罵菩薩。
+ 但她們依然盡心盡力幫我，一直到了解她們的苦心，她們依然微笑。
+ 從此我遇到意外,挫折,不再怨天不再由人了悟生死。
+ 人生真的如夢　我祗是到此追尋另一种真理，夢醒就如南柯一般。
+
+ 我也是本著當年人助我，今日我助人。
+ 願將心比心，才會駐留於此。
+
+ 因為我知道追尋不到真理真的很難過。
+ 一路孤寂走來，要不是菩薩為伴，真的走不下去。
+ 再回首來時路真是哭笑不得。
+
+---
+
+---
+
+### 修習心得、菩薩心境
+
+*發表於 2004-4-30 00:45:15*
+
+ 『  修習心得  』02/06/14 02：15
+ 平日對任何事物皆用心以對。
+ 時時以第三人的身份問自已，對此時發生事件的心靈悸動是正確的嗎？
+ 對他人的善意是自然的內心表現？亦或是經由意識[識心]思考的表現呢？
+
+ 在路上發現他人遺物？
+ 是一開始就不為所動，亦或是內心有一絲絲異動？
+ 以經典上菩薩之心境.行徑.時時比對自己內心是否有違佛心呢？
+
+ 如是不勉強.不懈怠.自自然然.日復一日
+ 每一段時日再回首遙望往日的自己....
+ 會發現！
+ 以前自己的思考模式 內心行徑，是多麼渺小而不知真正的佛是在自己心間。
+
+ 先賢常說:人人是菩薩人人是佛，禪意何其深呀！
+ 以前小弟常自問人就是人怎麼變成菩薩呢？
+
+ 在時時默省內心數年之後始發覺。
+ 人人皆曾有過由內心同情他人濟渡他人代人受苦痛的心境。
+ 那就是狹意的菩薩心呀。
+
+ Ps.在小弟個人認為廣意的菩薩心，是指對內外六道眾生.靈.皆有此慈悲心境。
+ 而非只對身旁至親好友亦或人間道而言。
+ 雖稱狹意菩薩心，但已是人間難得了。
+
+ 將此瞬間之菩薩心境.細細感受.保留瞬間的感覺.由內而外由親人至眾生。
+ 將此心境保留一秒一分一時一日 至消失止.........
+
+ 那段期間您就是菩薩！
+ 經典中 傳說中 菩薩不必他求高僧大德。不必遠求大陸.西藏.尼泊爾.亦或西方淨土。
+ 菩薩就在你的自心 自性中，修行不必執著於經典奧義。
+ 常以平常心 觀自心 觀自性
+
+ 修行之路 門門可通，入門不同 延途風景不同，心境感想也不同。
+ 何苦執著於我知 我見 我學 我想 才是正法旁人皆為誤學？
+ 須知只要本持正知.正見.慈悲.智慧.雖時間.路途.法門不同萬法歸宗。
+
+ 其實顯法 密法 禪法 道法 法輪大法 基督法 天主法 回法 論至頂點,皆為同一[善法]
+ 只是人類的狹小心念 名利做遂，為擴大版圖.污滅.排除異己，造成種族.宗教.林立.殺伐四起。
+
+ 唉.....空夢一場.何必呢？此非各教正信之途矣。
+
+---
+
+### 物質世界的公式
+
+*2004-4-30 00:48:46*
+
+眾生卻迷失在物質化的因果輪迴中無法超脫
+ 是否因果即是物質世界中的一個運作公式
+
+ =========================================================
+
+ 其實不管是佛家的因果論，或是道家的陰陽太極論
+ 本身就是一個生命的動
+
+ 生命有動就會有軌跡，就會有交錯　摩擦　碰撞
+
+ 這些交錯　摩擦　碰撞的過程與結果跟延續
+ 就是因果也是太極
+
+ 當這些動作真的都消失時
+ 一切歸於寂靜
+ 也可說是死寂
+
+ 這個時候一切歸零
+ 它是開始
+ 也是結束
+
+ 它可說是生
+ 也可說是死
+
+ 可說空中妙有
+ 亦說有中妙空
+
+ 萬物本就是要有循環的［動］
+ 才會感覺有生命現象
+
+---
+
+---
+
+### 萬象皆由心生
+
+*發表於 2004-6-3 22:07:15*
+
+萬象皆由心生，看你用什麼心去對應，就可以學到無苦集滅道 無生老病死苦.........
+
+---
+
+---
+
+### 勵志 - 真誠的悔悟
+
+*發表於 2004-6-3 22:08:19*
+
+～～～～～～～～真誠的悔悟～～～～～～～～ 
+
+真誠的悔悟並不是口頭上的懺悔
+ 要用行動一點一滴的去做
+ 讓對方感受到我們的決心與誠意
+
+ 不管在  親情 愛情  友情
+ 用行動與時間一點一滴化解互相的心結
+ 唯有真誠的言行才能化為大愛
+
+～～～～～～～～～無遠弗屆～～～～～～～～～         共勉
+
+---
+
+---
+
+### 心路歷程
 
 *發表於 2004-6-3 22:19:03*
 
@@ -47606,169 +47947,485 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
+### 投胎轉世
 
-*發表於 2004-7-20 23:54:36*
+*發表於 2004-6-3 22:58:22*
 
-文字為一[定相]，隨人心之機緣善變。
+人投胎轉世.本就有不同的目地。
 
- 經典年年看日日省皆有所不同。
+ 主要是要我們去体會感受.喜 怒 哀 樂 生 老 病 死 苦 等的感覺.並思考如何去面對。
 
- 佛法等同活法。
+ 人生就像電腦生存遊戲一般，如何尋找出路？萬一走入絕境失敗。
 
- 若經典只有一種解釋的話，那就不是佛法了。
+ 沒事  
 
----
+ 按個按腱，重新投胎 再來一次生存遊戲。
 
----
+ 人生如夢即是如此。
 
-### 文集/笑談生活
+ 只是這個遊戲版本太精密附屬功能太強也太龐大了。
 
-*發表於 2007-9-4 10:41:27*
+ 只要你一執著，那你就永遠陷在裏面出不來了。
 
-台灣宗教怪現象 『 迷失 』02/06/13 13：38
+ 所以人生別太再意。
 
- 一個族群的興敗，要靠每一份子的內心修持廣積福德。
+ 思考著我要怎麼活的精彩有意義，盡力而為不要輕言放棄。
 
- 始有所成行善乃人之本性,而非為積功德或往生西方淨土而為之。
+ 萬一失敗沒有悔恨，如此你才有機會再來一次。
 
- 一個人縱使熟讀經典擅能巧辨，說的天花亂墜 地湧金蓮 功成名就。
+ 當然你也可選擇尋找出口,跳脫輪迥不再玩這個遊戲了。
 
- 而不能內心奉行　見諸己之佛心佛性 亦是枉然此台灣怪現象之首也。
+ 但這條通往出口的路卻是更難通行，充滿困難 陷井 幻境 。
 
- 　　　　　　　　　　　　　　　　　　　　　　　　　　　共勉之
-
-** ==== 以下內容由 \*jin310\* 在 \*2007年09月04日 11:06am\* 時新增 ====
- 
- 台灣宗教怪現象『 經典 』 02/06/14 02：23
-
- 關於經典的問題 
-
- 個人覺得經典已經多到氾濫的程度，那麼多的經典只為了用不同的方式詮釋  覺 悟
-
- 走到現在會有一種有經不如無經的感覺，因為經典造就少數人卻害死更多人。
- 想想由古至今有多少人執著於經典字義與表面的假象。
- 多少人被道貌岸然的大師所騙，只為了這些大師熟讀經典善能巧辯，但是內心作為比一個文盲還不如。
- 但是世人就是喜歡經過包裝的假象，卻沒有想到經典中一直提醒我們要破相。
- 嘴裡 文字將破四相解釋的天花亂墬，但在實際生活中卻與人爭名奪利拼命著相。
-
- 試問  哪一位大師出門是坐破車，若不著相是不是應該車子能動就好？
- 住所能遮風避雨就好，寺院精舍蓋的富麗堂皇卻美其名說是給佛住的？
- 佛既為無相何須住所呢？值得深思.........
-
- 關於靈界的迷思真的太大太廣，比一本地球人類演化史還要複雜。
- 不說還好一說出來又是一部害人的書籍。
- 因為怎麼寫都不正確，昨夜與無為兄有談到魂魄 氣功 人體七脈輪 陰陽五行的關聯演化性。
- 其實都是在講同一種境況，只是入門角度不同所看所講也就不同。
-
- 對我個人來說 人世間所有的宗教與靈界訊息以狹義來說他們都是對的。
- 但是以廣義來說卻全部都是錯的。
- 包含我在此所說的一切或許對一般人來說是對的，但是對我來說卻是錯的。
-
- 可是我又不得不如此說，因為我若在此講我認為的真理無人聽的懂。
- 而且若提高到深處卻出現無話可說的窘境。
- 因為怎麼解說自己都覺得不對，怎麼對別人說呢？
- 此時才知 法無常法 法落文字既非法 的真正意境。
-
- **-=-=-=-=- 以下內容由 \*jin310\* 在 \*2007年09月04日 11:08am\* 時新增 -=-=-=-=-**
- 『  法落文字即非佛法？  』02/06/14 02：36
-
- 佛陀常叫人要讀誦憶念、說與人聽，即使一句一謁，福德無量有他的時空背景。
- 在古代一般人多不識字，如無人朗誦。
- 經典能留存嗎？
- 大多數的平民百姓能得聞佛法嗎？
- 不識字的禪宗六祖是如何開悟的？
- 經典如同善書一般，勸人向善福德無量是否福德無量？
-
- 對於經典我一直認為他是一部活法，隨人心之機緣善變。
- 有人言無用論、不具意義；或云落文字相不足取？
-
- 很多說法與想法往往有他的一個特定角度，相對的言無用論、不具意義
- 如果我們把他解釋成坐而言不如起而行。
- 再好的經典再好的計畫方案，如果我們不去實行那是不是就符合『言無用論、不具意義』？
-
- 關於落文字相不足取？
- 那是驕傲自大的人玩文字遊戲。
- 試問當他說出或寫出『落文字相不足取』幾個字的時候，是否用語言文字表達？
- 那別人的文字不足取的時候，那他的文字就足取嗎？
- 雖說 法落文字即非佛法！
- 這句話是高乘法境的修行者在說的話。
-
- 試問  當年佛陀若沒有將『法』訴諸語言文字的話。
- 今日有誰會知道在此言法？
-
- 經典有他的先後演說之分，佛陀從初級入門開始演法。
- 說到後來的法不落文字，49年來我什麼都沒說？
- 這當中有他的含意存在，對一個有心學佛的人來說，應該有大智慧明辨何謂循序漸進？而非好高騖遠。
-
- 對凡人的我們來說，基本的待人之道 漸進的修身 齊家 都不一定做的好。
- 何苦執著於法落文字即非佛法？這句話的對錯？
-
- 般若心經中的  心無掛礙  區區四個字。我們做的到嗎？
- 當 心無掛礙 了入於心的時候，我們就不會有以上的問題產生了。
-
- 學法與學做人是一樣的，切莫捨近求遠行那空中築閣之道。
- 當我們教小孩子莫好高騖遠，應該一步一腳印的時候。
- 也看著自己是否跟小孩子一樣貪求急進。
- 提醒他人錯誤的時候，也不忘相同的時時告誡自己。
-
- 如何判斷他人或自己已明心見性，有一定的標準或程序嗎?
-
- 『明心見性』如同『止於至善』一般沒有盡頭，當你自認為自己明心見性的時候，也表示自己不再進步了。
- 『學無止盡 學海無涯』相對的『明心見性』也沒有盡頭。
-
- 心者 無色無相 沒有人能幫你解釋你心中的『明心見性』。
- 高層法境只在自己心中無人可解。
-
- 註：　高層法境無人能幫我們解答，只能靠自己去對應了悟。
+ 但走出黑暗再回頭，你會發現自己怎麼這麼笨，玩遊戲玩的這麼入迷，都忘記自己本來的身份了。
 
 ---
 
 ---
 
-### 文集/笑談生活
+### 經典
 
-*發表於 2007-2-20 01:45:32*
+*發表於 2004-6-9 21:11:52*
 
-從2000年上網到現在已經2007年了，好快的日子。
- 2000年之前的日子不算，2000年上網到現在看看自己身邊的朋友，真的很難過，大家都走得很辛苦，常常有力不從心的感慨。
+『經典』
 
- 走這條路不管是感情 親情 金錢 健康無所不考，考的讓人生死不如。
- 看看自己之前的人生路程，在27歲是一個劃分界線，在此前是一個很不堪的回憶，但是我已經不怨任何人，畢竟有失有得如果我沒受那些過程，那我不會有那麼多人生的體悟。
+ 當我說出認為很多經典都是人寫的時候還很多人反對勒。
 
- 27歲之後脫離了家庭的包袱，但是面對的是另一種人生，重新的專業學習，投入完全不一樣的職場，不同的職場不同的人生不同的體驗。
+ 其一依照科學邏輯推論來說，確實可能性很大。
+ 其二很多經典看起來,真的不像是釋迦牟尼佛所會講的話。
 
- 35歲開始網路生涯，開拓更寬的視野見識到不同階層的社會人士形形色色的人性思想，讓我對人生的體悟更加的寬闊與深髓，對無我的境界更進一步。
+ 一個人的個性用詞說話方式口氣都會有他的模式存在。
+ 如果你用心對照的話，你會發現很多經典的差異性真的太大。
 
- 去年這一年雖然工作忙碌，但是在生活中有時候我還是活的很感慨與無奈。
- 看到十多年的朋友平日不與人計較，但是老年之後對於面子與金錢卻是越來越離譜的看重，讓周遭的朋友在背後對他不齒，做人真的要做到這麼失敗嗎？我自問著？為了面子為了一點點損失，有必要如此嗎？為了計較一點點眼前的損失，卻失去長遠的利益，這樣真的賺到了嗎？
+ 再來的一點是，很多經典的說法場所並非在人間。
 
- 另一個朋友也是依然，佔人家便宜可以合理化，認為是應當的，但是一旦自己有吃虧就明言計較到底，甚至不惜違背著良心說話去攻擊他人。
- 便宜是佔到了幾千元，但是我親眼見到的損失，到目前為止已經累計到了130萬了。這樣的便宜好佔嗎？可惜當事者依然無法覺悟。
- 我不知道這兩位朋友的未來會變成如何，因為未來是會更好或是更壞，都操控在他們自己的手裡，人生的命運是他們自己揮灑的，我只能無奈的在旁邊觀看。
+ 現在的佛家說不談神通
+ 但是很多的經典，卻存在非常多的神通運用。
 
- 一位人人認定的通靈師，一生也沒什麼缺點，可是卻命運背的可憐，一次次人生的重大打擊不間斷的襲擊著他，逼到他都陷入困境了，有時候幫求助者靈療花費數小時的時間與體力，謝禮卻只有兩百元？這比一個工讀生的薪水還少要如何養家餬口？我不知道求助著的良心何在？因為這一類事情比比皆是，所以我才會說可憐之人 必有可恨之處。看著他的窘境我也不知道要如何幫他，因為其實很多事情的形成都是有其背景因素的，只要當事者自己不願意去改變，那這些所謂的業力與苦難就會如影隨形揮之不去。
+ 例如有一部經典是佛到忉利天為其母親說法，試問沒用神通怎麼去？
+ 另外這些阿羅漢沒用神通怎麼跟去聽法?
+ 這不是標準的只准官家放火不准百姓點燈?
+ 只有佛經能不斷的描繪佛顯現大神通力，但是其他人顯現的話就是邪魔?
+ 這些跟基督耶穌說的只有他是真神其他都是假的一樣.
 
- 一對修行夫妻立志開一家素時餐飲店，兩夫妻憑著良心做事真材實料口味又好，但是去不懂的經營與宣傳手法而坐困愁城，連店租都要繳不出來了，我卻沒有機緣去幫他們，雖然心裡惦記著也很想去幫幫他們，可以就湊巧順路去了兩次，都碰到休息日，一個月就休息那麼兩次，就剛好都碰到。
+ 其實很多事情可以做人性推論的。
+ 試問以佛的智慧跟慈悲來說，他會對其他宗教做攻擊嗎？不會
+ 他會不斷炫耀只有自己是最好的其他的都不好嗎？  不會
+ 會說只要對佛不敬就會落入餓是輪迴受苦嗎？ 不會
+ 大家想想佛如果只因為我問候他一句[你娘可好？ 
+ 他就要如此逞罰我，就會落入餓是輪迴受苦，那真是心胸狹小的佛啊。
+ 如果他真的是佛的話，就算是有神要逞罰我，他也應該會阻攔，因為他是佛，無盡慈悲的佛。
 
- 有的修行人遇到色戒的考驗，一路栽下去也不知道何年何月才能漂流到近岸。
+ 所以有智慧的人啊！
+ 當真要分清楚想一想，一位慈悲的長者會動不動就恐嚇他人嗎？  絕對不會
+ 基督都可以包容他的敵人了,還會說只有他是真的嗎？ 不會
+ 我們所看到的都是他們的智慧謙虛包容與慈悲。
 
- 有的修行人有錢的時候不知道要多多撥出時間行善與助人，一夕之間法院查封家產全無 夜半跑路，兒女因為之前的溺愛，如今家中斷炊就漸漸學壞。要全怪小孩子不懂事嗎？如果在家境優渥時能教導小孩子要享受之前必先學習付出，那今天小孩子會一夕變壞嗎？
- 如果在之前懂得付出謙虛待人，廣積福德或許今日不至如此，我曾經暗喻相勸，可惜對方困在自己的思考層面，無法瞭解我的提示。
+ 所以所有的經典當中，所提到誇大功德福報，神通顯現。
+ 對其他宗教的貶低,對他人的恐嚇等等言詞。
+ 這一些都不是這些大智慧者所會說的話。
+ 毀謗佛法僧會有重罪?  不會的
+ 因為眾生平等，應該解釋為，毀謗佛法者，日後也會受被毀謗之苦。
+ 這些都是後人為了鞏固自己的宗教地盤所串改的經典內容。
 
- 修行？通靈？真的好嗎？我不知道。
- 這些年來我只要有空閒能撥得出時間，我就不忘勸人。
- 修行 修心 修術 很多事情有它的轉折技巧，絕大多數的人都很羨慕神通，但是神通救無敵嗎？我親眼看過很多神通者最終陷在苦海裡，但是我卻束手無策。
- 鬼通倒是無敵，短暫的利益絕對慾取慾求，但是最後會怎樣死的，卻是不一定。
- 魔通無敵，這比神通鬼通境界還要高出太多了，至少他們在這一輩子為人的其間，似乎都還看不到報應，但是死了之後或是下輩子是否還是無敵？我不知道，因為目前的人生我還未親眼看到這些人的結局。
+ 慈悲的神佛上帝只會默默教導眾生與等待覺醒,覺不會惡意的恐嚇。
 
- 人生很模糊善變，我不知道要如何寫出一條道路才是正確，因為千變萬化，我只能整理出模糊的方向，那就是本著良心過生活，執著於惡或是執著於善 都是錯誤，本著良心能善盡量善，如果時勢逼迫那也盡量遠惡近善，凡事隨緣不強求，但也不懈怠，該努力就努力，但不強求一定要得到相對報酬。
+ 愚蠢的盲從者........何時才會覺醒？
 
 ---
 
 ---
 
-### 文集/笑談生活
+### 深夜寄情
+
+*發表於 2004-6-9 21:25:33*
+
+這是2年前一篇回憶文章，雖然時日已久人事已非，情緒已不在悸動，但心弦依然共鳴迴響。
+
+ ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+ 『深夜寄情』
+
+ 文章作者 靜竹林    發表日期 02/11/09 05：19
+
+ 剛剛才跟一位修行友人談話完畢，對於如何教人一事感慨良多。
+ 他說我一下之講太多高深的理念，許多高深的修行理念會被低階者誤會為邪法。
+ 不管我如何解釋，境界不到的人就是會誤解其中意境，他說我太老實無私了。
+ 無私到深藏的付出被當作是邪語，感嘆.....或許自己還要更自私一些吧。
+
+ 覺得一夜深談受益良多,覺得自己還是要再做學習與調整
+ 對學生的教導該有所保留，而不是無盡的付出。
+ 本來想說先前的快速教法，全無保留的教一輩子學生都學不完了。
+
+ 看來自己的所學真的要隨風而逝 感嘆............
+ 或許自己真的是異類吧，十年所悟的觀念竟無人能懂，那往後的歲月足跡該怎麼辦？
+
+ 感嘆　人心為何放不下執著？為何無法客觀？無法去除我私？為何執著於仇恨？
+
+ 此念不除　談修？論行？　皆成鏡花水月空談一番
+
+ ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+ 剛剛才仔細看完所有的文章.
+ 真的還是想說算了吧
+
+ 偏偏仙子夫妻在要貼回應之前還是徵詢我的意見,我只能無奈的說你貼吧.
+ 畢竟我不能讓他夫妻一直當啞吧
+
+ 對於幫本版廣告宣傳一事的解釋,是因為常常有人誤解我的意思而加以傳話,
+ 結果 傳來傳去傳成仇,所以自己再多加解釋一遍,避免有的人又誤會.
+ 畢竟　直接對談都會誤解了，何況是過口言詞。
+ 甚至版面上自己的許多心路留言，每一個人看出來的意思都不一定相同。
+ 跟我要表達的原意，有時更是相去千里。
+
+ 對於即時通的聊天內容話題,掛包跟我解釋他所謂的八卦
+ 〔現代年輕人的八卦定義〕
+ 就是閒聊不特定主題開開玩笑無傷大雅的談話,叫做八卦
+ 而不是背後四處道人長短
+
+ 雅虎即時通的功能,對我來說是一些網友間互通訊息的橋樑和問我私事問題的管道,
+ 跟一般的信箱功能相去不遠
+
+ 開共同聊天室,自從上次alex事件之後我接電話與在聊天室的時間就減少很多了.
+ 很多人都說我最近不太理人,一來是想給自己更多時間,二來教的多問題更多.
+ 教了一大堆，結果聽錯一大片。
+ 根基不足造成我要表達的，跟對方所吸收的成反方向。
+ 無私付出的時間與心血，換來的是無知的無情打擊。
+ 毀謗　背叛　偽造文書等等　　我都沒有追究
+ 我選擇道歉了事，真是我的錯嗎？
+ 我手中的證據足以興訟，但是我眼淚豁者傷心的血往肚裡吞
+
+ 告訴自己不是教人無色無相嗎？
+ 那就真的去做吧。
+ 放下名利色心
+
+ 後來我決定多多疼惜自己，不要日夜不分的幫助他人了。
+ 夜晚我不再接電話，對方有錯我直接明講不再用暗示，盡量不再犧牲既定的私人時間幫助他人。
+
+ 畢竟　人家有時沒感謝就算了，有時還當作是應當欠他的，誰叫你是修行者？
+ 所以我將自己外在的心境調整為平常人，不再寒風攝骨停留高處
+ 留言也不再風言清流取而代之的是輕言流語
+ 畢竟　早已決定要學習真正的不重名相了，所以形象並不重要。
+ 有緣的就留下來，無緣的就掰掰
+
+ 我一不在，大家開聊天室的時間根本就很少。
+ 畢竟網友跟網友之間不是每一個都談的來的。
+ 有人會以為我以前都很多時間幫他，為何近幾個月都是長或短說甚至推卻。
+ 以為我排斥他或是疏遠他了
+
+ 其實我沒有排斥或是疏遠特定人士，而是給自己更多時間罷了。
+ 保持自己與網友的距離，只為了讓友誼能更長久。
+ 每一件事的用心，不一定有人了解，但是自己默默在做。
+ 反正已經抱定了，會了解自己的人就算是聽到自己殺人，他都會認定一定事出有因。
+ 不了解自己的人，就是剖心挖肝給他吃，他都要懷疑自己有目的。
+
+ 所以　　放下
+
+ 將自己今夜的心情紀錄下來，只希望雙方看一看
+ 我自己走的泥路雖然幾乎淹沒自己，但是多數朋友的信任支持讓我走出來
+
+ 身邊的鄉間小路等著自己，別再待在水稻田中了。
+ 一不小心會溺斃了自己
+
+ 放下武裝與自尊　　牽著朋友的手上岸吧
+ 躺在小路上聞聞野花的清香，
+ 休息一下
+ 繼續往山中去尋傳奇
+ 別把時間浪費在泥濘中打滾 
+
+---
+
+---
+
+### 明心見性
+
+*發表於 2004-6-9 21:54:04*
+
+『明心見性』
+
+ 心是無相的，你認為它在哪裡它就在哪裡，並不是我說它在哪裡它就在哪裡。
+ 你認為它不存在它就不存在，你認為它在他就無所不在。
+
+ 找的到心在哪裡的人，自然就有心知如何修。
+ 找不到心在哪裡的人，當然就無心可修起了。
+
+ 明心見性是自自然然的，無須談也沒的談，當自己執念想談的時候，心已經現偏執相了。
+ 所談所知也已經偏離本心，無法正本清源了。
+
+ 當自己的知識達到越飽和的境界，需更知謙讓。
+ 如此才能讓自己有更大的迴旋空間，轉〔識〕為〔智〕，反之作繭自縛。
+
+ 知識 永遠是字面上的文字遊戲唯一[定相]。
+ 智慧 卻是有無窮盡的時間與空間，近無相。
+
+---
+
+### 知命
+
+*發表於 2004-6-9 22:01:07*
+
+  『知命』
+     沒有人能知正確的未來，既然不知如何知命呢？
+ 　　知命說簡單一點就是看的開。
+ 　　我曾說過對任何情勢都是近最大的努力，最小的期待。
+ 　　我們並不悲觀面對這一切，該發生的它早晚會發生。
+ 　　
+ 　　知命就是將好事盡力發揮，壞事盡力解決。
+ 　　就算是不能解決也去留隨心，自己已經盡力而為了。
+ 　　反正擔心也不能解決問題，那擔心難過何義？
+
+ 　　知命就是樂觀面對所有未來，不憂慮不喪志。
+ 　　努力學習面對未來就是知命。
+
+ 　　這是以哲學的說法
+ 　　以靈學的說法就是尋找出輪迴轉世的目的。
+
+---
+
+### 一分耕耘一分收穫
+
+*發表於 2004-6-9 22:04:26*
+
+一分耕耘一分收穫
+ 修行沒有捷徑
+
+ 捻花微笑　一句成佛　
+ 有沒有人想過，在那當下覺悟的背後，覺者經過多少累世累劫的努力。
+ 莫見人眼前的成功，而忘卻那背後的努力。
+
+---
+
+---
+
+### 是非與真理
+
+*發表於 2004-6-9 22:05:08*
+
+是非與真理，並不會越辯越明，反之心中的無明火，越燃越旺。
+
+---
+
+---
+
+### 道歉與認錯
+
+*發表於 2004-6-9 22:06:03* 
+
+道歉與認錯是學習與進步的指標。
+ 自己如果真的犯錯而不改過，那就再也不會進步了。
+
+ 〔因為自己沒有錯當然也不會改過〕
+
+---
+
+### 逆境
+
+發表於 2004-6-9 22:06:46
+
+每一次的逆境等於是對自己的一種驗證，希望每一次的逆緣都能轉為善緣。
+
+ 人生在世有太多的順緣與逆緣，等待著我們去化為善緣　進而了緣。
+
+ 生命輪迴與轉世的目的　不斷的學習與圓滿。
+
+---
+
+---
+
+### 無題
+
+發表於 2004-6-9 22:08:08
+
+關於過去種種智 不可說不可說
+ 關於現在種種智 不可說不可說
+ 關於未來種種智 不可說不可說
+
+ 當靈光悟性開啟的時候，諸般智慧如川流大海循環不息。
+
+ 蒙懂無知時志向比天高
+ 智慧初開時知謙虛自讓
+ 透徹天機時須擬如無我 
+
+---
+
+---
+
+### 三人行必有我師
+
+*發表於 2004-6-9 22:09:28*
+
+『三人行必有我師』
+
+ 並不是三個人當中一定有一個比自己強.
+ 而是三人當中,不管對或錯都有值得自己省思改進的方向.
+ 對方的錯,提醒自己不要重蹈覆轍.
+ 對方優點,值得自己學習.
+
+ 每一篇留言,都是大家的省思.
+ 用客觀的心態,包容的胸懷去欣賞.
+ 不一定要認同或是反對.
+ 而是告訴自己,今天如果對方是我的話.
+ 我會如何想如何做?
+ 能否比對方更好?
+
+---
+
+---
+
+### 法性
+
+*發表於 2004-6-9 22:10:24*
+
+『法性』
+
+ 清清楚楚明明白白，當自己身體力行善念之後，法性自然顯現。
+ 文字的詮述，永遠是字面上的意義。永遠不是自己的心得感受。
+
+ 法性：定而非定　不動不靜　非想非淨　無性無相
+ 　　另一簡略說法為　原佛性　
+ 　　文字無法完全解說，只能靠自己去身心力行才有所感受。
+ 　　每一階段的感受接有所不同。
+ 　　所以無法用文字完全正確的詮述。因為文字無法解釋一個不具[定相]的東西。
+
+---
+
+---
+
+### 修行的要求
+
+發表於 2004-6-9 22:11:04
+
+『修行』
+
+ 在人生的旅途上，不斷的省思與改進。
+ 沒有很大的困難，就在自己做與不做之間。
+
+---
+*發表於 2004-6-9 22:12:14* 
+
+『修行』
+
+ 修行的要求就是無所求 無所念 無所住。
+
+ 一切歸於原點至靜 至善 至定的原佛性境界。
+
+ 雖然我目前也做不到，但自自然然盡力而為。
+
+---
+
+---
+
+### 無相
+
+*發表於 2004-6-9 22:13:23*
+
+『無相』
+
+ 個人生活上的不順，恰巧可以作為檢視多年來自己的修行所成。
+
+ 如無 人、我、壽者、眾生相就不必在意身旁所幻化與境相。
+
+ 身旁的言語現實演化就當作真空幻化妙有妙無。
+
+ 既為真空幻化妙有妙無就不入於心 無所感慨。
+
+---
+
+---
+
+### 空性實相
+
+*發表於 2004-6-9 22:16:45*
+
+『空性實相』
+
+ 文字再如何解釋文字就是文字，那都還是執著於智相與字相。
+ 文字的解釋都是別人的感覺去化為文字相。
+ 文字如何去完整的詮述內心抽象而感性的空無呢？
+
+ 字面經典永遠是別人的東西，等自己實際走一遭才能真正了解何為[空性實相]
+ 如果覺得說那是這一輩子都做不到的境界。
+
+ 那既然做不到又何必執著去了解它的深解呢？
+ 隨緣而近 該了解時自會了解，不該了解時 敲破了頭還是不解？
+
+[善有所為即非真善]
+
+
+[知而不為](知而不為.md)
+
+---
+
+### 善有所為即非真善，修行有所求即非修行
+
+*發表於 2004-6-9 22:17:36*
+
+善有所為即非真善，修行有所求即非修行
+
+ 一切隨緣自然。
+
+---
+
+### 知而不為
+
+*發表於 2004-6-9 22:19:24*
+
+知而不為　所有的知識修為，將化為清風一切歸零。
+
+---
+
+### 修行 流行
+
+*發表於 2004-6-9 22:23:57*
+
+『修行 流行』
+
+ 修行 ＝＞　流行 休閒 時尚
+
+ 功利社會的副產品
+
+ 在一陣子的名利追逐之後，心累了。
+ 開始想著該如何讓心靈有著一片休閒的空間。
+
+ 跟所有的休閒時尚一般，有需求就有供給。
+ 休閒產業包含　旅遊　運動　流行　品味
+
+ 修行　幾曾何時也變成一種流行？
+ 功利社會的流行時尚。
+
+ 標榜著各種功能，無所不包。
+ 求心靈平安的　
+ 更多錢財的
+ 做盡壞事，去贖罪之後，再出發繼續行壞。
+ 提供各式各樣心靈的解脫術。
+
+ 只要你給錢　各種宗教修行活動任你挑
+
+ 修行　幾何時被名利淹沒了？
+
+ 今夜與友人談話在他對我的一陣問答之後心生感慨
+
+ 現代人對修行的心念與看法？
+
+ 又該用何等心境看修行？
+
+ 到底是修行？
+
+ 還是只是做人之道的實踐而已？
+
+ 是真的修行嗎？
+
+ 還是另一種型態的追逐名相？
+
+ 一夜的深度長談卻不能躍然紙上，思想只能靜靜的放在角落。
+
+ 靜靜扮演好　人的角色
+
+---
+
+---
+
+### 成也經典、敗也經典
 
 *發表於 2004-6-11 21:37:51*
 
@@ -47817,7 +48474,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
+### 有感
 
 *發表於 2004-6-13 22:38:48*
 
@@ -47936,1097 +48593,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
-
-*發表於 2007-10-15 23:20:06*
-
-卡拉我剛剛為了找餐廳地址與交通方式所以去看以前的網聚資料，看了之後讓我好像在看回憶錄一樣。這是其中一篇回應，或許剛好可以跟你現在的心情搭配。
-
- ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
- [這篇文章最後由靜竹林在 2007/10/17 01:01am 第 2 次編輯]
-
- 為何我從不去看我的未來？
- 也是因為有時後預計跟實際的差異太大。
- 既然局勢可能瞬息萬變？
- 那我是否該以不變應萬變？
-
- 後來有一段日子已經習慣不變之後，又發覺..........
- 不管他變不變，我隨著變也隨時不變。
- 心中已經沒有變了。
-
- 為了實踐沒有變，在初期上
- 外在的肉體為了現實不得不變，但是內在的心中已經沒有所謂的變。
- 肉體在表面上有一些像行屍走肉，隨局勢流轉而動。
- 但是心中卻沒有行屍走肉的頹廢。
- 而是一種類似[空相]的心。
-
- 不管萬物如何聚化。
- 萬般皆自然。
-
- 既然是自然，又何來變。
- 既然沒有變，又和須變。
-
- 從汲汲於變＝＞應變＝＞隨變＝＞不變＝＞沒有所謂的變
-
- 沒講不會懂，雖然經過講解就會懂。
- 看我所列出的道理似乎很簡單。
- 但是真正要做到？
- 卻是知易行難 知難行易啊。
-
- ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
- 境界高？以前的許多紛爭就是為此而起。
- 境界高嗎？我沒感覺過。
- 對我來說那只是生活過程的感覺，對曾經或是正在走過的人來說，絕不會覺得境界高，只會覺得苦，真的不是人過的。
-
- 所以一路走來我從未覺得這有什麼高不高的東西，而是覺得我還沒發瘋或是自殺已經是萬幸了。
- 我真的不喜歡修行，我只是想活的安逸快樂而已，我跟多數人一樣是被趕鴨子上架的。
- 會這樣一路走過來，說穿了只是為了活的安逸快樂一點，所以不得不轉換心境去順應已經發生在眼前事情。
- 如果不轉換心境那我會活的很痛苦，所以我開始觀察環境。
- 同樣的狀況不一樣的人會出現什麼心態？
- 同樣的狀況不一樣的心態會出現什麼樣的結果？什麼樣的人生？
-
- 經過比對思考實踐之後，發現是心態展現在個性，個性在主導人生。
- 所以我開始改變自己的部分個性，選擇在什麼樣的情況下我要用什麼樣的思緒心態去對應，可以得到最好的完美？
-
- 只要思緒上有空閒我都會無指向性的想著過去，如果重來一次的話，那我要怎麼做可以更好。
- 如果人生重來的話，我是否依然如此？
- 如果所有開始的條件都不變的話，那笨蛋的我應該還是跟現在一樣的結果。
-
- 因為什麼個性 選擇什麼樣的道路 出現什麼樣的結果，這就是因果。
- 除非再一開始就出現立足點的不同，那就可能出現截然不同的結果。
-
- 現實的我已經不可能再年輕了，所以我沒有太多機會在去玩試試看的遊戲。
- 我沒機會但是我周遭的環境的年輕人可以提供借鏡給我觀察，當他們從小時候的個性去觀察他的未來，長大之後的成就，生活態度模式等等包含他們的道德素養。
-
- 周遭的環境可以提供我們很多觀察的機會，把別人的生活模式，如果換做是自己來主導的話，那我會怎麼做？又會出現什麼結果？
- 日復一日 年復一年 這就是我部分的生活思維模式。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2007-9-4 10:38:31*
-
-『  自問  』02/06/13 13：29
-
- 在這個世上有幾個人嚴以律己寬以待人。
-
- 有幾個人沒有自私心，心口如一言行一致。
-
- 有幾個人能夠犧牲自己成全它人的。
-
- 有幾個人遇利益分歧點,能不起心動念。
-
- 有幾個人受到欺負得能夠不忿氣。
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-7-20 23:54:12*
-
-人世間任何世物感觸，都是以心為觸媒。
-
- 若心不起共鳴，則無所感，無物感。
-
- 所以當諸事不落心間。
-
- 者心本無一物。
-
- 者無處惹塵埃。
-
- 當修行為識心時，行者所修  為物相  為表相。
-
- 故而要時時勤擦拭，不使惹塵埃。
-
- 如同我們日日限定經咒數十遍或萬遍，為了計數分心則無法入心。
-
- 因為執著於次數功效等......而忘了經咒真正的要義。
-
- 口中唸著[無色無相]。
-
- 但心中卻追尋越大的佛相越峻偉，越大的寺廟越靈驗。
-
- 此乃行者之悲哀。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-3-31 15:42:02*
-
-宏觀的包容 智慧的慈悲
-
- 每一個人都會犯錯，包含我自己．
- 所以基於將心比心我幫每一個人找理由來說服我自己，給每一個人機會改過．
- 類似的事件常常在我身邊上演．
-
- 人不怕犯錯只怕犯錯不改過，更怕的是不認為自己有錯．
- 顏回不二過
-
- 我一向靜靜的等待，等待每一個人真正的覺醒．
- 希望達到不退轉的覺者境地，順而往前 逆者微退 如同太極拳一般不頂不抗借力使力．
- 昨夜在火車上我跟身旁三人解說法相，諸法如何通相 常相 [空相]．宇宙諸法一理萬化．
- 對此法相一理通 百理通 萬法出於一法也歸於空法謂之如來．
-
- 人生的路途難走，輪迴難轉何苦斤斤計較別人的過錯，只要對方真的悔過又何必計較太多．
- 但是  悔過是真的悔過嗎？從此不再犯嗎？ 每個人心中有一把尺衡量著這一切....
-
- 法無常法我也不一定是對的．畢竟我只是一個常人．
-
- 給網友 當我們生氣時，告訴自己少說話．
- 生氣時所說的往往很傷人，說出口的話如同潑出去的水．
- 已形成的傷口很難平復完全．
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-2-3 15:09:09*
-
-小弟對儒.釋.道之字義可說一竅不通。皆因當年初學時菩薩不願我再接觸宮.廟.壇.經典.禮法等.....
-
- 菩薩曰：心性未定心智未開，恐未蒙其利先受其害。心智既開者始能與佛同心，知經典之要義。
-
- 須知文字為一[定相]隨觀者心性之.起.伏.轉.折.而生不同之意境。
- 且經典歷二干五百年之口傳 記敘 遺漏 文字翻譯 文字語言口音變遷等.......
- 再加上自以為是之高僧大德修改已偏離來意境。
-
- 我說：那既是己生錯誤為何留傳不予消毀。
-
- 菩薩曰：錯有錯著一切自有天意，佛法落諸文字已是錯，再錯又何妨有德者得之。
-
- 我說：那經典奧義多變，這樣看也對那樣看也對，再換個角度 又發現通通都不對，再加上年久失真。
-
- 這樣要如何學起，怎樣才是真 才能補齊那失落心境。
-
- 菩薩曰：唯將己心溶入經典之情境，常存於心用心比對始得正心。
- 唯與佛溶入相同之意境，始知佛心 才能以心相印。
-
- 我說：那是不是像我與人對話，常有誤解而生嫌隙相同。 
- 那是不是要與人對話時，設身處地將己心入他心溶入相同之背景處境，始知對方之心境。
-
- 那是不是看人胃痛難當自己從未痛過，怎麼想像也不可能跟當事感受相同。
- 見人喪親之痛自己未曾有過，也不知如何痛徹心扉。
-
- 那同等義　我今日[心之行徑]未與菩薩設相同之等地 怎知[菩薩心]怎知經典所要表達之正[佛心]。
-
- 菩薩微笑以退............
-
- 此後 以心向善 我心不勉強沒有打坐沒有唸經。 
- 但求平日將我心近菩薩心 不嫉 不恨 不悔
- 常以平常心 慈悲心 提點自己。
-
- 心生氣憤時 心生不平時 心生貪念時 心生私念時。不為自已找藉口，以平常心提醒自己內心不可悸動。
-
- 如是日復一日年復一年 
-
-------
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-3 22:58:22*
-
-人投胎轉世.本就有不同的目地。
-
- 主要是要我們去体會感受.喜 怒 哀 樂 生 老 病 死 苦 等的感覺.並思考如何去面對。
-
- 人生就像電腦生存遊戲一般，如何尋找出路？萬一走入絕境失敗。
-
- 沒事  
-
- 按個按腱，重新投胎 再來一次生存遊戲。
-
- 人生如夢即是如此。
-
- 只是這個遊戲版本太精密附屬功能太強也太龐大了。
-
- 只要你一執著，那你就永遠陷在裏面出不來了。
-
- 所以人生別太再意。
-
- 思考著我要怎麼活的精彩有意義，盡力而為不要輕言放棄。
-
- 萬一失敗沒有悔恨，如此你才有機會再來一次。
-
- 當然你也可選擇尋找出口,跳脫輪迥不再玩這個遊戲了。
-
- 但這條通往出口的路卻是更難通行，充滿困難 陷井 幻境 。
-
- 但走出黑暗再回頭，你會發現自己怎麼這麼笨，玩遊戲玩的這麼入迷，都忘記自己本來的身份了。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-12-13 00:08:51*
-
-每一位失去愛戀的男女都在詢問和合術。
-
- 和合術真的有效嗎？
-
- 前幾天一位專做和合術的老師被刑警抓走了。
-
- 所以和合術有效嗎？
-
- 或許有許多男女真的有因為和合術復合。
-
- 可是人心的力量往往超越符咒的力量，所以要見效真的很難。只有他一個女
-
- 一件成功率很低的法術有必要花大錢去做試驗嗎？
-
- 一件成功率很低的法術，那些成功的案例是否也可以說是人為的努力成功的？  見仁見智
-
- 但是對我來說我卻會將這些成功的案例歸列於人定勝天。
-
- 所以我從不建議人家做和合術，還是靠自己努力吧。
-
- 如果一切還是枉然，那就再尋最愛吧。
-
- 人生不是只有他一個男人或是女人。
-
- 至於所謂放不放的下愛戀，也全在於自己。
-
- 當初讓自己陷入愛戀的也是因為自己對自己的暗示，告訴自己真的很愛他。
-
- 所以反向思考，能否走得出來也全在於自己是否要解開自己對自己的暗示。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 21:54:04*
-
-『明心見性』
-
- 心是無相的，你認為它在哪裡它就在哪裡，並不是我說它在哪裡它就在哪裡。
- 你認為它不存在它就不存在，你認為它在他就無所不在。
-
- 找的到心在哪裡的人，自然就有心知如何修。
- 找不到心在哪裡的人，當然就無心可修起了。
-
- 明心見性是自自然然的，無須談也沒的談，當自己執念想談的時候，心已經現偏執相了。
- 所談所知也已經偏離本心，無法正本清源了。
-
- 當自己的知識達到越飽和的境界，需更知謙讓。
- 如此才能讓自己有更大的迴旋空間，轉〔識〕為〔智〕，反之作繭自縛。
-
- 知識 永遠是字面上的文字遊戲唯一[定相]。
- 智慧 卻是有無窮盡的時間與空間，近無相。
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:10:24*
-
-『法性』
-
- 清清楚楚明明白白，當自己身體力行善念之後，法性自然顯現。
- 文字的詮述，永遠是字面上的意義。永遠不是自己的心得感受。
-
- 法性：定而非定　不動不靜　非想非淨　無性無相
- 　　另一簡略說法為　原佛性　
- 　　文字無法完全解說，只能靠自己去身心力行才有所感受。
- 　　每一階段的感受接有所不同。
- 　　所以無法用文字完全正確的詮述。因為文字無法解釋一個不具[定相]的東西。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-4-26 19:47:15*
-
-當我們認真修行改進之後，在每一段日子回顧以往總會覺得自己以前好笨，不斷反省不斷改進。
-
- 時日既久之後，會發現以前奉為圭臬的真理，竟不再是真理？？？
- 因為我以前懂得的經典佛法幾乎等於零．時日久後才看到[法無常法]這句話。
-
- 小時候認為買玩具是天經地義是生命的全部，但長大後卻罵晚輩只知買玩具打電動是錯誤的。
-
- 同一個人對同一件事卻有截然不同的看法，就是法無常法．也為何我會常說對任合事不要存有定見。
-
- 我並不比別人特殊 聰明，反倒是比別人笨，所以要比別人更用心過生活。
-
----
-
----
-
-### 文集/笑談生活
-
-*2004-4-30 00:48:46*
-
-眾生卻迷失在物質化的因果輪迴中無法超脫
- 是否因果即是物質世界中的一個運作公式
-
- =========================================================
-
- 其實不管是佛家的因果論，或是道家的陰陽太極論
- 本身就是一個生命的動
-
- 生命有動就會有軌跡，就會有交錯　摩擦　碰撞
-
- 這些交錯　摩擦　碰撞的過程與結果跟延續
- 就是因果也是太極
-
- 當這些動作真的都消失時
- 一切歸於寂靜
- 也可說是死寂
-
- 這個時候一切歸零
- 它是開始
- 也是結束
-
- 它可說是生
- 也可說是死
-
- 可說空中妙有
- 亦說有中妙空
-
- 萬物本就是要有循環的［動］
- 才會感覺有生命現象
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:19:24*
-
-知而不為　所有的知識修為，將化為清風一切歸零。
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:01:07*
-
-  『知命』
-     沒有人能知正確的未來，既然不知如何知命呢？
- 　　知命說簡單一點就是看的開。
- 　　我曾說過對任何情勢都是近最大的努力，最小的期待。
- 　　我們並不悲觀面對這一切，該發生的它早晚會發生。
- 　　
- 　　知命就是將好事盡力發揮，壞事盡力解決。
- 　　就算是不能解決也去留隨心，自己已經盡力而為了。
- 　　反正擔心也不能解決問題，那擔心難過何義？
-
- 　　知命就是樂觀面對所有未來，不憂慮不喪志。
- 　　努力學習面對未來就是知命。
-
- 　　這是以哲學的說法
- 　　以靈學的說法就是尋找出輪迴轉世的目的。
-
----
-
-### 文集/笑談生活
-
-*發表於 2010-2-22 00:11:10*
-
-有人問我「空」既然是空，怎會生出因緣
-
- 空 本是一個赤裸裸的空體，不具念一切境。
-
- 當把空當成是空空如也，那就是陷入文字相，才會有空怎會生東西的想法。
-
- 空者非空，乃無[定相]而有空相之說法。
- 舉設：某甲生不帶來死不帶去，生前家財萬貫，死後依然空空如也，那有錢嗎？甚至生命塵歸塵 土歸土，那他有命嗎？曾經有命 死後依然是無，一切依然成空。
-
- 此空 泛指一切非 恆常相，成住壞空，此空只是肉眼觀看成空，實質非空，流水蒸發成空，但是它真的空了嗎？
-
- 凡事莫依定規而見 不要用自己的成見去判定事務。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:16:45*
-
-『空性實相』
-
- 文字再如何解釋文字就是文字，那都還是執著於智相與字相。
- 文字的解釋都是別人的感覺去化為文字相。
- 文字如何去完整的詮述內心抽象而感性的空無呢？
-
- 字面經典永遠是別人的東西，等自己實際走一遭才能真正了解何為[空性實相]
- 如果覺得說那是這一輩子都做不到的境界。
-
- 那既然做不到又何必執著去了解它的深解呢？
- 隨緣而近 該了解時自會了解，不該了解時 敲破了頭還是不解？
-
-[善有所為即非真善]
-
-
-[知而不為](知而不為.md)
-
----
-
-### 文集/笑談生活
-
-*發表於 2007-9-4 11:28:32*
-
-空門 02/06/14 19：58
-
- 自己的修行之路是淒迷茫然的　常常偶偶獨行
- 回首來時路　心中了悟.孤寂.空.虛.悔....紛踏而至.
-
- 當你在越過那寂莫迷惑山林之後你會發現，現在的感觸竟然全是虛像。
- 眼前有更寬廣的視野在等你，也有更多迷宮等你用大智慧去走。
- 例如悲.歡.離.合.生.老.病.死.苦.你要用何种心態去面對走過。
- 且不留下一絲牽掛[包含別人對你的恩.情.慾.怨.恨.念]皆不得
-
- 現代人對古語[四大皆空]多是誤解。那是智慧的[空]且要空的有技巧。
- [心性]來去自如才是是[如來]本意，目前祇有唯心 唯性 唯靈才可達到此方向。
-
- ps唯靈是指靈光一閃,智慧之意而不是靈魂.
-
- 很多人自欺看破紅塵,而遁入空門.為何叫[遁入]即潛遁,逃避之意.
- 若真的看破紅塵.那塵[不落兩肩]何來空門何來塵呢.紅塵與空門不都成了,心外之物嗎?
- 何謂[心無罣礙,無罣礙,故無有恐怖,遠離顛倒夢想究竟,涅槃三世]意境即在此.
-
-[悲喜一念之間](悲喜一念之間.md)
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-4-30 00:38:04*
-
-空門之中好修行，紅塵之中寸步難行。
-
- 身入紅塵而不落紅塵。
-
- 佛法就是這麼無常法無常相。
-
- 看我們用什麼心去對應。
-
- 當自己做到心經中的境界時，就可以身入紅塵而不落紅塵。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:05:08*
-
-是非與真理，並不會越辯越明，反之心中的無明火，越燃越旺。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-4-27 00:33:07*
-
-每一個宗教的立意都是好的，只是現在的人為將自己的教意與功效誇大。
- 讓每一個人以為信了某一宗教就可以得到某些利益。
- 也因為人性本貪，不如此真的很難吸收信徒，所以現在存續下來的宗教。
- 哪一個沒有使用利誘？
-
- 天堂　佛國　道天　聖境
-
- 沒有這些利基是難以吸收龐大信徒的。
- 這也是這些宗教為了存續下去不得已要屈於現實。
-
- 只是因為許多宗師為了擴展自己的勢力，又加倍渲染神蹟，造成今日的宗教亂相與人心浮濫。
-
- 這些亂相是誰的錯？
-
- 是生活在這個空間每一個人的錯。
- 每一個人都有責任去喚醒身邊的人，勿盲從與迷信宗教。
-
- 為何我這３年來在網路上要不斷的去提醒　　修行以修身　修心　修性為基礎
-
- 為何我要常常告訴自己身邊的人，如果我們能將個人倫理公民道德做的完善，那就已經是修行了。
-
- 為何我要如是說？
-
- 我們身邊看到聽的所謂修行者　宗師　法師，有幾個人能做好公民與道德？
- 連基礎的做人之道都沒做好，就痴心學佛成佛？
- 或許說是學做人還差不多。
-
- 連人都還做不好，如何當宗師法師上人？
- 當然　上有所好下必成風，上梁不正下梁歪。
- 錯誤的師父是很難教出真正的學生的。
-
- 在這一次要想框正多數人的宗教思想。
- 我想是難了。
-
- 千百年來，人心一直沒變。
- 一直都是如此的貪與私。
-
- 用利益去吸收的教徒，真會成就嗎？
- 歷史已經給我們答案。
-
- 但是可憐的人類，依然被那些誤道宗師所牽引而繼續錯下去。
- 千百年來的模式不斷重複　輪轉
- 是業力也是輪迴更是共業。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-2-15 18:34:14*
-
-活在當下....與"無色無相"有矛盾嗎？
-
- 佛說修行要有大智慧。
- 人家說要活在當下，就是要我們不要執著於過往，亦不擔心於未來。
-
- 從不執著於我念.我相.放大到不執著於色相，如此依序漸進就不矛盾了。
- 很多人生或經典見解，都是一步一腳印走出智慧與解脫。
-
- 莫聽人道:某一派別，道法,經典,為最上乘.便一路追趕。
-
- 須知身為初學者的我們，就算最初淺的.道.法.窮己一生可能都做不到。
- 又何必捨低逐高空中築閣呢。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:23:57*
-
-『修行 流行』
-
- 修行 ＝＞　流行 休閒 時尚
-
- 功利社會的副產品
-
- 在一陣子的名利追逐之後，心累了。
- 開始想著該如何讓心靈有著一片休閒的空間。
-
- 跟所有的休閒時尚一般，有需求就有供給。
- 休閒產業包含　旅遊　運動　流行　品味
-
- 修行　幾曾何時也變成一種流行？
- 功利社會的流行時尚。
-
- 標榜著各種功能，無所不包。
- 求心靈平安的　
- 更多錢財的
- 做盡壞事，去贖罪之後，再出發繼續行壞。
- 提供各式各樣心靈的解脫術。
-
- 只要你給錢　各種宗教修行活動任你挑
-
- 修行　幾何時被名利淹沒了？
-
- 今夜與友人談話在他對我的一陣問答之後心生感慨
-
- 現代人對修行的心念與看法？
-
- 又該用何等心境看修行？
-
- 到底是修行？
-
- 還是只是做人之道的實踐而已？
-
- 是真的修行嗎？
-
- 還是另一種型態的追逐名相？
-
- 一夜的深度長談卻不能躍然紙上，思想只能靜靜的放在角落。
-
- 靜靜扮演好　人的角色
-
----
-
----
-
-### 文集/笑談生活
-
-#修行斷慾 #佛學 #佛教 #執著
-
-*發表於 2007-9-4 11:26:39*
-
-修行　斷慾 02/06/14 12：02
-
- 修行的路上最常出現的難題就是我執與慾念
-
- 其實大多數的人，都不認識自己。
- 到底自己真正需要的是什麼？
- 能做到的是什麼？
- 做不到的是什麼？
- 自己應該先做的是什麼？
-
- 一連串的問題找到答案之後才能談〔修〕
- 不然連方向與目的地都不知道如何〔行〕
-
- 大多數的人都知道自己無法斷除性慾。
- 但是常常有人就執著在做不到的目標上。
- 我想每一個企業的年度目標決不會定一個達不到的標的。
- 從小店面到連鎖企業到整個財團∼跨國集團　總要循序漸進
-
- 斷除慾念就只有性慾嗎？
- 錢慾　物慾　情慾　名慾　食慾　權慾　太多太多的慾念等著我們先去擺脫
- 又何苦執著於性慾？
- 修行該選擇自己做得到的目標先做。
- 連一個小小的知足常樂 安貧樂道都做不到了。
- 如何談斷慾。
- 隨著年華逝去，慾念也隨著一點一滴的消失。
- 凡事隨緣 該來的會來該去的自然會去。
-
- 每一次看到別人在談經論戰，大談妙有妙無　法性如空　西天成佛　神聖為下六道的時候。
- 我不知該笑？還是該悲？
-
- 這是很多自認為是正信佛教徒常做的事。
- 自己連人都還做不好了，就像落榜的人還嘲笑別人考的學校不入流一般。
- 當這些自認為覺者的高人批評神聖不入道的時候，別忘了自己的德行還在神聖道之下。
- 其實　真正修行的佛教徒是不會長論高低的。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-4-30 00:38:51*
-
-一般人認為修行的苦難考試不斷
- 但是實際的內相呢？
-
- 萬法唯心造、一切唯心轉....
-
- 事物本身所呈現的現象是沒有好、壞、苦、樂之分的。
-
- 只有經過我們的心去感覺區分之後所轉化出來的結果，
- 才會有所分別.......
-
- 但是當我們放下之後。
- 就沒有考試 沒有這一切 沒有人生 沒有六道輪迴。
-
- 但我們依然在輪迴中。
- 與友分享........... 
-
----
-
----
-
-### 文集/笑談生活
-
-發表於 2004-6-9 22:11:04
-
-『修行』
-
- 在人生的旅途上，不斷的省思與改進。
- 沒有很大的困難，就在自己做與不做之間。
-
----
-*發表於 2004-6-9 22:12:14* 
-
-『修行』
-
- 修行的要求就是無所求 無所念 無所住。
-
- 一切歸於原點至靜 至善 至定的原佛性境界。
-
- 雖然我目前也做不到，但自自然然盡力而為。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-2-15 18:42:10*
-
-修行修心就是用不同的眼光，用不同的同理心，去看一件事情在用客觀的智慧去思考，選擇一條最正確道路去走。
-
- 眾生皆平等 眾生皆平等盡力去做，雖然對我們來說一點也不平等，但是開始與最終是平等的。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-4-30 00:45:15*
-
- 『  修習心得  』02/06/14 02：15
- 平日對任何事物皆用心以對。
- 時時以第三人的身份問自已，對此時發生事件的心靈悸動是正確的嗎？
- 對他人的善意是自然的內心表現？亦或是經由意識[識心]思考的表現呢？
-
- 在路上發現他人遺物？
- 是一開始就不為所動，亦或是內心有一絲絲異動？
- 以經典上菩薩之心境.行徑.時時比對自己內心是否有違佛心呢？
-
- 如是不勉強.不懈怠.自自然然.日復一日
- 每一段時日再回首遙望往日的自己....
- 會發現！
- 以前自己的思考模式 內心行徑，是多麼渺小而不知真正的佛是在自己心間。
-
- 先賢常說:人人是菩薩人人是佛，禪意何其深呀！
- 以前小弟常自問人就是人怎麼變成菩薩呢？
-
- 在時時默省內心數年之後始發覺。
- 人人皆曾有過由內心同情他人濟渡他人代人受苦痛的心境。
- 那就是狹意的菩薩心呀。
-
- Ps.在小弟個人認為廣意的菩薩心，是指對內外六道眾生.靈.皆有此慈悲心境。
- 而非只對身旁至親好友亦或人間道而言。
- 雖稱狹意菩薩心，但已是人間難得了。
-
- 將此瞬間之菩薩心境.細細感受.保留瞬間的感覺.由內而外由親人至眾生。
- 將此心境保留一秒一分一時一日 至消失止.........
-
- 那段期間您就是菩薩！
- 經典中 傳說中 菩薩不必他求高僧大德。不必遠求大陸.西藏.尼泊爾.亦或西方淨土。
- 菩薩就在你的自心 自性中，修行不必執著於經典奧義。
- 常以平常心 觀自心 觀自性
-
- 修行之路 門門可通，入門不同 延途風景不同，心境感想也不同。
- 何苦執著於我知 我見 我學 我想 才是正法旁人皆為誤學？
- 須知只要本持正知.正見.慈悲.智慧.雖時間.路途.法門不同萬法歸宗。
-
- 其實顯法 密法 禪法 道法 法輪大法 基督法 天主法 回法 論至頂點,皆為同一[善法]
- 只是人類的狹小心念 名利做遂，為擴大版圖.污滅.排除異己，造成種族.宗教.林立.殺伐四起。
-
- 唉.....空夢一場.何必呢？此非各教正信之途矣。
-
----
-
-### 文集/笑談生活
-
-*發表於 2007-9-4 10:42:30*
-
-『 悟法　誤法 』02/06/13 13：42
-
- 云云眾生落入凡塵皆有其定數，輪迥轉世川流不習成住壞空循環不斷。
- 修行之路眾生皆平等，無形象 位階 年歲之差異。
- 自自然然順心而行，如若相信生死輪迴若真入心　
- 當知
-
- 設若：今生是我父母眾，怎知其前生是我恩人 僕人 仇人 寵物？
- 今生之我功成名就名利加身，怎知我前生是.善人.殘者.畜牲？
- 設若：捨棄自我之名相相信前言者，生不二心了悟眾生皆平等之心靈奧義，由內而外緩步奉行之。
-
- 固而今世轉而為人有此識心有緣修心，當感謝上蒼之垂憐矣。
-
- 設若：行者得表相之成就，既行退轉自以為是誤用神通，自以為是神佛轉世四處宣揚廣收群眾自據一偶。
-
- 須知聖人者：謙虛自讓不表外揚，何況真神佛降世者。 世人當以智慧之心勿盲目附從。
-
- [九句佛偈一句魔言]蠱惑腐蝕人心之佛性，此似是而非之表相繼續留傳，真末法時期不遠矣。
-
- 世尊曾言：佛法不滅 唯佛法可滅佛法。
- 今見此五濁惡世之亂相，吾人當知佛陀之預言，不幸言中矣。
-
- 世人自欺欺人以為末法時期有彌勒佛法駐世。
- 人心不足蛇吞象，此一劫有佛陀之降世己是萬幸。怎可奢求下一劫之彌勒佛提前駐世，此一妄想謂之[貪]呀。
- 自助人助未得真努力即幻想人助，此一貪念末除怎悟正法？
-
- 抱持門戶之見，連凡人應有之寬廣包容心且無！怎悟正法?
- 此念未除！所悟之見皆為妄法。
-
----
-
----
-
-### 文集/笑談生活
-
-發表於 2004-6-9 22:06:46
-
-每一次的逆境等於是對自己的一種驗證，希望每一次的逆緣都能轉為善緣。
-
- 人生在世有太多的順緣與逆緣，等待著我們去化為善緣　進而了緣。
-
- 生命輪迴與轉世的目的　不斷的學習與圓滿。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 21:25:33*
-
-這是2年前一篇回憶文章，雖然時日已久人事已非，情緒已不在悸動，但心弦依然共鳴迴響。
-
- ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
- 『深夜寄情』
-
- 文章作者 靜竹林    發表日期 02/11/09 05：19
-
- 剛剛才跟一位修行友人談話完畢，對於如何教人一事感慨良多。
- 他說我一下之講太多高深的理念，許多高深的修行理念會被低階者誤會為邪法。
- 不管我如何解釋，境界不到的人就是會誤解其中意境，他說我太老實無私了。
- 無私到深藏的付出被當作是邪語，感嘆.....或許自己還要更自私一些吧。
-
- 覺得一夜深談受益良多,覺得自己還是要再做學習與調整
- 對學生的教導該有所保留，而不是無盡的付出。
- 本來想說先前的快速教法，全無保留的教一輩子學生都學不完了。
-
- 看來自己的所學真的要隨風而逝 感嘆............
- 或許自己真的是異類吧，十年所悟的觀念竟無人能懂，那往後的歲月足跡該怎麼辦？
-
- 感嘆　人心為何放不下執著？為何無法客觀？無法去除我私？為何執著於仇恨？
-
- 此念不除　談修？論行？　皆成鏡花水月空談一番
-
- ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-
- 剛剛才仔細看完所有的文章.
- 真的還是想說算了吧
-
- 偏偏仙子夫妻在要貼回應之前還是徵詢我的意見,我只能無奈的說你貼吧.
- 畢竟我不能讓他夫妻一直當啞吧
-
- 對於幫本版廣告宣傳一事的解釋,是因為常常有人誤解我的意思而加以傳話,
- 結果 傳來傳去傳成仇,所以自己再多加解釋一遍,避免有的人又誤會.
- 畢竟　直接對談都會誤解了，何況是過口言詞。
- 甚至版面上自己的許多心路留言，每一個人看出來的意思都不一定相同。
- 跟我要表達的原意，有時更是相去千里。
-
- 對於即時通的聊天內容話題,掛包跟我解釋他所謂的八卦
- 〔現代年輕人的八卦定義〕
- 就是閒聊不特定主題開開玩笑無傷大雅的談話,叫做八卦
- 而不是背後四處道人長短
-
- 雅虎即時通的功能,對我來說是一些網友間互通訊息的橋樑和問我私事問題的管道,
- 跟一般的信箱功能相去不遠
-
- 開共同聊天室,自從上次alex事件之後我接電話與在聊天室的時間就減少很多了.
- 很多人都說我最近不太理人,一來是想給自己更多時間,二來教的多問題更多.
- 教了一大堆，結果聽錯一大片。
- 根基不足造成我要表達的，跟對方所吸收的成反方向。
- 無私付出的時間與心血，換來的是無知的無情打擊。
- 毀謗　背叛　偽造文書等等　　我都沒有追究
- 我選擇道歉了事，真是我的錯嗎？
- 我手中的證據足以興訟，但是我眼淚豁者傷心的血往肚裡吞
-
- 告訴自己不是教人無色無相嗎？
- 那就真的去做吧。
- 放下名利色心
-
- 後來我決定多多疼惜自己，不要日夜不分的幫助他人了。
- 夜晚我不再接電話，對方有錯我直接明講不再用暗示，盡量不再犧牲既定的私人時間幫助他人。
-
- 畢竟　人家有時沒感謝就算了，有時還當作是應當欠他的，誰叫你是修行者？
- 所以我將自己外在的心境調整為平常人，不再寒風攝骨停留高處
- 留言也不再風言清流取而代之的是輕言流語
- 畢竟　早已決定要學習真正的不重名相了，所以形象並不重要。
- 有緣的就留下來，無緣的就掰掰
-
- 我一不在，大家開聊天室的時間根本就很少。
- 畢竟網友跟網友之間不是每一個都談的來的。
- 有人會以為我以前都很多時間幫他，為何近幾個月都是長或短說甚至推卻。
- 以為我排斥他或是疏遠他了
-
- 其實我沒有排斥或是疏遠特定人士，而是給自己更多時間罷了。
- 保持自己與網友的距離，只為了讓友誼能更長久。
- 每一件事的用心，不一定有人了解，但是自己默默在做。
- 反正已經抱定了，會了解自己的人就算是聽到自己殺人，他都會認定一定事出有因。
- 不了解自己的人，就是剖心挖肝給他吃，他都要懷疑自己有目的。
-
- 所以　　放下
-
- 將自己今夜的心情紀錄下來，只希望雙方看一看
- 我自己走的泥路雖然幾乎淹沒自己，但是多數朋友的信任支持讓我走出來
-
- 身邊的鄉間小路等著自己，別再待在水稻田中了。
- 一不小心會溺斃了自己
-
- 放下武裝與自尊　　牽著朋友的手上岸吧
- 躺在小路上聞聞野花的清香，
- 休息一下
- 繼續往山中去尋傳奇
- 別把時間浪費在泥濘中打滾 
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:17:36*
-
-善有所為即非真善，修行有所求即非修行
-
- 一切隨緣自然。
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-9-15 14:15:55*
-
-尋找明師
-
- 這是很多行者的過程。
- 我以前剛學習時，我家的觀音也要我去找一位明師。
- 因為祂們覺得靈與人的互動很不方便。
- 而且祂們真的沒想到人世間有我這麼難教的人。
- 不管說什麼道理，我總有更多道理把祂們堵回去。
- 講到最後都是我有理的機會居多。
-
- 我跟祂們說我只認理不認人，我管妳是人或神還是觀音 佛。
- 有理！你就是神，無理！你就是邪魔
- 最後祂們只好要我去找個人的老師來教我。
- 當然祂們也在幫我尋找。
- 畢竟要當一個老師，在要學習的項目裡總要比學生在行吧。
- 十幾年過去了，隨著自我要求越來越高。
- 我對明師的條件也越來越高，越來越困難。
- 根本尋找不到，這世間的明師都隱匿無蹤，外表與常人無異。
- 所謂的大師言行，我根本從心裡看不起
-
- 最後我覺悟了
- 其實明師無所不在也無所在
- 明師隨時存在自己的心中與身邊的事物
- 當你有心時，它就存在
- 當你無意時，他就不在
-
- 自己的心就是明師
- 他人的指導與經驗只是外在
- 真正決定要不要接受與改變的
- 是自己的心
-
- 有心的話，自己就是明師
- 無心的話，明師早晚變神棍
- 因為明師被自己的心污衊了
-
- 這是個人的生活經驗與大家分享
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2007-10-15 23:01:55*
-
-每一個生命的交集都是為了學習。
- 感覺是喜還是悲或是苦？
- 全在自己一念之間
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:13:23*
-
-『無相』
-
- 個人生活上的不順，恰巧可以作為檢視多年來自己的修行所成。
-
- 如無 人、我、壽者、眾生相就不必在意身旁所幻化與境相。
-
- 身旁的言語現實演化就當作真空幻化妙有妙無。
-
- 既為真空幻化妙有妙無就不入於心 無所感慨。
-
----
-
----
-
-### 文集/笑談生活
-
-發表於 2004-6-9 22:08:08
-
-關於過去種種智 不可說不可說
- 關於現在種種智 不可說不可說
- 關於未來種種智 不可說不可說
-
- 當靈光悟性開啟的時候，諸般智慧如川流大海循環不息。
-
- 蒙懂無知時志向比天高
- 智慧初開時知謙虛自讓
- 透徹天機時須擬如無我 
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2007-9-4 10:39:33*
-
-『  無題  』02/06/13 13：32
-
- 在人生的路上常有人問：
- 人生而為人到底是為了什麼？
- 修行到底要如何修？
- 不間歇的苦難又該如何面對？
-
- 在看完了三十六手千手千眼觀音菩薩的演譯。
- 讓我想起多年來的點點滴滴與十年來身旁諸神佛菩薩的實際生活考驗．點點滴滴感激在心。
- 過平常人所不能感受的日子．初時覺得很苦怨天尤人恨蒼天等等.....
- 但隨著日子消失，他們無怨的付出．讓我感受到他們的用心良苦。
- 我選擇放棄怨懟，改用智慧與寬廣的心去面對這人世的一切。
-
- 十年來我常不知我在幹什麼？
- 只知傻傻的走．直到驗證的事物放在眼前才知道自己之前在學什麼。
-
- 一路上不執著不強求，但求對的起自己的良心面對人生的未來。
- 心經一直是我人生道路上行走的指標與依靠之一．
- 每當我迷惑不如意，我就告訴自己．既然諸法[空相]，心無掛礙，無苦及滅道．
- 那眼前的這一切我又何須在意？
- 只要心不隨著起舞．我又何來入相。
-
- 但人世間就是有這麼多的不如意，有這麼多的不得不。
- 讓我選擇了人生如戲，就讓我表演其中的一個角色吧。
- 但隨著戲的落幕，回到家中心情平復之後．我依然是我。
-
- 在人生的過程中我面對不同的人，我必須用不同的心，用不同的相，用不同的言詞去與人對答與其共鳴。
- 數年之後一日無意翻起觀世音普門品！
- 才知為何要有那麼多的心境與化相。
- 才知自己默默奉行那麼多年的圭臬。
- 原來是在學習菩薩的行徑．我只能以感動莫名來形容。
-
- 雖然自知還有很多毛病與試驗在等著我，也不知能不能過．也只能笑笑的去面對．但求盡力不求無過。
-
- 人投胎轉世.本就有不同的目地。
- 主要是要我們去体會感受.喜 怒 哀 樂 生 老 病 死 苦 等的感覺.並思考如何去面對。
-
- 當我們由內心去感觸到.喜 怒 哀 樂 生 老 病 死 苦 等......並深入於心．
- 了悟於心之後．會發覺人的一生所有過程都只是過程．只是一場夢 一場空
- 就像年老的智者看淡人事一般。
- 名利色心成為過程，化為[空相]．
-
- 開始進入心經所談：無掩耳鼻舌身意 無色聲香味觸法
- 進而無老死盡 無苦集滅道..............
-
- 整個過程缺一不可，如同我們的教育課程一般．由人鬼界 神仙界  羅漢金剛界 菩薩界  佛界......
-
- 心經所言整個過程如同上述一般。
- 但是如果在這之前先學習儒家思想，再學習心經會更駕輕就熟．較不易誤解真法。
-
- 但有一項須注意的事，所有過程需要由內心真的完全做到。
- 不然極易走偏產生誤解，無法通過試驗，自生心魔而淪入魔道．
-
- 佛法等同活法，隨人心之機緣善變．佛魔一線之間，須大智慧才得辨識真法．
-
----
-
----
-
-### 文集/笑談生活
+### 亂世
 
 *發表於 2004-6-17 23:58:55*
 
@@ -49123,217 +48690,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
-
-*發表於 2004-6-3 22:07:15*
-
-萬象皆由心生，看你用什麼心去對應，就可以學到無苦集滅道 無生老病死苦.........
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 21:11:52*
-
-『經典』
-
- 當我說出認為很多經典都是人寫的時候還很多人反對勒。
-
- 其一依照科學邏輯推論來說，確實可能性很大。
- 其二很多經典看起來,真的不像是釋迦牟尼佛所會講的話。
-
- 一個人的個性用詞說話方式口氣都會有他的模式存在。
- 如果你用心對照的話，你會發現很多經典的差異性真的太大。
-
- 再來的一點是，很多經典的說法場所並非在人間。
-
- 現在的佛家說不談神通
- 但是很多的經典，卻存在非常多的神通運用。
-
- 例如有一部經典是佛到忉利天為其母親說法，試問沒用神通怎麼去？
- 另外這些阿羅漢沒用神通怎麼跟去聽法?
- 這不是標準的只准官家放火不准百姓點燈?
- 只有佛經能不斷的描繪佛顯現大神通力，但是其他人顯現的話就是邪魔?
- 這些跟基督耶穌說的只有他是真神其他都是假的一樣.
-
- 其實很多事情可以做人性推論的。
- 試問以佛的智慧跟慈悲來說，他會對其他宗教做攻擊嗎？不會
- 他會不斷炫耀只有自己是最好的其他的都不好嗎？  不會
- 會說只要對佛不敬就會落入餓是輪迴受苦嗎？ 不會
- 大家想想佛如果只因為我問候他一句[你娘可好？ 
- 他就要如此逞罰我，就會落入餓是輪迴受苦，那真是心胸狹小的佛啊。
- 如果他真的是佛的話，就算是有神要逞罰我，他也應該會阻攔，因為他是佛，無盡慈悲的佛。
-
- 所以有智慧的人啊！
- 當真要分清楚想一想，一位慈悲的長者會動不動就恐嚇他人嗎？  絕對不會
- 基督都可以包容他的敵人了,還會說只有他是真的嗎？ 不會
- 我們所看到的都是他們的智慧謙虛包容與慈悲。
-
- 所以所有的經典當中，所提到誇大功德福報，神通顯現。
- 對其他宗教的貶低,對他人的恐嚇等等言詞。
- 這一些都不是這些大智慧者所會說的話。
- 毀謗佛法僧會有重罪?  不會的
- 因為眾生平等，應該解釋為，毀謗佛法者，日後也會受被毀謗之苦。
- 這些都是後人為了鞏固自己的宗教地盤所串改的經典內容。
-
- 慈悲的神佛上帝只會默默教導眾生與等待覺醒,覺不會惡意的恐嚇。
-
- 愚蠢的盲從者........何時才會覺醒？
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-2-15 18:37:38*
-
-幾千年來所有經典咒語早就荒腔走板。
-
- 例如：2500年前的梵語與現代印度語口音可能相同嗎?
-
- 有行者辛辛苦苦遠走西藏,印度求正音法，其實只能証明自己夠著相,夠執著。
-
- 所有咒語都只是一個字相。
- 重要的是心怎麼想　怎麼悟　怎麼做。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-4-27 00:35:49*
-
-在個人來說：佛的境界
- 它可以說是跳脫出這個循環
- 但是當他跳出也可以說他是死了
- 因為它不垢不靜不動
-
- 另一種跳脫輪迴的方式
- 那就是無視於輪迴
- 無生老病死苦
- 當有生命能做到般若心經中的境界時
- 那輪迴與不輪迴
- 已經跟自己無關了
-
- 我自己是比較傾向於後者才是真佛
- 身在紅塵卻不染紅塵
- 亦可說是根本沒有紅塵
-
- 因為當自己不把紅塵當紅塵，就沒有所謂身在不在紅塵．
- 同樣的當不把輪迴當輪迴，就沒有所謂輪不輪迴．
- 在心念上自然就跳脫六道輪迴
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-9 22:06:03* 
-
-道歉與認錯是學習與進步的指標。
- 自己如果真的犯錯而不改過，那就再也不會進步了。
-
- 〔因為自己沒有錯當然也不會改過〕
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-8-27 22:22:53*
-
-兄臺
-
- 道可道非常道 名可名非常名
-
- 世間的幻化無常 在歷史裏重複演出
-
- 誰聖 誰賢 誰智 誰愚 誰不肖
-
- 嘻笑怒罵 轉眼如光影
-
- 古賢曰 多言數窮 不如守中
-
- 然老子畢竟也留了五千言
-
- 賢者孜孜攜提之心 躍於字裏行間
-
- 信德不孤必有鄰哉
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2007-9-4 11:14:20*
-
-談『  明心見性  』02/06/14 02：44
-
- 如何　明心見性？
-
- 心是無相的，你認為它在哪裡它就在哪裡，並不是我說它在哪裡它就在哪裡。
- 你認為它不存在它就不存在，你認為它在他就無所不在。
-
- 找的到心在哪裡的人，自然就有心知如何修。
- 找不到心在哪裡的人，當然就無心可修起了。
-
- 明心見性是自自然然的，無須談也沒的談，當自己執念想談的時候，心已經現偏執相了。
- 所談所知也已經偏離本心，無法正本清源了。
-
- 當自己的知識達到越飽和的境界，需更知謙讓。
- 如此才能讓自己有更大的迴旋空間，轉〔識〕為〔智〕。反之作繭自縛
- 知識永遠是字面上的文字遊戲惟一[定相]，智慧卻是有無窮盡的時間與空間，近無相。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-4-26 19:33:13*
-
-云云眾生落入凡塵皆有其定數，輪迥轉世川流不習成住壞空循環不斷。
-
- 修行之路眾生皆平等，無形象 位階 年歲之差異。
- 自自然然順心而行，如若相信生死輪迴若真入心　
-
- 當知
- 設若：今生是我父母眾，怎知其前生是我恩人 僕人 仇人 寵物？
- 今生之我功成名就名利加身，怎知我前生是.善人.殘者.畜牲？
-
- 設若：捨棄自我之名相相信前言者，生不二心了悟眾生皆平等之心靈奧義，由內而外緩步奉行之。
-
- 固而今世轉而為人有此識心有緣修心，當感謝上蒼之垂憐矣。
-
- 設若：行者得表相之成就，既行退轉自以為是誤用神通，自以為是神佛轉世四處宣揚廣收群眾自據一偶。
-
- 須知聖人者：謙虛自讓不表外揚，何況真神佛降世者。 世人當以智慧之心勿盲目附從。
-
- [九句佛偈一句魔言]蠱惑腐蝕人心之佛性，此似是而非之表相繼續留傳，真末法時期不遠矣。
-
- 世尊曾言：佛法不滅 唯佛法可滅佛法。
- 今見此五濁惡世之亂相，吾人當知佛陀之預言，不幸言中矣。
-
- 世人自欺欺人以為末法時期有彌勒佛法駐世。
- 人心不足蛇吞象，此一劫有佛陀之降世己是萬幸。怎可奢求下一劫之彌勒佛提前駐世，此一妄想謂之[貪]呀。
-
- 自助人助未得真努力即幻想人助，此一貪念末除怎悟正法？
-
- 抱持門戶之見，連凡人應有之寬廣包容心且無！怎悟正法?
- 此念未除！所悟之見皆為妄法。
-
- 關於末世之說：緣起緣滅成住壞空乃自然之循環，縱天崩地裂地球消失亦是自然。
-
----
-
----
-
-### 文集/笑談生活
+### 積少成多
 
 發表於 2004-7-18 12:01:59
 
@@ -49361,71 +48718,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
-
-*發表於 2004-4-30 00:43:24*
-
-不問收穫盡力而為，乃修行人之初基。
- 誠實對己無愧於天地，乃人之本牲。
-
- 別忘了人外有人天外有天，能人者後有能人。
- 罵就讓他罵左耳進右耳出，不也是訓諫[空相]的機會嗎?
-
- 生活中禪機處處，看你用什麼心境去面對。
- 不要灰心 不要喪氣。
-
- 當年我不明真理自以為是咒罵菩薩。
- 但她們依然盡心盡力幫我，一直到了解她們的苦心，她們依然微笑。
- 從此我遇到意外,挫折,不再怨天不再由人了悟生死。
- 人生真的如夢　我祗是到此追尋另一种真理，夢醒就如南柯一般。
-
- 我也是本著當年人助我，今日我助人。
- 願將心比心，才會駐留於此。
-
- 因為我知道追尋不到真理真的很難過。
- 一路孤寂走來，要不是菩薩為伴，真的走不下去。
- 再回首來時路真是哭笑不得。
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2004-6-3 22:08:19*
-
-～～～～～～～～真誠的悔悟～～～～～～～～ 
-
-真誠的悔悟並不是口頭上的懺悔
- 要用行動一點一滴的去做
- 讓對方感受到我們的決心與誠意
-
- 不管在  親情 愛情  友情
- 用行動與時間一點一滴化解互相的心結
- 唯有真誠的言行才能化為大愛
-
-～～～～～～～～～無遠弗屆～～～～～～～～～         共勉
-
----
-
----
-
-### 文集/笑談生活
-
-*發表於 2005-9-11 15:23:55*
-
-放下自己以前既有的知識，學習一切歸零，用自己的真心誠意去看待這人世所有的一切，如果你有辦法做到的話。
- 那你會發現你以前的日子都白活了。
- 嚴以律己 寬以待人
-
- 莫要用自己的主觀意識與知識震盪去看待這一切，那只是一個腦力激盪下的假象修行罷了。
- 修行不是擺弄聰明的文字知識更不是口號，而是由外而內再由內而外的真實力行。
-
----
-
----
-
-### 文集/笑談生活
+### 變與不變
 
 *發表於 2004-7-20 23:33:35* 
 
@@ -49461,7 +48754,740 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
+### 行者之悲哀
+
+*發表於 2004-7-20 23:54:12*
+
+人世間任何世物感觸，都是以心為觸媒。
+
+ 若心不起共鳴，則無所感，無物感。
+
+ 所以當諸事不落心間。
+
+ 者心本無一物。
+
+ 者無處惹塵埃。
+
+ 當修行為識心時，行者所修  為物相  為表相。
+
+ 故而要時時勤擦拭，不使惹塵埃。
+
+ 如同我們日日限定經咒數十遍或萬遍，為了計數分心則無法入心。
+
+ 因為執著於次數功效等......而忘了經咒真正的要義。
+
+ 口中唸著[無色無相]。
+
+ 但心中卻追尋越大的佛相越峻偉，越大的寺廟越靈驗。
+
+ 此乃行者之悲哀。
+
+---
+
+---
+
+### 文字相
+
+*發表於 2004-7-20 23:54:36*
+
+文字為一[定相]，隨人心之機緣善變。
+
+ 經典年年看日日省皆有所不同。
+
+ 佛法等同活法。
+
+ 若經典只有一種解釋的話，那就不是佛法了。
+
+---
+
+---
+
+### 德不孤必有鄰
+
+*發表於 2004-8-27 22:22:53*
+
+兄臺
+
+ 道可道非常道 名可名非常名
+
+ 世間的幻化無常 在歷史裏重複演出
+
+ 誰聖 誰賢 誰智 誰愚 誰不肖
+
+ 嘻笑怒罵 轉眼如光影
+
+ 古賢曰 多言數窮 不如守中
+
+ 然老子畢竟也留了五千言
+
+ 賢者孜孜攜提之心 躍於字裏行間
+
+ 信德不孤必有鄰哉
+
+---
+
+---
+
+### 尋找明師
+
+*發表於 2004-9-15 14:15:55*
+
+尋找明師
+
+ 這是很多行者的過程。
+ 我以前剛學習時，我家的觀音也要我去找一位明師。
+ 因為祂們覺得靈與人的互動很不方便。
+ 而且祂們真的沒想到人世間有我這麼難教的人。
+ 不管說什麼道理，我總有更多道理把祂們堵回去。
+ 講到最後都是我有理的機會居多。
+
+ 我跟祂們說我只認理不認人，我管妳是人或神還是觀音 佛。
+ 有理！你就是神，無理！你就是邪魔
+ 最後祂們只好要我去找個人的老師來教我。
+ 當然祂們也在幫我尋找。
+ 畢竟要當一個老師，在要學習的項目裡總要比學生在行吧。
+ 十幾年過去了，隨著自我要求越來越高。
+ 我對明師的條件也越來越高，越來越困難。
+ 根本尋找不到，這世間的明師都隱匿無蹤，外表與常人無異。
+ 所謂的大師言行，我根本從心裡看不起
+
+ 最後我覺悟了
+ 其實明師無所不在也無所在
+ 明師隨時存在自己的心中與身邊的事物
+ 當你有心時，它就存在
+ 當你無意時，他就不在
+
+ 自己的心就是明師
+ 他人的指導與經驗只是外在
+ 真正決定要不要接受與改變的
+ 是自己的心
+
+ 有心的話，自己就是明師
+ 無心的話，明師早晚變神棍
+ 因為明師被自己的心污衊了
+
+ 這是個人的生活經驗與大家分享
+
+---
+
+---
+
+### 和合術真的有效嗎？
+
+*發表於 2004-12-13 00:08:51*
+
+每一位失去愛戀的男女都在詢問和合術。
+
+ 和合術真的有效嗎？
+
+ 前幾天一位專做和合術的老師被刑警抓走了。
+
+ 所以和合術有效嗎？
+
+ 或許有許多男女真的有因為和合術復合。
+
+ 可是人心的力量往往超越符咒的力量，所以要見效真的很難。只有他一個女
+
+ 一件成功率很低的法術有必要花大錢去做試驗嗎？
+
+ 一件成功率很低的法術，那些成功的案例是否也可以說是人為的努力成功的？  見仁見智
+
+ 但是對我來說我卻會將這些成功的案例歸列於人定勝天。
+
+ 所以我從不建議人家做和合術，還是靠自己努力吧。
+
+ 如果一切還是枉然，那就再尋最愛吧。
+
+ 人生不是只有他一個男人或是女人。
+
+ 至於所謂放不放的下愛戀，也全在於自己。
+
+ 當初讓自己陷入愛戀的也是因為自己對自己的暗示，告訴自己真的很愛他。
+
+ 所以反向思考，能否走得出來也全在於自己是否要解開自己對自己的暗示。
+
+---
+
+---
+
+### 歸零
+
+*發表於 2005-9-11 15:23:55*
+
+放下自己以前既有的知識，學習一切歸零，用自己的真心誠意去看待這人世所有的一切，如果你有辦法做到的話。
+ 那你會發現你以前的日子都白活了。
+ 嚴以律己 寬以待人
+
+ 莫要用自己的主觀意識與知識震盪去看待這一切，那只是一個腦力激盪下的假象修行罷了。
+ 修行不是擺弄聰明的文字知識更不是口號，而是由外而內再由內而外的真實力行。
+
+---
+
+---
+
+### 反省
+
+*發表於 2005-9-13 00:57:08*
+
+人生是由很多的抉擇與結果所串連而成的。
+ 反省就是為了希望能有更好的抉擇與結果而存在。
+ 每一個人都知道因與果的形成道理。
+ 但是一般人只知道未經思考的去種因，然後再去收拾不喜歡的果。
+ 但是卻很少人去瞭解如何實踐種好的因，再去擁抱甜美的果。
+
+ 自省與內觀在這時候便扮演著重要的關鍵。
+
+---
+
+---
+
+### 凡事盡力而為，不懈怠也不強求
+
+*發表於 2005-9-14 20:49:07*
+
+身為一個人，凡事不能一概而論斷。
+ 一件事情的發生，他可能是因果可能是卡陰也可能是人為，更以說是總和結果。
+ 所以如果對一件事情的論斷，過渡鐵口絕決都很容易出現偏頗誤判。
+
+ 例如生病，他可能是生活起居 飲食習慣 居家環境所累積引起的。
+ 不能一生病就說煞到或是卡陰或是因果業力。
+ 靈學能力只能拿來增長經驗見識，不能期望用他來改變一些什麼。
+
+ 凡事平常心去應對，該發生的他自然會發生，那就去面對。
+ 能解決是自己的命，不能解決也是命。
+ 凡事盡力而為，不懈怠也不強求。
+
+---
+
+---
+
+### 回顧
+
+*發表於 2007-2-20 01:45:32*
+
+從2000年上網到現在已經2007年了，好快的日子。
+ 2000年之前的日子不算，2000年上網到現在看看自己身邊的朋友，真的很難過，大家都走得很辛苦，常常有力不從心的感慨。
+
+ 走這條路不管是感情 親情 金錢 健康無所不考，考的讓人生死不如。
+ 看看自己之前的人生路程，在27歲是一個劃分界線，在此前是一個很不堪的回憶，但是我已經不怨任何人，畢竟有失有得如果我沒受那些過程，那我不會有那麼多人生的體悟。
+
+ 27歲之後脫離了家庭的包袱，但是面對的是另一種人生，重新的專業學習，投入完全不一樣的職場，不同的職場不同的人生不同的體驗。
+
+ 35歲開始網路生涯，開拓更寬的視野見識到不同階層的社會人士形形色色的人性思想，讓我對人生的體悟更加的寬闊與深髓，對無我的境界更進一步。
+
+ 去年這一年雖然工作忙碌，但是在生活中有時候我還是活的很感慨與無奈。
+ 看到十多年的朋友平日不與人計較，但是老年之後對於面子與金錢卻是越來越離譜的看重，讓周遭的朋友在背後對他不齒，做人真的要做到這麼失敗嗎？我自問著？為了面子為了一點點損失，有必要如此嗎？為了計較一點點眼前的損失，卻失去長遠的利益，這樣真的賺到了嗎？
+
+ 另一個朋友也是依然，佔人家便宜可以合理化，認為是應當的，但是一旦自己有吃虧就明言計較到底，甚至不惜違背著良心說話去攻擊他人。
+ 便宜是佔到了幾千元，但是我親眼見到的損失，到目前為止已經累計到了130萬了。這樣的便宜好佔嗎？可惜當事者依然無法覺悟。
+ 我不知道這兩位朋友的未來會變成如何，因為未來是會更好或是更壞，都操控在他們自己的手裡，人生的命運是他們自己揮灑的，我只能無奈的在旁邊觀看。
+
+ 一位人人認定的通靈師，一生也沒什麼缺點，可是卻命運背的可憐，一次次人生的重大打擊不間斷的襲擊著他，逼到他都陷入困境了，有時候幫求助者靈療花費數小時的時間與體力，謝禮卻只有兩百元？這比一個工讀生的薪水還少要如何養家餬口？我不知道求助著的良心何在？因為這一類事情比比皆是，所以我才會說可憐之人 必有可恨之處。看著他的窘境我也不知道要如何幫他，因為其實很多事情的形成都是有其背景因素的，只要當事者自己不願意去改變，那這些所謂的業力與苦難就會如影隨形揮之不去。
+
+ 一對修行夫妻立志開一家素時餐飲店，兩夫妻憑著良心做事真材實料口味又好，但是去不懂的經營與宣傳手法而坐困愁城，連店租都要繳不出來了，我卻沒有機緣去幫他們，雖然心裡惦記著也很想去幫幫他們，可以就湊巧順路去了兩次，都碰到休息日，一個月就休息那麼兩次，就剛好都碰到。
+
+ 有的修行人遇到色戒的考驗，一路栽下去也不知道何年何月才能漂流到近岸。
+
+ 有的修行人有錢的時候不知道要多多撥出時間行善與助人，一夕之間法院查封家產全無 夜半跑路，兒女因為之前的溺愛，如今家中斷炊就漸漸學壞。要全怪小孩子不懂事嗎？如果在家境優渥時能教導小孩子要享受之前必先學習付出，那今天小孩子會一夕變壞嗎？
+ 如果在之前懂得付出謙虛待人，廣積福德或許今日不至如此，我曾經暗喻相勸，可惜對方困在自己的思考層面，無法瞭解我的提示。
+
+ 修行？通靈？真的好嗎？我不知道。
+ 這些年來我只要有空閒能撥得出時間，我就不忘勸人。
+ 修行 修心 修術 很多事情有它的轉折技巧，絕大多數的人都很羨慕神通，但是神通救無敵嗎？我親眼看過很多神通者最終陷在苦海裡，但是我卻束手無策。
+ 鬼通倒是無敵，短暫的利益絕對慾取慾求，但是最後會怎樣死的，卻是不一定。
+ 魔通無敵，這比神通鬼通境界還要高出太多了，至少他們在這一輩子為人的其間，似乎都還看不到報應，但是死了之後或是下輩子是否還是無敵？我不知道，因為目前的人生我還未親眼看到這些人的結局。
+
+ 人生很模糊善變，我不知道要如何寫出一條道路才是正確，因為千變萬化，我只能整理出模糊的方向，那就是本著良心過生活，執著於惡或是執著於善 都是錯誤，本著良心能善盡量善，如果時勢逼迫那也盡量遠惡近善，凡事隨緣不強求，但也不懈怠，該努力就努力，但不強求一定要得到相對報酬。
+
+---
+
+---
+
+### 自問
+
+*發表於 2007-9-4 10:38:31*
+
+『  自問  』02/06/13 13：29
+
+ 在這個世上有幾個人嚴以律己寬以待人。
+
+ 有幾個人沒有自私心，心口如一言行一致。
+
+ 有幾個人能夠犧牲自己成全它人的。
+
+ 有幾個人遇利益分歧點,能不起心動念。
+
+ 有幾個人受到欺負得能夠不忿氣。
+
+---
+
+### 無題（2）
+
+*發表於 2007-9-4 10:39:33*
+
+『  無題  』02/06/13 13：32
+
+ 在人生的路上常有人問：
+ 人生而為人到底是為了什麼？
+ 修行到底要如何修？
+ 不間歇的苦難又該如何面對？
+
+ 在看完了三十六手千手千眼觀音菩薩的演譯。
+ 讓我想起多年來的點點滴滴與十年來身旁諸神佛菩薩的實際生活考驗．點點滴滴感激在心。
+ 過平常人所不能感受的日子．初時覺得很苦怨天尤人恨蒼天等等.....
+ 但隨著日子消失，他們無怨的付出．讓我感受到他們的用心良苦。
+ 我選擇放棄怨懟，改用智慧與寬廣的心去面對這人世的一切。
+
+ 十年來我常不知我在幹什麼？
+ 只知傻傻的走．直到驗證的事物放在眼前才知道自己之前在學什麼。
+
+ 一路上不執著不強求，但求對的起自己的良心面對人生的未來。
+ 心經一直是我人生道路上行走的指標與依靠之一．
+ 每當我迷惑不如意，我就告訴自己．既然諸法[空相]，心無掛礙，無苦及滅道．
+ 那眼前的這一切我又何須在意？
+ 只要心不隨著起舞．我又何來入相。
+
+ 但人世間就是有這麼多的不如意，有這麼多的不得不。
+ 讓我選擇了人生如戲，就讓我表演其中的一個角色吧。
+ 但隨著戲的落幕，回到家中心情平復之後．我依然是我。
+
+ 在人生的過程中我面對不同的人，我必須用不同的心，用不同的相，用不同的言詞去與人對答與其共鳴。
+ 數年之後一日無意翻起觀世音普門品！
+ 才知為何要有那麼多的心境與化相。
+ 才知自己默默奉行那麼多年的圭臬。
+ 原來是在學習菩薩的行徑．我只能以感動莫名來形容。
+
+ 雖然自知還有很多毛病與試驗在等著我，也不知能不能過．也只能笑笑的去面對．但求盡力不求無過。
+
+ 人投胎轉世.本就有不同的目地。
+ 主要是要我們去体會感受.喜 怒 哀 樂 生 老 病 死 苦 等的感覺.並思考如何去面對。
+
+ 當我們由內心去感觸到.喜 怒 哀 樂 生 老 病 死 苦 等......並深入於心．
+ 了悟於心之後．會發覺人的一生所有過程都只是過程．只是一場夢 一場空
+ 就像年老的智者看淡人事一般。
+ 名利色心成為過程，化為[空相]．
+
+ 開始進入心經所談：無掩耳鼻舌身意 無色聲香味觸法
+ 進而無老死盡 無苦集滅道..............
+
+ 整個過程缺一不可，如同我們的教育課程一般．由人鬼界 神仙界  羅漢金剛界 菩薩界  佛界......
+
+ 心經所言整個過程如同上述一般。
+ 但是如果在這之前先學習儒家思想，再學習心經會更駕輕就熟．較不易誤解真法。
+
+ 但有一項須注意的事，所有過程需要由內心真的完全做到。
+ 不然極易走偏產生誤解，無法通過試驗，自生心魔而淪入魔道．
+
+ 佛法等同活法，隨人心之機緣善變．佛魔一線之間，須大智慧才得辨識真法．
+
+---
+
+---
+
+### 台灣宗教怪現象
+
+*發表於 2007-9-4 10:41:27*
+
+台灣宗教怪現象 『 迷失 』02/06/13 13：38
+
+ 一個族群的興敗，要靠每一份子的內心修持廣積福德。
+
+ 始有所成行善乃人之本性,而非為積功德或往生西方淨土而為之。
+
+ 一個人縱使熟讀經典擅能巧辨，說的天花亂墜 地湧金蓮 功成名就。
+
+ 而不能內心奉行　見諸己之佛心佛性 亦是枉然此台灣怪現象之首也。
+
+ 　　　　　　　　　　　　　　　　　　　　　　　　　　　共勉之
+
+** ==== 以下內容由 \*jin310\* 在 \*2007年09月04日 11:06am\* 時新增 ====
+ 
+ 台灣宗教怪現象『 經典 』 02/06/14 02：23
+
+ 關於經典的問題 
+
+ 個人覺得經典已經多到氾濫的程度，那麼多的經典只為了用不同的方式詮釋  覺 悟
+
+ 走到現在會有一種有經不如無經的感覺，因為經典造就少數人卻害死更多人。
+ 想想由古至今有多少人執著於經典字義與表面的假象。
+ 多少人被道貌岸然的大師所騙，只為了這些大師熟讀經典善能巧辯，但是內心作為比一個文盲還不如。
+ 但是世人就是喜歡經過包裝的假象，卻沒有想到經典中一直提醒我們要破相。
+ 嘴裡 文字將破四相解釋的天花亂墬，但在實際生活中卻與人爭名奪利拼命著相。
+
+ 試問  哪一位大師出門是坐破車，若不著相是不是應該車子能動就好？
+ 住所能遮風避雨就好，寺院精舍蓋的富麗堂皇卻美其名說是給佛住的？
+ 佛既為無相何須住所呢？值得深思.........
+
+ 關於靈界的迷思真的太大太廣，比一本地球人類演化史還要複雜。
+ 不說還好一說出來又是一部害人的書籍。
+ 因為怎麼寫都不正確，昨夜與無為兄有談到魂魄 氣功 人體七脈輪 陰陽五行的關聯演化性。
+ 其實都是在講同一種境況，只是入門角度不同所看所講也就不同。
+
+ 對我個人來說 人世間所有的宗教與靈界訊息以狹義來說他們都是對的。
+ 但是以廣義來說卻全部都是錯的。
+ 包含我在此所說的一切或許對一般人來說是對的，但是對我來說卻是錯的。
+
+ 可是我又不得不如此說，因為我若在此講我認為的真理無人聽的懂。
+ 而且若提高到深處卻出現無話可說的窘境。
+ 因為怎麼解說自己都覺得不對，怎麼對別人說呢？
+ 此時才知 法無常法 法落文字既非法 的真正意境。
+
+ **-=-=-=-=- 以下內容由 \*jin310\* 在 \*2007年09月04日 11:08am\* 時新增 -=-=-=-=-**
+ 『  法落文字即非佛法？  』02/06/14 02：36
+
+ 佛陀常叫人要讀誦憶念、說與人聽，即使一句一謁，福德無量有他的時空背景。
+ 在古代一般人多不識字，如無人朗誦。
+ 經典能留存嗎？
+ 大多數的平民百姓能得聞佛法嗎？
+ 不識字的禪宗六祖是如何開悟的？
+ 經典如同善書一般，勸人向善福德無量是否福德無量？
+
+ 對於經典我一直認為他是一部活法，隨人心之機緣善變。
+ 有人言無用論、不具意義；或云落文字相不足取？
+
+ 很多說法與想法往往有他的一個特定角度，相對的言無用論、不具意義
+ 如果我們把他解釋成坐而言不如起而行。
+ 再好的經典再好的計畫方案，如果我們不去實行那是不是就符合『言無用論、不具意義』？
+
+ 關於落文字相不足取？
+ 那是驕傲自大的人玩文字遊戲。
+ 試問當他說出或寫出『落文字相不足取』幾個字的時候，是否用語言文字表達？
+ 那別人的文字不足取的時候，那他的文字就足取嗎？
+ 雖說 法落文字即非佛法！
+ 這句話是高乘法境的修行者在說的話。
+
+ 試問  當年佛陀若沒有將『法』訴諸語言文字的話。
+ 今日有誰會知道在此言法？
+
+ 經典有他的先後演說之分，佛陀從初級入門開始演法。
+ 說到後來的法不落文字，49年來我什麼都沒說？
+ 這當中有他的含意存在，對一個有心學佛的人來說，應該有大智慧明辨何謂循序漸進？而非好高騖遠。
+
+ 對凡人的我們來說，基本的待人之道 漸進的修身 齊家 都不一定做的好。
+ 何苦執著於法落文字即非佛法？這句話的對錯？
+
+ 般若心經中的  心無掛礙  區區四個字。我們做的到嗎？
+ 當 心無掛礙 了入於心的時候，我們就不會有以上的問題產生了。
+
+ 學法與學做人是一樣的，切莫捨近求遠行那空中築閣之道。
+ 當我們教小孩子莫好高騖遠，應該一步一腳印的時候。
+ 也看著自己是否跟小孩子一樣貪求急進。
+ 提醒他人錯誤的時候，也不忘相同的時時告誡自己。
+
+ 如何判斷他人或自己已明心見性，有一定的標準或程序嗎?
+
+ 『明心見性』如同『止於至善』一般沒有盡頭，當你自認為自己明心見性的時候，也表示自己不再進步了。
+ 『學無止盡 學海無涯』相對的『明心見性』也沒有盡頭。
+
+ 心者 無色無相 沒有人能幫你解釋你心中的『明心見性』。
+ 高層法境只在自己心中無人可解。
+
+ 註：　高層法境無人能幫我們解答，只能靠自己去對應了悟。
+
+---
+
+---
+
+### 悟法 誤法
+
+*發表於 2007-9-4 10:42:30*
+
+『 悟法　誤法 』02/06/13 13：42
+
+ 云云眾生落入凡塵皆有其定數，輪迥轉世川流不習成住壞空循環不斷。
+ 修行之路眾生皆平等，無形象 位階 年歲之差異。
+ 自自然然順心而行，如若相信生死輪迴若真入心　
+ 當知
+
+ 設若：今生是我父母眾，怎知其前生是我恩人 僕人 仇人 寵物？
+ 今生之我功成名就名利加身，怎知我前生是.善人.殘者.畜牲？
+ 設若：捨棄自我之名相相信前言者，生不二心了悟眾生皆平等之心靈奧義，由內而外緩步奉行之。
+
+ 固而今世轉而為人有此識心有緣修心，當感謝上蒼之垂憐矣。
+
+ 設若：行者得表相之成就，既行退轉自以為是誤用神通，自以為是神佛轉世四處宣揚廣收群眾自據一偶。
+
+ 須知聖人者：謙虛自讓不表外揚，何況真神佛降世者。 世人當以智慧之心勿盲目附從。
+
+ [九句佛偈一句魔言]蠱惑腐蝕人心之佛性，此似是而非之表相繼續留傳，真末法時期不遠矣。
+
+ 世尊曾言：佛法不滅 唯佛法可滅佛法。
+ 今見此五濁惡世之亂相，吾人當知佛陀之預言，不幸言中矣。
+
+ 世人自欺欺人以為末法時期有彌勒佛法駐世。
+ 人心不足蛇吞象，此一劫有佛陀之降世己是萬幸。怎可奢求下一劫之彌勒佛提前駐世，此一妄想謂之[貪]呀。
+ 自助人助未得真努力即幻想人助，此一貪念末除怎悟正法？
+
+ 抱持門戶之見，連凡人應有之寬廣包容心且無！怎悟正法?
+ 此念未除！所悟之見皆為妄法。
+
+---
+
+---
+
+### 談『 明心見性 』
+
+*發表於 2007-9-4 11:14:20*
+
+談『  明心見性  』02/06/14 02：44
+
+ 如何　明心見性？
+
+ 心是無相的，你認為它在哪裡它就在哪裡，並不是我說它在哪裡它就在哪裡。
+ 你認為它不存在它就不存在，你認為它在他就無所不在。
+
+ 找的到心在哪裡的人，自然就有心知如何修。
+ 找不到心在哪裡的人，當然就無心可修起了。
+
+ 明心見性是自自然然的，無須談也沒的談，當自己執念想談的時候，心已經現偏執相了。
+ 所談所知也已經偏離本心，無法正本清源了。
+
+ 當自己的知識達到越飽和的境界，需更知謙讓。
+ 如此才能讓自己有更大的迴旋空間，轉〔識〕為〔智〕。反之作繭自縛
+ 知識永遠是字面上的文字遊戲惟一[定相]，智慧卻是有無窮盡的時間與空間，近無相。
+
+---
+
+---
+
+### 修行 斷慾
+
+#修行斷慾 #佛學 #佛教 #執著
+
+*發表於 2007-9-4 11:26:39*
+
+修行　斷慾 02/06/14 12：02
+
+ 修行的路上最常出現的難題就是我執與慾念
+
+ 其實大多數的人，都不認識自己。
+ 到底自己真正需要的是什麼？
+ 能做到的是什麼？
+ 做不到的是什麼？
+ 自己應該先做的是什麼？
+
+ 一連串的問題找到答案之後才能談〔修〕
+ 不然連方向與目的地都不知道如何〔行〕
+
+ 大多數的人都知道自己無法斷除性慾。
+ 但是常常有人就執著在做不到的目標上。
+ 我想每一個企業的年度目標決不會定一個達不到的標的。
+ 從小店面到連鎖企業到整個財團∼跨國集團　總要循序漸進
+
+ 斷除慾念就只有性慾嗎？
+ 錢慾　物慾　情慾　名慾　食慾　權慾　太多太多的慾念等著我們先去擺脫
+ 又何苦執著於性慾？
+ 修行該選擇自己做得到的目標先做。
+ 連一個小小的知足常樂 安貧樂道都做不到了。
+ 如何談斷慾。
+ 隨著年華逝去，慾念也隨著一點一滴的消失。
+ 凡事隨緣 該來的會來該去的自然會去。
+
+ 每一次看到別人在談經論戰，大談妙有妙無　法性如空　西天成佛　神聖為下六道的時候。
+ 我不知該笑？還是該悲？
+
+ 這是很多自認為是正信佛教徒常做的事。
+ 自己連人都還做不好了，就像落榜的人還嘲笑別人考的學校不入流一般。
+ 當這些自認為覺者的高人批評神聖不入道的時候，別忘了自己的德行還在神聖道之下。
+ 其實　真正修行的佛教徒是不會長論高低的。
+
+---
+
+---
+
+### 空門
+
+*發表於 2007-9-4 11:28:32*
+
+空門 02/06/14 19：58
+
+ 自己的修行之路是淒迷茫然的　常常偶偶獨行
+ 回首來時路　心中了悟.孤寂.空.虛.悔....紛踏而至.
+
+ 當你在越過那寂莫迷惑山林之後你會發現，現在的感觸竟然全是虛像。
+ 眼前有更寬廣的視野在等你，也有更多迷宮等你用大智慧去走。
+ 例如悲.歡.離.合.生.老.病.死.苦.你要用何种心態去面對走過。
+ 且不留下一絲牽掛[包含別人對你的恩.情.慾.怨.恨.念]皆不得
+
+ 現代人對古語[四大皆空]多是誤解。那是智慧的[空]且要空的有技巧。
+ [心性]來去自如才是是[如來]本意，目前祇有唯心 唯性 唯靈才可達到此方向。
+
+ ps唯靈是指靈光一閃,智慧之意而不是靈魂.
+
+ 很多人自欺看破紅塵,而遁入空門.為何叫[遁入]即潛遁,逃避之意.
+ 若真的看破紅塵.那塵[不落兩肩]何來空門何來塵呢.紅塵與空門不都成了,心外之物嗎?
+ 何謂[心無罣礙,無罣礙,故無有恐怖,遠離顛倒夢想究竟,涅槃三世]意境即在此.
+
+[悲喜一念之間](悲喜一念之間.md)
+
+---
+
+### 悲喜一念之間
+
+*發表於 2007-10-15 23:01:55*
+
+每一個生命的交集都是為了學習。
+ 感覺是喜還是悲或是苦？
+ 全在自己一念之間
+
+---
+
+### 有感（2）
+
+*發表於 2007-10-15 23:20:06*
+
+卡拉我剛剛為了找餐廳地址與交通方式所以去看以前的網聚資料，看了之後讓我好像在看回憶錄一樣。這是其中一篇回應，或許剛好可以跟你現在的心情搭配。
+
+ ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+ [這篇文章最後由靜竹林在 2007/10/17 01:01am 第 2 次編輯]
+
+ 為何我從不去看我的未來？
+ 也是因為有時後預計跟實際的差異太大。
+ 既然局勢可能瞬息萬變？
+ 那我是否該以不變應萬變？
+
+ 後來有一段日子已經習慣不變之後，又發覺..........
+ 不管他變不變，我隨著變也隨時不變。
+ 心中已經沒有變了。
+
+ 為了實踐沒有變，在初期上
+ 外在的肉體為了現實不得不變，但是內在的心中已經沒有所謂的變。
+ 肉體在表面上有一些像行屍走肉，隨局勢流轉而動。
+ 但是心中卻沒有行屍走肉的頹廢。
+ 而是一種類似[空相]的心。
+
+ 不管萬物如何聚化。
+ 萬般皆自然。
+
+ 既然是自然，又何來變。
+ 既然沒有變，又和須變。
+
+ 從汲汲於變＝＞應變＝＞隨變＝＞不變＝＞沒有所謂的變
+
+ 沒講不會懂，雖然經過講解就會懂。
+ 看我所列出的道理似乎很簡單。
+ 但是真正要做到？
+ 卻是知易行難 知難行易啊。
+
+ ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+ 境界高？以前的許多紛爭就是為此而起。
+ 境界高嗎？我沒感覺過。
+ 對我來說那只是生活過程的感覺，對曾經或是正在走過的人來說，絕不會覺得境界高，只會覺得苦，真的不是人過的。
+
+ 所以一路走來我從未覺得這有什麼高不高的東西，而是覺得我還沒發瘋或是自殺已經是萬幸了。
+ 我真的不喜歡修行，我只是想活的安逸快樂而已，我跟多數人一樣是被趕鴨子上架的。
+ 會這樣一路走過來，說穿了只是為了活的安逸快樂一點，所以不得不轉換心境去順應已經發生在眼前事情。
+ 如果不轉換心境那我會活的很痛苦，所以我開始觀察環境。
+ 同樣的狀況不一樣的人會出現什麼心態？
+ 同樣的狀況不一樣的心態會出現什麼樣的結果？什麼樣的人生？
+
+ 經過比對思考實踐之後，發現是心態展現在個性，個性在主導人生。
+ 所以我開始改變自己的部分個性，選擇在什麼樣的情況下我要用什麼樣的思緒心態去對應，可以得到最好的完美？
+
+ 只要思緒上有空閒我都會無指向性的想著過去，如果重來一次的話，那我要怎麼做可以更好。
+ 如果人生重來的話，我是否依然如此？
+ 如果所有開始的條件都不變的話，那笨蛋的我應該還是跟現在一樣的結果。
+
+ 因為什麼個性 選擇什麼樣的道路 出現什麼樣的結果，這就是因果。
+ 除非再一開始就出現立足點的不同，那就可能出現截然不同的結果。
+
+ 現實的我已經不可能再年輕了，所以我沒有太多機會在去玩試試看的遊戲。
+ 我沒機會但是我周遭的環境的年輕人可以提供借鏡給我觀察，當他們從小時候的個性去觀察他的未來，長大之後的成就，生活態度模式等等包含他們的道德素養。
+
+ 周遭的環境可以提供我們很多觀察的機會，把別人的生活模式，如果換做是自己來主導的話，那我會怎麼做？又會出現什麼結果？
+ 日復一日 年復一年 這就是我部分的生活思維模式。
+
+---
+
+---
+
+### 空
+
+*發表於 2010-2-22 00:11:10*
+
+有人問我「空」既然是空，怎會生出因緣
+
+ 空 本是一個赤裸裸的空體，不具念一切境。
+
+ 當把空當成是空空如也，那就是陷入文字相，才會有空怎會生東西的想法。
+
+ 空者非空，乃無[定相]而有空相之說法。
+ 舉設：某甲生不帶來死不帶去，生前家財萬貫，死後依然空空如也，那有錢嗎？甚至生命塵歸塵 土歸土，那他有命嗎？曾經有命 死後依然是無，一切依然成空。
+
+ 此空 泛指一切非 恆常相，成住壞空，此空只是肉眼觀看成空，實質非空，流水蒸發成空，但是它真的空了嗎？
+
+ 凡事莫依定規而見 不要用自己的成見去判定事務。
+
+---
+
+---
+
+### 姻緣
+
+*發表於 2011-12-29 00:46:19*
+
+一般人一生都會有多次的姻緣機會。 婚前遇到，說是有異性緣。 婚後遇到，說是桃花。 對於每一次姻緣的抉擇，都是人生的一個重大定數。 跟不同的人結婚會出現截然不同的命運。 同樣的婚後的桃花，自己是否要跳入漩渦之中，也會對後續人生出現重大變數。 人的一生要如何過，都是在自己的抉擇之中。 幾次重大抉擇決定了我們的一生。 所以要過什麼樣的人生？ 就在我們自己的手中。
+
+命運 命:一半由前世注定，一半由運去影響。 運:一半由時局註定，一半由自己創造。
+
+運氣 怎麼去運用自己的氣場。 多數人不懂怎樣去運氣，就讓他隨著天數運行。 氣場身上的所散發出來不可見的磁場頻率。 以道家語法，陰陽加上五行構成身上的磁場。 頂門為陽 會陰為陰加上五臟為五行構成構成7個脈輪。 此七個脈輪即為人之魄。
+
+道家或許是藏私或許是遺失造成對三魂七魄的語焉不詳。 在以前自己故意不予詳解，就是怕被神棍偷學去騙財騙色，我暫時設在低威望3，也希望看到的人看過就好不要流出。 一般坊間只有對三魂的淺解卻沒有詳解，對於七魄更是完全無解。 七魄就像彩虹一般運行在身體裡面，如果七魄取得均衡運行，則身體無恙運氣順暢，反之則諸事不順 重者病亡。 所謂的祭改 改運 祈福 收驚 除煞的基礎原理皆在於此。
+
+* * *
+
+---
+
+### 談神論鬼
+
+*發表於 2010-4-12 01:55:21*
+
+一個很難結論的題目，因為以大多數人類的肉眼並無法親眼所見。 就算是所謂陰陽眼或是天眼通，所看到的都是模糊或是帶有寓意的畫面。 因為那是一個多次元的世界，時間與空間交錯，所看到的現象不一定會顯現在　這個三度空間，也造成預言的命中率會有一些誤差，而且這個誤差值還被一個未知的力量所操控，並非一切皆能如人所願。
+
+很多修行人三緘其口不願多談畢竟那是一個在人間無法論證的世界，多談只會招來更多非議，徒惹塵埃。
+
+靈界　對我個人來說，那是一個真正存在的世界。雖然有很多的未知，但是卻沒有那麼多的神秘。
+
+人類應該以科學正確的心態去探討，並非一位的否認打壓或是迷信妄為。 不管所謂的神靈鬼魅如何？ 其實所有的一切還是人在說的，信與不信就見仁見智了…
+
+我個人是藉於其中，我明知有，也確信靈界的力量。 但是　一個正確的觀念是必須的，那就是我們活在所謂現實的人間。 一切應以人為本，而不應以神為本。 靈界信仰的力量，只能視為隨緣的輔佐工具或是精神的輔助糧食。
+
+人生　事業　愛情的成敗與否，有大半還是操縱在自己的手中，不應隨意想借助靈界的力量，而讓神棍有機可趁。 人生有一些事是強求不來的，求神也沒有用。 欠債還債　欠業還業　惡緣了緣　無緣很難變成有緣 強求得到的東西，事後還是要付出超值的代價的。
+
+神棍利用一般人對靈界的不解，崇拜　恐懼　貪心　利慾　迷惑　盲從　奕望從中得到協助等等的心態 而索取大量不當錢財，也造成很多人對正職的神職人員連帶的誤解。 就像很多算命師以改運為名，索取大量金錢。卻拖累了一群優秀的命相師。 其實　如果真能有效改運，也算是銀貨兩訖。花一點錢換取更多的利益，也算是一種生意的投資。
+
+就怕是錢花了什麼都沒有，或是危言聳聽本來沒是說成重大災厄等等情事。
+
+有時候自己處理的對象，明明沒事。我據實告知，對方還懷疑。真有點給他無奈。 難道就一定要花錢才能心安嗎？ 常常都還要花時間，跟對方剖析才能讓他了解心安。
+
+* * *
+
+---
+
+### 見山不是山
+
+*發表於 2007-11-20 01:30:22*
+
+見山是山　見水是水　　因為山就是山，水就是水，這是現時邏輯觀念，難道山水會互換嗎？
+
+當修行到一個程度之後，會發現原來世界的背後，還有他隱藏的千變萬化的道理 當你放下一切執著念之後，萬般[空相] 山它可不是山　水也可以說不是水 例如　山在億萬年前，他可能是海，海他卻可能是山 所以山裡有海　海浬有山 所以山不是山　水不是水
+
+但是當修行再進階到更進一步 了悟透測萬物生滅循環的道理 心中更進一步的放下執著 連自己是否在修行都不執著了 因為修與不修都是在修
+
+是否有山有水　是山是水　都已經不重要了 你說是山他就是山　是水他就是水 因為在他心中　山與水　都是一樣 都只是宇宙自然循環
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+我說的覺醒不是你說的那一種覺醒
+
+這一輩子你知道自己為何來做人　現下在幹什麼　就是覺醒了 如果渾渾噩噩的過一生，那就是不覺醒．
+
+* * *
+
+---
+
+### 執著與放下
 
 *發表於 2010-4-12 01:53:23* 心急與怪異其實都是自己的觀念與想法的問題。 有這種現象的妳也不是第一人啊　呵呵
 
@@ -49501,33 +49527,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/笑談生活
-
-*發表於 2010-4-12 01:55:21*
-
-一個很難結論的題目，因為以大多數人類的肉眼並無法親眼所見。 就算是所謂陰陽眼或是天眼通，所看到的都是模糊或是帶有寓意的畫面。 因為那是一個多次元的世界，時間與空間交錯，所看到的現象不一定會顯現在　這個三度空間，也造成預言的命中率會有一些誤差，而且這個誤差值還被一個未知的力量所操控，並非一切皆能如人所願。
-
-很多修行人三緘其口不願多談畢竟那是一個在人間無法論證的世界，多談只會招來更多非議，徒惹塵埃。
-
-靈界　對我個人來說，那是一個真正存在的世界。雖然有很多的未知，但是卻沒有那麼多的神秘。
-
-人類應該以科學正確的心態去探討，並非一位的否認打壓或是迷信妄為。 不管所謂的神靈鬼魅如何？ 其實所有的一切還是人在說的，信與不信就見仁見智了…
-
-我個人是藉於其中，我明知有，也確信靈界的力量。 但是　一個正確的觀念是必須的，那就是我們活在所謂現實的人間。 一切應以人為本，而不應以神為本。 靈界信仰的力量，只能視為隨緣的輔佐工具或是精神的輔助糧食。
-
-人生　事業　愛情的成敗與否，有大半還是操縱在自己的手中，不應隨意想借助靈界的力量，而讓神棍有機可趁。 人生有一些事是強求不來的，求神也沒有用。 欠債還債　欠業還業　惡緣了緣　無緣很難變成有緣 強求得到的東西，事後還是要付出超值的代價的。
-
-神棍利用一般人對靈界的不解，崇拜　恐懼　貪心　利慾　迷惑　盲從　奕望從中得到協助等等的心態 而索取大量不當錢財，也造成很多人對正職的神職人員連帶的誤解。 就像很多算命師以改運為名，索取大量金錢。卻拖累了一群優秀的命相師。 其實　如果真能有效改運，也算是銀貨兩訖。花一點錢換取更多的利益，也算是一種生意的投資。
-
-就怕是錢花了什麼都沒有，或是危言聳聽本來沒是說成重大災厄等等情事。
-
-有時候自己處理的對象，明明沒事。我據實告知，對方還懷疑。真有點給他無奈。 難道就一定要花錢才能心安嗎？ 常常都還要花時間，跟對方剖析才能讓他了解心安。
-
-* * *
-
----
-
-### 文集/靈學探微
+### 宗教
 
 *發表於 2004-02-10 00:39:23*
 
@@ -49553,7 +49553,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈學
 
 *發表於 2004-02-10 22:30:12*
   
@@ -49577,7 +49577,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 佛性
 
 *發表於 2004-02-10 22:34:58*
   
@@ -49606,7 +49606,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈學
 
 *發表於 2004-02-10 22:38:24*
   
@@ -49638,7 +49638,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2004-02-10 22:41:27*
   
@@ -49705,7 +49705,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-02-10 22:42:48*
   
@@ -49731,7 +49731,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 下符
 
 *發表於 2004-02-10 22:51:54*
   
@@ -49752,7 +49752,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2004-02-10 22:54:47*
 
@@ -49799,7 +49799,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2004-02-10 22:57:31*
 
@@ -49873,7 +49873,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 咒語
 
 *發表於 2004-02-10 22:59:11*
   
@@ -49913,7 +49913,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 科學
 
 *發表於 2004-02-10 23:00:24*
 
@@ -49944,7 +49944,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 無色無相
 
 *發表於 2004-02-10 00:39:56*
 
@@ -49967,7 +49967,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 和合術真的有效嗎？
 
 *發表於 2004-02-10 23:02:37*
 
@@ -50008,7 +50008,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2004-02-10 23:05:08*
 
@@ -50030,7 +50030,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 經咒
 
 *發表於 2004-02-10 23:08:00*
   
@@ -50070,7 +50070,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈學
 
 *發表於 2004-02-10 23:08:58*
 
@@ -50136,7 +50136,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-02-10 23:12:31*
   
@@ -50182,7 +50182,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈修
 
 *發表於 2004-02-10 23:14:21*
 
@@ -50229,7 +50229,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 宇宙
 
 *發表於 2004-02-10 23:16:11*
 
@@ -50246,7 +50246,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 佛學
 
 *發表於 2004-02-10 23:17:34*
 
@@ -50279,7 +50279,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 淺意識
 
 *發表於 2004-06-03 21:57:09*
 
@@ -50295,7 +50295,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-06-03 22:03:46*
 
@@ -50305,7 +50305,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-02-10 00:43:16*
 
@@ -50324,7 +50324,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 靈學
 
 *發表於 2004-06-09 20:56:10*
 
@@ -50385,7 +50385,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2004-06-11 19:17:17*
 
@@ -50403,7 +50403,7 @@ cmj與ada兩姊妹
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2004-06-11 21:47:51*
 
@@ -50431,7 +50431,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 談宮廟信仰迷思與求己哲學
 
 *發表於 2004-06-11 21:54:12*
 
@@ -50446,7 +50446,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2004-06-11 21:58:56*
 
@@ -50482,7 +50482,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 卡陰
 
 *發表於 2004-07-04 23:56:57*
 
@@ -50535,7 +50535,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 乩童
 
 *發表於 2004-11-09 23:25:24*
 
@@ -50572,7 +50572,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 和合術真的有效嗎？
 
 *發表於 2004-11-28 22:56:42*
 
@@ -50618,7 +50618,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 靈學
 
 *發表於 2005-02-05 01:15:24*
 
@@ -50644,7 +50644,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 本靈
 
 *發表於 2005-02-09 03:14:12*
 
@@ -50673,7 +50673,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 三魂七魄
 
 *發表於 2004-02-10 00:44:08*
   
@@ -50704,7 +50704,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2006-03-10 23:40:32*
 
@@ -50722,7 +50722,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 修行修心
 
 *發表於 2006-04-04 03:32:30*
 
@@ -50742,7 +50742,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 台灣宗教怪現象
 
 *發表於 2009-06-24 00:00:44*
 
@@ -50814,7 +50814,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 天界
 
 *發表於 2010-10-27 22:42:10*
 
@@ -50844,7 +50844,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 魂魄
 
 *發表於 2015-11-06 01:59:46*
 
@@ -50878,7 +50878,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2004-02-10 00:54:25*
   
@@ -50917,7 +50917,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 吃素
 
 *發表於 2004-02-10 22:21:14*
   
@@ -50945,7 +50945,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 談神論鬼？
 
 *發表於 2004-02-10 22:23:45*
   
@@ -50973,7 +50973,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 三魂七魄
 
 *發表於 2004-02-10 22:25:59*
 
@@ -51004,7 +51004,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 鬼壓床
 
 **[_10_#](https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=13018)**
 
@@ -51037,7 +51037,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-02-14 01:37:36*
 
@@ -51065,7 +51065,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2007-10-15 23:35:32*
   
@@ -51084,7 +51084,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-02-14 01:46:54*
 
@@ -51120,7 +51120,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-02-15 16:25:03*
 
@@ -51160,7 +51160,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2004-06-03 21:45:00*
 
@@ -51208,7 +51208,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-06-03 21:52:11*
 
@@ -51222,7 +51222,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2004-06-09 20:59:31*
 
@@ -51250,7 +51250,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 靈學
 
 *發表於 2004-06-11 19:26:34*
   
@@ -51335,7 +51335,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2005-08-19 01:36:12*
 
@@ -51348,7 +51348,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 靈學
 
 *發表於 2006-08-05 00:18:30*
   
@@ -51387,7 +51387,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2007-04-25 13:39:15*
 
@@ -51489,7 +51489,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2007-04-25 13:43:42*
 
@@ -51613,7 +51613,7 @@ https://bbs.jin999.tw/jin/forum.php?mod=redirect&goto=findpost&ptid=330&pid=1304
 
 ---
 
-### 文集/靈學探微
+### 師姐
 
 發表日期: 01/07/12 23：36
 
@@ -51878,7 +51878,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2006-10-26 23:31:57*
 
@@ -51895,7 +51895,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 啟靈
 
 *發表於 2006-11-28 01:21:45*
 
@@ -51916,7 +51916,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 啟靈
 
 *發表於 2006-11-28 22:11:59*
 
@@ -51930,7 +51930,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 潛意識
 
 *發表於 2006-12-01 00:42:57*
 
@@ -51955,7 +51955,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2006-10-28 00:40:42*
 
@@ -51981,7 +51981,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 生命
 
 *發表於 2006-10-30 15:12:46*
 
@@ -51998,7 +51998,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 個性
 
 *發表於 2006-10-30 15:29:14*
 
@@ -52015,7 +52015,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 *發表於 2006-10-31 01:13:49*
 
@@ -52037,7 +52037,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 天人合一
 
 *發表於 2006-11-02 01:20:17*
 
@@ -52061,7 +52061,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 自我覺知
 
 *發表於 2006-11-12 00:37:01*
 
@@ -52091,7 +52091,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 自我覺知
 
 *發表於 2006-11-26 00:50:09*
 
@@ -52114,7 +52114,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 天人合一
 
 *發表於 2006-11-26 01:09:59*
 
@@ -52139,7 +52139,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 超渡
 
 *發表於 2005-05-23 00:44:00*
 
@@ -52166,7 +52166,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2005-04-03 21:50:50*
 
@@ -52195,7 +52195,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-04-03 21:51:23*
 
@@ -52210,7 +52210,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 因果
 
 *發表於 2005-04-03 21:51:51*
 
@@ -52227,7 +52227,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2005-04-03 21:52:33*
 
@@ -52238,7 +52238,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2005-04-03 21:52:58*
 
@@ -52254,7 +52254,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 反省
 
 *發表於 2005-04-03 21:53:28*
 
@@ -52266,7 +52266,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 以下內容需要積分高於 3 才可瀏覽
 
@@ -52289,7 +52289,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 靈魂
 
 以下內容需要積分高於 3 才可瀏覽
 
@@ -52305,7 +52305,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 通靈
 
 *發表於 2005-04-06 21:12:29*
 
@@ -52368,7 +52368,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2004-06-25 22:58:33*
 
@@ -52407,7 +52407,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2004-06-26 00:20:05*
 
@@ -52423,7 +52423,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2004-06-26 00:27:56*
 
@@ -52433,7 +52433,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 能量
 
 *發表於 2004-06-26 00:49:35*
 
@@ -52456,7 +52456,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 靈異
 
 *發表於 2004-05-02 23:30:02*
 
@@ -52542,7 +52542,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-03-31 15:19:38*
 
@@ -52576,7 +52576,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2004-03-31 15:35:41*
 
@@ -52584,7 +52584,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2004-03-31 15:36:15*
 
@@ -52600,7 +52600,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 神通
 
 *發表於 2004-03-31 15:36:42*
 
@@ -52620,7 +52620,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 生命
 
 *發表於 2004-03-31 09:59:43*
 
@@ -52634,7 +52634,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2004-03-31 10:02:37*
 
@@ -52661,7 +52661,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 輪迴
 
 *發表於 2004-03-31 10:04:14*
 
@@ -52686,7 +52686,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 反省
 
 *發表於 2004-03-31 10:06:22*
 
@@ -52701,7 +52701,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 宗教
 
 *發表於 2004-03-31 10:07:35*
 
@@ -52730,7 +52730,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 命運
 
 *發表於 2004-03-31 10:13:09*
 
@@ -52765,7 +52765,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 修行
 
 *發表於 2004-03-31 10:18:30*
 
@@ -52804,7 +52804,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 先天語
 
 *發表於 2004-03-26 19:10:12*
 
@@ -52851,7 +52851,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 先天語
 
 *發表於 2004-03-26 19:11:46*
 
@@ -52874,7 +52874,7 @@ UFO:來鬧場的一律不理.等教會akira他們之後我還有別的事要忙�
 
 ---
 
-### 文集/靈學探微
+### 宮廟
 
 *發表於 2004-02-14 01:15:35*
 
