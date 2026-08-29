@@ -6,7 +6,7 @@ import { enNotes, zhTWNotes, zhCNNotes, jaNotes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  logo: '/bamboo-dialogue-mark.svg',
   appearance: true,  // 配置 深色模式
   blog: {
     sort: 'asc', // 将 'desc' 改为 'asc' 以反转排序顺序
@@ -40,7 +40,7 @@ export default defineThemeConfig({
   locales: {
     '/': {
       profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        avatar: '/bamboo-dialogue-mark.svg',
         name: '靜竹林',
         description: '網站創辦人',
         location: '台灣',
@@ -61,7 +61,7 @@ export default defineThemeConfig({
       * @see https://theme-plume.vuejs.press/config/basic/#profile
       */
       profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        avatar: '/bamboo-dialogue-mark.svg',
         name: 'jin999',
         description: 'jin999',
       },
@@ -84,7 +84,7 @@ export default defineThemeConfig({
     },
     '/cn/': {
       profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        avatar: '/bamboo-dialogue-mark.svg',
         name: 'jin999',
         description: 'jin999',
       },
@@ -97,7 +97,7 @@ export default defineThemeConfig({
     },
     '/ja/': {
       profile: {
-        avatar: 'https://theme-plume.vuejs.press/plume.png',
+        avatar: '/bamboo-dialogue-mark.svg',
         name: 'jin999',
         description: 'jin999',
       },

@@ -8,6 +8,9 @@ const __dirname = getDirname(import.meta.url)
 export default defineUserConfig({
   base: '/',
   lang: 'zh-TW',
+  head: [
+    ['link', { rel: 'icon', href: '/bamboo-dialogue-mark.svg', type: 'image/svg+xml' }],
+  ],
   locales: {
     '/': {
       title: '靜竹林心靈網站',
@@ -205,4 +208,3 @@ export default defineUserConfig({
   //   '@theme/Blog/VPPostList.vue': path.resolve(__dirname, './theme/components/MyPostList.vue'),
   // },
 })
-
